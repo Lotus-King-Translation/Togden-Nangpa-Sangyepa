@@ -269,3 +269,30 @@ A paired-text release must pin:
 Release validation must prove exact pair symmetry and exact source coverage.
 
 Once tagged, the pair IDs in that release are immutable.
+
+## Nangpa-Sangyepa provisional-source exception (2026-10-01)
+
+The user explicitly waived the golden-edition phase. This project therefore uses
+`source-status: provisional` and `source:` in source pair markers instead of the
+`golden:` field. Neither the transcript nor its source-object IDs claim golden
+status. The source edition is `ns-provisional-source-v1`; its immutable input
+commit and SHA-256 values are recorded in the source register and manifest.
+
+`source/entries.json` preserves the exact display-decoded 258 legacy entries.
+`source/segmentation.json` is the authored segmentation contract, with each pair's
+source-object ID, original entry number, character offsets, format, and role.
+Character ranges cover each entry once, in order; boundary spaces are recorded
+as `separator_after`. A split entry uses suffixes `a`, `b`, etc. on its stable
+`NS-000001`-style pair ID. This prevents a pair from crossing an explicit heading
+or prose/verse boundary. No Tibetan character or punctuation is emended.
+
+The canonical pair bodies are Markdown. A source heading uses its declared
+heading level; heading syntax is display only. `<!-- end-pairs -->` terminates
+the pair sequence before footnote definitions. Translation markers carry only
+pair identity; format is inherited from the source. The validator checks exact
+source reconstruction, note linkage, source version, archived input hashes,
+unchanged glossary and standard, complete 258-entry coverage, and the colophon.
+
+This is an annotated LLM working draft for human editing, not a golden-source
+publication or final human-approved translation. A version tag, if issued,
+freezes that provisional scope only. Independent QC is a separate later task.

@@ -1,0 +1,19 @@
+{
+  "legacy_commit": "c0a66002a0d51183ac5856ca6dbe4d03ab808d9d",
+  "entries": 258,
+  "matched_root_lines": 258,
+  "mismatches": 0,
+  "tokenizer_ascii_spaces_removed": 3435,
+  "artificial_affix_markers_removed": 382,
+  "source_spaces_restored": 107,
+  "source_textual_emendations": 0,
+  "unicode_normalization": false,
+  "line_edge_whitespace": "strip per legacy generator; original bytes preserved",
+  "input_sha256": {
+    "root/001.txt": "e4fbc38aad658b35eacf1ecafd1bf568947e6f2dfce55f0edde11f1d4039e2cb",
+    "root/001_v2.txt": "e4fbc38aad658b35eacf1ecafd1bf568947e6f2dfce55f0edde11f1d4039e2cb",
+    "wip/bo/001.po": "2746024c6cd9005db1c11286ceca1c64f7890277853df1aa8c2330e6aa983309",
+    "wip/en/001.po": "c2926accd73052bbb23c5b3f8c4774ab682cc8ee56ec8db3c10740eaeb195753",
+    "scripts/sentences_to_transifex.py": "1942eb5446ff73bfaf326cc478205daec970a8d9ff3ccd862f79d6e95f5f583e"
+  }
+}

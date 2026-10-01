@@ -1,0 +1,40 @@
+{
+  "schema": "paired-text/2",
+  "text_id": "Nangpa-Sangyepa",
+  "source_edition": "ns-provisional-source-v1",
+  "source_status": "provisional",
+  "translation_edition": "ns-english-draft-v1",
+  "legacy_commit": "c0a66002a0d51183ac5856ca6dbe4d03ab808d9d",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "entry_count": 258,
+  "pair_count": 280,
+  "format_counts": {
+    "h1": 1,
+    "h2": 4,
+    "h3": 21,
+    "prose": 183,
+    "verse": 71
+  },
+  "note_count": 144,
+  "entries_with_notes": 121,
+  "independent_qc": false,
+  "full_scan_proofreading": false,
+  "exhaustive_collation": false,
+  "canonical_sha256": {
+    "paired/source.md": "157bae5d455453cb6daeb18244531aefdd774bc743f26f9829ae9b9a118ace3f",
+    "paired/translation.md": "3262a608cb24fbddb342527149c828dd1d01d74791f033f296783b1e6a59e698",
+    "translations/notes.json": "442d317369a54e2c525be94eb8b2e2e7134d6ab050623cdaf12a5d609350644e",
+    "translations/usage.json": "1d236fe0f89ae75967238d1a192aca4d110497be9177bb7f056b48e8a6c67835"
+  },
+  "fixed_input_sha256": {
+    "root/001.txt": "e4fbc38aad658b35eacf1ecafd1bf568947e6f2dfce55f0edde11f1d4039e2cb",
+    "root/001_v2.txt": "e4fbc38aad658b35eacf1ecafd1bf568947e6f2dfce55f0edde11f1d4039e2cb",
+    "wip/bo/001.po": "2746024c6cd9005db1c11286ceca1c64f7890277853df1aa8c2330e6aa983309",
+    "wip/en/001.po": "c2926accd73052bbb23c5b3f8c4774ab682cc8ee56ec8db3c10740eaeb195753",
+    "scripts/sentences_to_transifex.py": "1942eb5446ff73bfaf326cc478205daec970a8d9ff3ccd862f79d6e95f5f583e",
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "source/entries.json": "bd3c9c57fc5d010d7c9391204d9cbd195e0bb482b0308e90a837ee42f1a273ca",
+    "source/segmentation.json": "eaf41d751507b945a40b8c8cc893cb57590d06f43be70b1441b6a4f131338f10"
+  }
+}

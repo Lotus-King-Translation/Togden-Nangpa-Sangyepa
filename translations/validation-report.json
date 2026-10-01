@@ -1,0 +1,32 @@
+{
+  "entries": 258,
+  "pairs": 280,
+  "formats": {
+    "h1": 1,
+    "h2": 4,
+    "h3": 21,
+    "prose": 183,
+    "verse": 71
+  },
+  "notes": 144,
+  "colophon": "retained",
+  "source_edition": "ns-provisional-source-v1",
+  "translation_edition": "ns-english-draft-v1",
+  "negative_tests_rejected": [
+    "missing source format",
+    "unsupported format",
+    "wrong source edition",
+    "empty English",
+    "duplicate pair",
+    "source mutation",
+    "unknown source object",
+    "missing translation pair",
+    "duplicate format metadata",
+    "translation format metadata",
+    "missing source tail",
+    "source overlap",
+    "missing note definition",
+    "changed English",
+    "lost mixed format boundary"
+  ]
+}

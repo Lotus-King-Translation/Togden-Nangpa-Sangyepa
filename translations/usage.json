@@ -1,0 +1,2900 @@
+[
+  {
+    "tibetan": "ནང་པ་སངས་རྒྱས་པ་",
+    "english": "Buddhists",
+    "category": "Proposed",
+    "reason": "N-001",
+    "entry_index": 1,
+    "source_entry": "L00001",
+    "legacy_context": "37d15dbe1b4e4440a1df191c2ec820f3"
+  },
+  {
+    "tibetan": "མཆོག་གསུམ་",
+    "english": "three supreme ones",
+    "category": "Proposed",
+    "reason": "N-002",
+    "entry_index": 2,
+    "source_entry": "L00002",
+    "legacy_context": "d40549348530483880756974c7067ddf"
+  },
+  {
+    "tibetan": "རྩ་གསུམ་",
+    "english": "three roots",
+    "category": "Proposed",
+    "reason": "N-003",
+    "entry_index": 3,
+    "source_entry": "L00003",
+    "legacy_context": "9fa7fd55077349a1bcd1561db2e5e4d6"
+  },
+  {
+    "tibetan": "དོན་གྱི་སྐྱབས་འགྲོ་",
+    "english": "going for refuge in its meaning",
+    "category": "Proposed",
+    "reason": "N-004; pending construction",
+    "entry_index": 4,
+    "source_entry": "L00004",
+    "legacy_context": "33a43b9aa04548a1addc634c034a03bb"
+  },
+  {
+    "tibetan": "སྐུ་",
+    "english": "embodiment / embodiments",
+    "category": "Grammatical",
+    "reason": "Canonical assignment retained in number and compound",
+    "entry_index": 4,
+    "source_entry": "L00004",
+    "legacy_context": "33a43b9aa04548a1addc634c034a03bb"
+  },
+  {
+    "tibetan": "བླ་མའི",
+    "english": "guru",
+    "category": "Proposed",
+    "reason": "N-005; new standalone assignment, including inflected occurrences",
+    "entry_index": 5,
+    "source_entry": "L00005",
+    "legacy_context": "a040c4ec64374a83bbdcfb189f0501a4"
+  },
+  {
+    "tibetan": "དོན་བཞི་",
+    "english": "four topics",
+    "category": "Proposed",
+    "reason": "N-006b; expository classification",
+    "entry_index": 6,
+    "source_entry": "L00006",
+    "legacy_context": "abd9131021754e90900a582ffcc3de7e"
+  },
+  {
+    "tibetan": "ཆོས་",
+    "english": "Dharma",
+    "category": "Proposed",
+    "reason": "N-007; teaching/practice context; N-021 covers wholesome modifier where present",
+    "entry_index": 7,
+    "source_entry": "L00007",
+    "legacy_context": "addb4377847642feb1b6dab0c8aa30a3"
+  },
+  {
+    "tibetan": "དོན་དང་པོ།",
+    "english": "the first topic",
+    "category": "Proposed",
+    "reason": "N-006b; expository classification",
+    "entry_index": 7,
+    "source_entry": "L00007",
+    "legacy_context": "addb4377847642feb1b6dab0c8aa30a3"
+  },
+  {
+    "tibetan": "དང་བའི་དད་པ",
+    "english": "lucid faith",
+    "category": "Proposed",
+    "reason": "N-009; proposed whole expression",
+    "entry_index": 9,
+    "source_entry": "L00009",
+    "legacy_context": "98419b078c0044a990c8af32dc3775e4"
+  },
+  {
+    "tibetan": "འདོད་པའི་དད་པ",
+    "english": "aspiring faith",
+    "category": "Proposed",
+    "reason": "N-009; proposed whole expression",
+    "entry_index": 9,
+    "source_entry": "L00009",
+    "legacy_context": "98419b078c0044a990c8af32dc3775e4"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 9,
+    "source_entry": "L00009",
+    "legacy_context": "98419b078c0044a990c8af32dc3775e4"
+  },
+  {
+    "tibetan": "བླ་མ་",
+    "english": "guru",
+    "category": "Proposed",
+    "reason": "N-005; new standalone assignment, including inflected occurrences",
+    "entry_index": 10,
+    "source_entry": "L00010",
+    "legacy_context": "93ca0e14e313413aa2928e14902c0e28"
+  },
+  {
+    "tibetan": "དང་བའི་དད་པ་",
+    "english": "lucid faith",
+    "category": "Proposed",
+    "reason": "N-009; proposed whole expression",
+    "entry_index": 10,
+    "source_entry": "L00010",
+    "legacy_context": "93ca0e14e313413aa2928e14902c0e28"
+  },
+  {
+    "tibetan": "སྐུ་གསུང་ཐུགས་རྟེན་",
+    "english": "supports of embodiment, speech, and awakened mind",
+    "category": "Proposed",
+    "reason": "N-010",
+    "entry_index": 10,
+    "source_entry": "L00010",
+    "legacy_context": "93ca0e14e313413aa2928e14902c0e28"
+  },
+  {
+    "tibetan": "སྐུ་",
+    "english": "embodiment / embodiments",
+    "category": "Grammatical",
+    "reason": "Canonical assignment retained in number and compound",
+    "entry_index": 10,
+    "source_entry": "L00010",
+    "legacy_context": "93ca0e14e313413aa2928e14902c0e28"
+  },
+  {
+    "tibetan": "དང་བའི་དད་པ་",
+    "english": "lucid faith",
+    "category": "Proposed",
+    "reason": "N-009; proposed whole expression",
+    "entry_index": 11,
+    "source_entry": "L00011",
+    "legacy_context": "0d842c2a2ccf447c8da0994745024dbc"
+  },
+  {
+    "tibetan": "རྣམ་ཐར་",
+    "english": "accounts of liberation",
+    "category": "Proposed",
+    "reason": "N-011",
+    "entry_index": 11,
+    "source_entry": "L00011",
+    "legacy_context": "0d842c2a2ccf447c8da0994745024dbc"
+  },
+  {
+    "tibetan": "འདོད་པའི་དད་པ་",
+    "english": "aspiring faith",
+    "category": "Proposed",
+    "reason": "N-009; proposed whole expression",
+    "entry_index": 12,
+    "source_entry": "L00012",
+    "legacy_context": "8861f9913eb24a8887e15e7846d2c332"
+  },
+  {
+    "tibetan": "འཁོར་བ་",
+    "english": "samsara",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 12,
+    "source_entry": "L00012",
+    "legacy_context": "8861f9913eb24a8887e15e7846d2c332"
+  },
+  {
+    "tibetan": "ངན་སོང་",
+    "english": "lower rebirths",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 12,
+    "source_entry": "L00012",
+    "legacy_context": "8861f9913eb24a8887e15e7846d2c332"
+  },
+  {
+    "tibetan": "མཐོ་རིས་",
+    "english": "higher realms",
+    "category": "Proposed",
+    "reason": "N-012–N-013; proposed counterpart to lower rebirths",
+    "entry_index": 13,
+    "source_entry": "L00013",
+    "legacy_context": "91fbd82894e94f809507a1e87c26e77f"
+  },
+  {
+    "tibetan": "ཐར་པའི",
+    "english": "liberation",
+    "category": "Proposed",
+    "reason": "New technical assignment; not an established compound in the current glossary",
+    "entry_index": 13,
+    "source_entry": "L00013",
+    "legacy_context": "91fbd82894e94f809507a1e87c26e77f"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4"
+  },
+  {
+    "tibetan": "རྣམ་པ་གསུམ་",
+    "english": "Three",
+    "category": "Proposed",
+    "reason": "N-015; scoped whole-expression counting construction",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 16,
+    "source_entry": "L00016",
+    "legacy_context": "b16ddaeb5a054ff69ede0e6d94398bb8"
+  },
+  {
+    "tibetan": "བློ་གཏད་",
+    "english": "direct my conceptual mind",
+    "category": "Proposed",
+    "reason": "N-016",
+    "entry_index": 16,
+    "source_entry": "L00016",
+    "legacy_context": "b16ddaeb5a054ff69ede0e6d94398bb8"
+  },
+  {
+    "tibetan": "ཡིད་་་ཁྱེད་ཤེས་",
+    "english": "the mental faculty’s faith that says, “You know”",
+    "category": "Proposed",
+    "reason": "N-018",
+    "entry_index": 18,
+    "source_entry": "L00018",
+    "legacy_context": "d3d3b636f2e040d48041f9bbfed015d7"
+  },
+  {
+    "tibetan": "ཆོས་དཀར་པོའི་",
+    "english": "wholesome Dharma",
+    "category": "Proposed",
+    "reason": "N-021",
+    "entry_index": 21,
+    "source_entry": "L00021",
+    "legacy_context": "7ea98397255e4ed58e8639c13bff5bb5"
+  },
+  {
+    "tibetan": "ཆོས་",
+    "english": "Dharma",
+    "category": "Proposed",
+    "reason": "N-007; teaching/practice context; N-021 covers wholesome modifier where present",
+    "entry_index": 21,
+    "source_entry": "L00021",
+    "legacy_context": "7ea98397255e4ed58e8639c13bff5bb5"
+  },
+  {
+    "tibetan": "དཀར་པོའི་ཆོས་",
+    "english": "wholesome Dharma",
+    "category": "Proposed",
+    "reason": "N-021",
+    "entry_index": 24,
+    "source_entry": "L00024",
+    "legacy_context": "2e9a6242e9614853962382f6e4dc790b"
+  },
+  {
+    "tibetan": "ཆོས་",
+    "english": "Dharma",
+    "category": "Proposed",
+    "reason": "N-007; teaching/practice context; N-021 covers wholesome modifier where present",
+    "entry_index": 24,
+    "source_entry": "L00024",
+    "legacy_context": "2e9a6242e9614853962382f6e4dc790b"
+  },
+  {
+    "tibetan": "འཕགས་པའི་ནོར་བདུན་",
+    "english": "seven riches of noble ones",
+    "category": "Proposed",
+    "reason": "N-028",
+    "entry_index": 28,
+    "source_entry": "L00028",
+    "legacy_context": "fc34d78183804d6096121cee1ac813d4"
+  },
+  {
+    "tibetan": "ཐར་པའི",
+    "english": "liberation",
+    "category": "Proposed",
+    "reason": "New technical assignment; not an established compound in the current glossary",
+    "entry_index": 29,
+    "source_entry": "L00029",
+    "legacy_context": "a6c2c3bd2bdb4e3eaecefbe3097f4eb6"
+  },
+  {
+    "tibetan": "ཆོས་",
+    "english": "Dharma",
+    "category": "Proposed",
+    "reason": "N-007; teaching/practice context; N-021 covers wholesome modifier where present",
+    "entry_index": 29,
+    "source_entry": "L00029",
+    "legacy_context": "a6c2c3bd2bdb4e3eaecefbe3097f4eb6"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 31,
+    "source_entry": "L00031",
+    "legacy_context": "ffb1bf64b5474fa3b2b7458f36644bcc"
+  },
+  {
+    "tibetan": "བླ་མ་",
+    "english": "guru",
+    "category": "Proposed",
+    "reason": "N-005; new standalone assignment, including inflected occurrences",
+    "entry_index": 32,
+    "source_entry": "L00032",
+    "legacy_context": "09f1d9c8f81a4faf9bd00a57e63e8017"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 32,
+    "source_entry": "L00032",
+    "legacy_context": "09f1d9c8f81a4faf9bd00a57e63e8017"
+  },
+  {
+    "tibetan": "ཐུགས་",
+    "english": "compassionate responsiveness",
+    "category": "Proposed",
+    "reason": "N-033; provisional interpretation of suspected omission",
+    "entry_index": 33,
+    "source_entry": "L00033",
+    "legacy_context": "250aeacd6a784debaa4d94824ea523d2"
+  },
+  {
+    "tibetan": "བཅོམ་ལྡན་འདས་",
+    "english": "Blessed One",
+    "category": "Proposed",
+    "reason": "N-034b; proposed epithet",
+    "entry_index": 34,
+    "source_entry": "L00034",
+    "legacy_context": "ee34a4baa16f45bc87d9d18fafcfa461"
+  },
+  {
+    "tibetan": "ཡི་དྭགས་",
+    "english": "hungry ghost",
+    "category": "Proposed",
+    "reason": "N-034b; proposed designation",
+    "entry_index": 34,
+    "source_entry": "L00034",
+    "legacy_context": "ee34a4baa16f45bc87d9d18fafcfa461"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 35,
+    "source_entry": "L00035",
+    "legacy_context": "c5d6d09e859c4f208e8acd1cee8537d3"
+  },
+  {
+    "tibetan": "སྙིང་རྗེ་",
+    "english": "compassion",
+    "category": "Proposed",
+    "reason": "N-035b",
+    "entry_index": 35,
+    "source_entry": "L00035",
+    "legacy_context": "c5d6d09e859c4f208e8acd1cee8537d3"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 36,
+    "source_entry": "L00036",
+    "legacy_context": "bd75441e2612490aae6d24467ac63165"
+  },
+  {
+    "tibetan": "མོས་པ་",
+    "english": "devotion",
+    "category": "Proposed",
+    "reason": "N-038",
+    "entry_index": 38,
+    "source_entry": "L00038",
+    "legacy_context": "0f238159a301452f86a3040672bef2ec"
+  },
+  {
+    "tibetan": "ཡིད་བྱེད་པ",
+    "english": "attends with the mental faculty",
+    "category": "Proposed",
+    "reason": "N-038",
+    "entry_index": 38,
+    "source_entry": "L00038",
+    "legacy_context": "0f238159a301452f86a3040672bef2ec"
+  },
+  {
+    "tibetan": "དབང་བསྐུར་",
+    "english": "grant empowerment",
+    "category": "Proposed",
+    "reason": "N-040",
+    "entry_index": 40,
+    "source_entry": "L00040",
+    "legacy_context": "cef765319e0841debed505138a357be7"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 46,
+    "source_entry": "L00046",
+    "legacy_context": "4599654d9f9f4986b85cbb474aefe5b2"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 46,
+    "source_entry": "L00046",
+    "legacy_context": "4599654d9f9f4986b85cbb474aefe5b2"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 47,
+    "source_entry": "L00047",
+    "legacy_context": "3566e6049f2d4496b69637a708f5a2ac"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 51,
+    "source_entry": "L00051",
+    "legacy_context": "2e4c99797286449f91130df6cdd23c6b"
+  },
+  {
+    "tibetan": "བཅོམ་ལྡན་འདས་",
+    "english": "Blessed One",
+    "category": "Proposed",
+    "reason": "N-034b; proposed epithet",
+    "entry_index": 62,
+    "source_entry": "L00062",
+    "legacy_context": "b273c8b959964bcbb16129636b319b86"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 63,
+    "source_entry": "L00063",
+    "legacy_context": "aa2cb4fd633d4a269db6f4d7594fc3ae"
+  },
+  {
+    "tibetan": "རིང་བསྲེལ་",
+    "english": "relics",
+    "category": "Proposed",
+    "reason": "N-063",
+    "entry_index": 63,
+    "source_entry": "L00063",
+    "legacy_context": "aa2cb4fd633d4a269db6f4d7594fc3ae"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 65,
+    "source_entry": "L00065",
+    "legacy_context": "c9ed991106c349d4b7066e1b214de91b"
+  },
+  {
+    "tibetan": "དོན་དམ་པའི",
+    "english": "ultimate / ultimate truth",
+    "category": "Proposed",
+    "reason": "N-066; proposed whole expression",
+    "entry_index": 66,
+    "source_entry": "L00066",
+    "legacy_context": "43761322d14d40f990f6b2d8cbf1e21a"
+  },
+  {
+    "tibetan": "རྟོགས་པ་",
+    "english": "realize / realization",
+    "category": "Grammatical",
+    "reason": "Source grammatical function; lexical commitment retained",
+    "entry_index": 66,
+    "source_entry": "L00066",
+    "legacy_context": "43761322d14d40f990f6b2d8cbf1e21a"
+  },
+  {
+    "tibetan": "དོན་དམ་པ་",
+    "english": "ultimate / ultimate truth",
+    "category": "Proposed",
+    "reason": "N-066; proposed whole expression",
+    "entry_index": 68,
+    "source_entry": "L00068",
+    "legacy_context": "579b41d98369439d98d43e29686c0819"
+  },
+  {
+    "tibetan": "རྟོགས་པར",
+    "english": "realize / realization",
+    "category": "Grammatical",
+    "reason": "Source grammatical function; lexical commitment retained",
+    "entry_index": 68,
+    "source_entry": "L00068",
+    "legacy_context": "579b41d98369439d98d43e29686c0819"
+  },
+  {
+    "tibetan": "བླ་མ་",
+    "english": "guru",
+    "category": "Proposed",
+    "reason": "N-005; new standalone assignment, including inflected occurrences",
+    "entry_index": 69,
+    "source_entry": "L00069",
+    "legacy_context": "c93bd80ab1074aef827feae394e65eaf"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 69,
+    "source_entry": "L00069",
+    "legacy_context": "c93bd80ab1074aef827feae394e65eaf"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 69,
+    "source_entry": "L00069",
+    "legacy_context": "c93bd80ab1074aef827feae394e65eaf"
+  },
+  {
+    "tibetan": "རྟོགས་པ་",
+    "english": "realize / realization",
+    "category": "Grammatical",
+    "reason": "Source grammatical function; lexical commitment retained",
+    "entry_index": 69,
+    "source_entry": "L00069",
+    "legacy_context": "c93bd80ab1074aef827feae394e65eaf"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས་",
+    "english": "trust / trusting faith",
+    "category": "Proposed",
+    "reason": "N-009 and N-016; complete compound, not standalone mental faculty",
+    "entry_index": 70,
+    "source_entry": "L00070",
+    "legacy_context": "b59461d10faa4c97936810f2af10eb3c"
+  },
+  {
+    "tibetan": "རྟོགས་པ་",
+    "english": "realize / realization",
+    "category": "Grammatical",
+    "reason": "Source grammatical function; lexical commitment retained",
+    "entry_index": 70,
+    "source_entry": "L00070",
+    "legacy_context": "b59461d10faa4c97936810f2af10eb3c"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 73,
+    "source_entry": "L00073",
+    "legacy_context": "6b86a20c64814caaa0fd6167d3c733ab"
+  },
+  {
+    "tibetan": "ཡིད་ཁྱེད་ཤེས་ཀྱི་བློ་",
+    "english": "conceptual mind ... mental faculty saying, “You know”",
+    "category": "Proposed",
+    "reason": "N-074",
+    "entry_index": 74,
+    "source_entry": "L00074",
+    "legacy_context": "5855ec718bc94483b5770018b7318057"
+  },
+  {
+    "tibetan": "ཡི་དྭགས་",
+    "english": "hungry ghost",
+    "category": "Proposed",
+    "reason": "N-034b; proposed designation",
+    "entry_index": 76,
+    "source_entry": "L00076",
+    "legacy_context": "a80b5e51a5184c87878ccab18024efe2"
+  },
+  {
+    "tibetan": "ངན་སོང་",
+    "english": "lower rebirths",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332"
+  },
+  {
+    "tibetan": "མཐོ་རིས་",
+    "english": "higher realms",
+    "category": "Proposed",
+    "reason": "N-012–N-013; proposed counterpart to lower rebirths",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332"
+  },
+  {
+    "tibetan": "སྐྱེས་བུ་ཆུང་ངུའི་",
+    "english": "of a person of lesser capacity",
+    "category": "Proposed",
+    "reason": "N-077",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332"
+  },
+  {
+    "tibetan": "དོན་དུ་གཉེར་",
+    "english": "seek",
+    "category": "Proposed",
+    "reason": "N-077b; proposed whole-expression realization",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332"
+  },
+  {
+    "tibetan": "འཁོར་བའི",
+    "english": "samsara",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 78,
+    "source_entry": "L00078",
+    "legacy_context": "b5eb0b865a084aa8b420e0c09ca49a2d"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9"
+  },
+  {
+    "tibetan": "འཁོར་བའི",
+    "english": "samsara",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9"
+  },
+  {
+    "tibetan": "སྐྱེས་བུ་འབྲིང་གི་",
+    "english": "of a person of middling capacity",
+    "category": "Proposed",
+    "reason": "N-077",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9"
+  },
+  {
+    "tibetan": "ཞི་བ་མྱང་འདས་",
+    "english": "peaceful state of nirvana",
+    "category": "Proposed",
+    "reason": "N-079",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9"
+  },
+  {
+    "tibetan": "དོན་དུ་གཉེར་",
+    "english": "seek",
+    "category": "Proposed",
+    "reason": "N-077b; proposed whole-expression realization",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9"
+  },
+  {
+    "tibetan": "འཁོར་བ་",
+    "english": "samsara",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 80,
+    "source_entry": "L00080",
+    "legacy_context": "3f8173ef486649a0a724a5e0fd717ecf"
+  },
+  {
+    "tibetan": "སེམས་ཅན་",
+    "english": "sentient beings",
+    "category": "Proposed",
+    "reason": "N-080; proposed whole expression",
+    "entry_index": 80,
+    "source_entry": "L00080",
+    "legacy_context": "3f8173ef486649a0a724a5e0fd717ecf"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 81,
+    "source_entry": "L00081",
+    "legacy_context": "24d2d6595831491594616eb015892ede"
+  },
+  {
+    "tibetan": "རྣམ་མཁྱེན་",
+    "english": "omniscient",
+    "category": "Proposed",
+    "reason": "Proposed technical realization, complete term outside glossary",
+    "entry_index": 81,
+    "source_entry": "L00081",
+    "legacy_context": "24d2d6595831491594616eb015892ede"
+  },
+  {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོའི་",
+    "english": "of a person of great capacity",
+    "category": "Proposed",
+    "reason": "N-077",
+    "entry_index": 81,
+    "source_entry": "L00081",
+    "legacy_context": "24d2d6595831491594616eb015892ede"
+  },
+  {
+    "tibetan": "སེམས་ཅན་",
+    "english": "sentient beings",
+    "category": "Proposed",
+    "reason": "N-080; proposed whole expression",
+    "entry_index": 82,
+    "source_entry": "L00082",
+    "legacy_context": "b8301c3e878a45b2aeb611a1afe9ced2"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 82,
+    "source_entry": "L00082",
+    "legacy_context": "b8301c3e878a45b2aeb611a1afe9ced2"
+  },
+  {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོའི་",
+    "english": "of a person of great capacity",
+    "category": "Proposed",
+    "reason": "N-077",
+    "entry_index": 82,
+    "source_entry": "L00082",
+    "legacy_context": "b8301c3e878a45b2aeb611a1afe9ced2"
+  },
+  {
+    "tibetan": "ངན་སོང་",
+    "english": "lower rebirths",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 83,
+    "source_entry": "L00083",
+    "legacy_context": "27eeba9f83c54e3197ef4d2b3293e004"
+  },
+  {
+    "tibetan": "མཐོ་རིས་",
+    "english": "higher realms",
+    "category": "Proposed",
+    "reason": "N-012–N-013; proposed counterpart to lower rebirths",
+    "entry_index": 83,
+    "source_entry": "L00083",
+    "legacy_context": "27eeba9f83c54e3197ef4d2b3293e004"
+  },
+  {
+    "tibetan": "དོན་དུ་",
+    "english": "in actuality",
+    "category": "Proposed",
+    "reason": "N-083",
+    "entry_index": 83,
+    "source_entry": "L00083",
+    "legacy_context": "27eeba9f83c54e3197ef4d2b3293e004"
+  },
+  {
+    "tibetan": "མཐོ་རིས་",
+    "english": "higher realms",
+    "category": "Proposed",
+    "reason": "N-012–N-013; proposed counterpart to lower rebirths",
+    "entry_index": 84,
+    "source_entry": "L00084",
+    "legacy_context": "be810badf75d40aa8a7ac84df123184a"
+  },
+  {
+    "tibetan": "དོན་དུ་གཉེར་",
+    "english": "seek",
+    "category": "Proposed",
+    "reason": "N-077b; proposed whole-expression realization",
+    "entry_index": 84,
+    "source_entry": "L00084",
+    "legacy_context": "be810badf75d40aa8a7ac84df123184a"
+  },
+  {
+    "tibetan": "འཁོར་བ་",
+    "english": "samsara",
+    "category": "Proposed",
+    "reason": "N-012; new technical assignment",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "སེམས་ཅན་",
+    "english": "sentient beings",
+    "category": "Proposed",
+    "reason": "N-080; proposed whole expression",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "ཉན་ཐོས་",
+    "english": "śrāvaka",
+    "category": "Proposed",
+    "reason": "N-085; proposed whole expression",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "རང་སངས་རྒྱས་",
+    "english": "pratyekabuddha",
+    "category": "Proposed",
+    "reason": "N-085; proposed whole expression",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "མྱ་ངན་ལས་འདས་པ་",
+    "english": "nirvana",
+    "category": "Proposed",
+    "reason": "N-079; full form of proposed technical expression",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "དོན་མ་བྱས་པར་",
+    "english": "fail to act for their sake",
+    "category": "Proposed",
+    "reason": "N-085b; contextual use",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་",
+    "english": "Three Jewels",
+    "category": "Proposed",
+    "reason": "N-015; complete threefold refuge designation, explicit or contextually shortened",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73"
+  },
+  {
+    "tibetan": "སེམས་ཅན་",
+    "english": "sentient beings",
+    "category": "Proposed",
+    "reason": "N-080; proposed whole expression",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73"
+  },
+  {
+    "tibetan": "བསོད་ནམས་",
+    "english": "merit",
+    "category": "Proposed",
+    "reason": "N-086; new technical assignment",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73"
+  },
+  {
+    "tibetan": "སངས་རྒྱས་",
+    "english": "Buddha / buddhahood",
+    "category": "Proposed",
+    "reason": "N-047; proposed whole expression; exclude internal component of pratyekabuddha",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73"
+  },
+  {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོའི་",
+    "english": "of a person of great capacity",
+    "category": "Proposed",
+    "reason": "N-077",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "reason": "Whole expression; proposal coordinated across the work, not a change to ordinary mind.",
+    "entry_index": 88,
+    "source_entry": "L00088",
+    "legacy_context": "d0274887f7a54c389a53aee4fc41793d"
+  },
+  {
+    "tibetan": "མཚན་གཞི",
+    "english": "instances",
+    "category": "Provisional",
+    "reason": "Proposed whole expression; see N-093.",
+    "entry_index": 92,
+    "source_entry": "L00092",
+    "legacy_context": "b7bee5912250423aaa226b3ebf4e338b"
+  },
+  {
+    "tibetan": "མཚན་ཉིད",
+    "english": "defining characteristics",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent; N-097.",
+    "entry_index": 92,
+    "source_entry": "L00092",
+    "legacy_context": "b7bee5912250423aaa226b3ebf4e338b"
+  },
+  {
+    "tibetan": "སྨོན་སེམས",
+    "english": "aspirational bodhicitta",
+    "category": "Provisional",
+    "reason": "Proposed complete technical expression; N-132.",
+    "entry_index": 92,
+    "source_entry": "L00092",
+    "legacy_context": "b7bee5912250423aaa226b3ebf4e338b"
+  },
+  {
+    "tibetan": "འབྲས་སྐྱབས",
+    "english": "resultant refuge",
+    "category": "Provisional",
+    "reason": "Abbreviated proposed compound; N-120.",
+    "entry_index": 92,
+    "source_entry": "L00092",
+    "legacy_context": "b7bee5912250423aaa226b3ebf4e338b"
+  },
+  {
+    "tibetan": "མཚན་གཞི",
+    "english": "instances",
+    "category": "Provisional",
+    "reason": "Proposed whole expression; see N-093.",
+    "entry_index": 93,
+    "source_entry": "L00093",
+    "legacy_context": "e3d5e521f23e46328c3517656065d329"
+  },
+  {
+    "tibetan": "སྤང་རྟོག",
+    "english": "abandonment and realization",
+    "category": "Provisional",
+    "reason": "Provisional reading of a suspected defect; N-094. Canonical རྟོག = conceptualizing remains unchanged.",
+    "entry_index": 94,
+    "source_entry": "L00094",
+    "legacy_context": "435bc4ca969b49e3934fd52fc5428004"
+  },
+  {
+    "tibetan": "རང་གཞན་གྱི་དོན་གཉིས",
+    "english": "the two aims: one’s own and others’",
+    "category": "Provisional",
+    "reason": "Contextual དོན use proposed in N-094a.",
+    "entry_index": 94,
+    "source_entry": "L00094",
+    "legacy_context": "435bc4ca969b49e3934fd52fc5428004"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 94,
+    "source_entry": "L00094",
+    "legacy_context": "435bc4ca969b49e3934fd52fc5428004"
+  },
+  {
+    "tibetan": "དམ་ཆོས",
+    "english": "sublime Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 95,
+    "source_entry": "L00095",
+    "legacy_context": "7a0514daf7494d9db2c10dd4c394e45a"
+  },
+  {
+    "tibetan": "རིག་གྲོལ",
+    "english": "awareness and liberation",
+    "category": "Provisional",
+    "reason": "Compound proposal; N-096.",
+    "entry_index": 96,
+    "source_entry": "L00096",
+    "legacy_context": "60c5e43dbef644bcb4484cfbcfe010ab"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག་གསུམ",
+    "english": "Three Jewels",
+    "category": "Provisional",
+    "reason": "Proposed threefold refuge term, coordinated across the work.",
+    "entry_index": 96,
+    "source_entry": "L00096",
+    "legacy_context": "60c5e43dbef644bcb4484cfbcfe010ab"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 96,
+    "source_entry": "L00096",
+    "legacy_context": "60c5e43dbef644bcb4484cfbcfe010ab"
+  },
+  {
+    "tibetan": "མཚན་ཉིད",
+    "english": "defining characteristics",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent; N-097.",
+    "entry_index": 97,
+    "source_entry": "L00097",
+    "legacy_context": "d6bacecdbce94293bb4893fdb0674418"
+  },
+  {
+    "tibetan": "མཚན་ཉིད",
+    "english": "defining characteristics",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent; N-097.",
+    "entry_index": 98,
+    "source_entry": "L00098",
+    "legacy_context": "d4bf82d80f6f421a910c14f1b791f40b"
+  },
+  {
+    "tibetan": "དོན་གཉིས",
+    "english": "two aims",
+    "category": "Provisional",
+    "reason": "Proposed contextual use; N-094a.",
+    "entry_index": 98,
+    "source_entry": "L00098",
+    "legacy_context": "d4bf82d80f6f421a910c14f1b791f40b"
+  },
+  {
+    "tibetan": "དག་པ་གཉིས",
+    "english": "two purities",
+    "category": "Provisional",
+    "reason": "Technical pair absent from glossary; retained literally, with scope left open in N-098.",
+    "entry_index": 98,
+    "source_entry": "L00098",
+    "legacy_context": "d4bf82d80f6f421a910c14f1b791f40b"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 98,
+    "source_entry": "L00098",
+    "legacy_context": "d4bf82d80f6f421a910c14f1b791f40b"
+  },
+  {
+    "tibetan": "ལྷུན་གྱི་གྲུབ",
+    "english": "spontaneously present",
+    "category": "Grammatical",
+    "reason": "Grammatical full-form realization of established ལྷུན་གྲུབ “spontaneous presence.”",
+    "entry_index": 100,
+    "source_entry": "L00100",
+    "legacy_context": "3eaa2db9fcfa4f44ace6b53e414cc3e9"
+  },
+  {
+    "tibetan": "མཁྱེན",
+    "english": "knowledge",
+    "category": "Provisional",
+    "reason": "Proposed component of the threefold Buddha-quality set; N-102.",
+    "entry_index": 102,
+    "source_entry": "L00102",
+    "legacy_context": "10a0a1aa9e0e4e80b808ec8231e809b0"
+  },
+  {
+    "tibetan": "བརྩེ",
+    "english": "love",
+    "category": "Provisional",
+    "reason": "Proposed component of the threefold Buddha-quality set; N-102.",
+    "entry_index": 102,
+    "source_entry": "L00102",
+    "legacy_context": "10a0a1aa9e0e4e80b808ec8231e809b0"
+  },
+  {
+    "tibetan": "ནུས་པ",
+    "english": "power",
+    "category": "Provisional",
+    "reason": "Proposed component of the threefold Buddha-quality set; N-102.",
+    "entry_index": 102,
+    "source_entry": "L00102",
+    "legacy_context": "10a0a1aa9e0e4e80b808ec8231e809b0"
+  },
+  {
+    "tibetan": "དོན་གཉིས",
+    "english": "two aims",
+    "category": "Provisional",
+    "reason": "Proposed contextual use; N-094a.",
+    "entry_index": 103,
+    "source_entry": "L00103",
+    "legacy_context": "4363403cf8194d7aa8cf6f69e7aee20e"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 103,
+    "source_entry": "L00103",
+    "legacy_context": "4363403cf8194d7aa8cf6f69e7aee20e"
+  },
+  {
+    "tibetan": "མཚན་ཉིད",
+    "english": "defining characteristics",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent; N-097.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "འགོག་པ",
+    "english": "cessation",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; N-105. Preserve established realization.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "ཟག་མེད",
+    "english": "uncontaminated",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; N-105. Preserve established realization.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "རྣམ་བྱང",
+    "english": "complete purification",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; N-105. Preserve established realization.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "ལུང་རྟོགས",
+    "english": "scriptural transmission and realization",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; N-105. Preserve established realization.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660"
+  },
+  {
+    "tibetan": "མཚན་ཉིད",
+    "english": "defining characteristics",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent; N-097.",
+    "entry_index": 109,
+    "source_entry": "L00109",
+    "legacy_context": "d0bda9d9ce59471b86b8392d6bfcb7da"
+  },
+  {
+    "tibetan": "བྱང་སེམས",
+    "english": "bodhisattvas",
+    "category": "Provisional",
+    "reason": "Proposed person-denoting whole expression; N-111.",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1"
+  },
+  {
+    "tibetan": "རིག་གྲོལ",
+    "english": "awareness and liberation",
+    "category": "Provisional",
+    "reason": "Proposed compound; N-096.",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1"
+  },
+  {
+    "tibetan": "ས་ཆེན་པོ",
+    "english": "great stages",
+    "category": "Provisional",
+    "reason": "Provisional technical “stages”; not glossary གཞི “The Ground.”",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1"
+  },
+  {
+    "tibetan": "བློ་ལྡན",
+    "english": "those endowed with conceptual mind",
+    "category": "Provisional",
+    "reason": "Component-preserving provisional whole-expression treatment; N-114.",
+    "entry_index": 114,
+    "source_entry": "L00114",
+    "legacy_context": "cd0cdf700694410b88dbc54bffd5a3b9"
+  },
+  {
+    "tibetan": "སྐྱབས་གནས",
+    "english": "sources of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound distinct from the action going for refuge.",
+    "entry_index": 118,
+    "source_entry": "L00118",
+    "legacy_context": "b4d50094248241cfb05d36e4123b9782"
+  },
+  {
+    "tibetan": "སྐྱབས་གནས",
+    "english": "sources of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound distinct from the action going for refuge.",
+    "entry_index": 119,
+    "source_entry": "L00119",
+    "legacy_context": "c34345b19398459184a3b8bd225ca980"
+  },
+  {
+    "tibetan": "འབྲས་བུ་སྐྱབས",
+    "english": "resultant refuge",
+    "category": "Provisional",
+    "reason": "Proposed whole expression, preserving established result family; N-120.",
+    "entry_index": 120,
+    "source_entry": "L00120",
+    "legacy_context": "4bda067eec89456695250904c9a8620e"
+  },
+  {
+    "tibetan": "དགྲ་བཅོམ",
+    "english": "arhat",
+    "category": "Provisional",
+    "reason": "Proposed technical term; N-120.",
+    "entry_index": 120,
+    "source_entry": "L00120",
+    "legacy_context": "4bda067eec89456695250904c9a8620e"
+  },
+  {
+    "tibetan": "ཉན་ཐོས",
+    "english": "śrāvaka",
+    "category": "Provisional",
+    "reason": "Proposed technical designation.",
+    "entry_index": 120,
+    "source_entry": "L00120",
+    "legacy_context": "4bda067eec89456695250904c9a8620e"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 121,
+    "source_entry": "L00121",
+    "legacy_context": "0182030c1fc44b8fb7246a5d917f8094"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 121,
+    "source_entry": "L00121",
+    "legacy_context": "0182030c1fc44b8fb7246a5d917f8094"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 121,
+    "source_entry": "L00121",
+    "legacy_context": "0182030c1fc44b8fb7246a5d917f8094"
+  },
+  {
+    "tibetan": "རྟེན་འབྲེལ་བཅུ་གཉིས",
+    "english": "twelve links of dependent arising",
+    "category": "Provisional",
+    "reason": "Proposed technical compound absent from glossary; N-122.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8"
+  },
+  {
+    "tibetan": "རྟེན་འབྲེལ",
+    "english": "dependent arising",
+    "category": "Provisional",
+    "reason": "Proposed technical term, linked to N-122.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8"
+  },
+  {
+    "tibetan": "རང་རྒྱལ",
+    "english": "pratyekabuddha",
+    "category": "Provisional",
+    "reason": "Proposed technical designation.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8"
+  },
+  {
+    "tibetan": "རྟེན་འབྲེལ་གྱི་ཆོས་རྣམས",
+    "english": "phenomena of dependent arising",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8"
+  },
+  {
+    "tibetan": "ཆོས་དཀོན་མཆོག",
+    "english": "Jewel of the Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8"
+  },
+  {
+    "tibetan": "སྐྱབས་སུ་འཛིན",
+    "english": "regard as",
+    "category": "Provisional",
+    "reason": "Proposed X-as-Y verbal construction; N-124, with N-131 for its local syntax.",
+    "entry_index": 123,
+    "source_entry": "L00123",
+    "legacy_context": "0af6ae59af5f4800913c020499af6687"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 123,
+    "source_entry": "L00123",
+    "legacy_context": "0af6ae59af5f4800913c020499af6687"
+  },
+  {
+    "tibetan": "ཐེག་ཆེན",
+    "english": "greater vehicle",
+    "category": "Provisional",
+    "reason": "Proposed designation, retaining the source comparative pairing.",
+    "entry_index": 123,
+    "source_entry": "L00123",
+    "legacy_context": "0af6ae59af5f4800913c020499af6687"
+  },
+  {
+    "tibetan": "གྲོགས་སུ་འཛིན་པ",
+    "english": "regard as",
+    "category": "Provisional",
+    "reason": "Proposed X-as-Y verbal construction; N-124, with N-131 for its local syntax.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "རྒྱུའི་སྐྱབས",
+    "english": "causal refuge",
+    "category": "Provisional",
+    "reason": "Proposed counterpart to resultant refuge; no glossary entry; N-120.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "སྐྱབས་གནས",
+    "english": "sources of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound distinct from the action going for refuge.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d"
+  },
+  {
+    "tibetan": "ཐེག་དམན",
+    "english": "lesser vehicle",
+    "category": "Provisional",
+    "reason": "Proposed designation, retaining the source comparative pairing.",
+    "entry_index": 125,
+    "source_entry": "L00125",
+    "legacy_context": "97c725ce361645c09d4981cbab2f1c4d"
+  },
+  {
+    "tibetan": "སྙིང་པོ་བྱང་ཆུབ",
+    "english": "heart of awakening",
+    "category": "Provisional",
+    "reason": "Proposed whole expression; N-126.",
+    "entry_index": 126,
+    "source_entry": "L00126",
+    "legacy_context": "4dc7a34e33d04a139e31895c008025f2"
+  },
+  {
+    "tibetan": "བྱང་ཆུབ",
+    "english": "awakening",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent coordinated across the work.",
+    "entry_index": 126,
+    "source_entry": "L00126",
+    "legacy_context": "4dc7a34e33d04a139e31895c008025f2"
+  },
+  {
+    "tibetan": "ཐེག་ཆེན",
+    "english": "greater vehicle",
+    "category": "Provisional",
+    "reason": "Proposed designation, retaining the source comparative pairing.",
+    "entry_index": 126,
+    "source_entry": "L00126",
+    "legacy_context": "4dc7a34e33d04a139e31895c008025f2"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "reason": "Whole expression; proposal coordinated across the work, not a change to ordinary mind.",
+    "entry_index": 127,
+    "source_entry": "L00127",
+    "legacy_context": "8c5310fca7fa4ff799ab2fe011733c73"
+  },
+  {
+    "tibetan": "ཉན་རང",
+    "english": "śrāvakas and pratyekabuddhas",
+    "category": "Provisional",
+    "reason": "Proposed abbreviated pair of technical designations.",
+    "entry_index": 127,
+    "source_entry": "L00127",
+    "legacy_context": "8c5310fca7fa4ff799ab2fe011733c73"
+  },
+  {
+    "tibetan": "སྙིང་རྗེ",
+    "english": "compassion",
+    "category": "Provisional",
+    "reason": "Proposed gap; distinct from established compassionate responsiveness.",
+    "entry_index": 127,
+    "source_entry": "L00127",
+    "legacy_context": "8c5310fca7fa4ff799ab2fe011733c73"
+  },
+  {
+    "tibetan": "ཐེག་ཆེན",
+    "english": "greater vehicle",
+    "category": "Provisional",
+    "reason": "Proposed designation, retaining the source comparative pairing.",
+    "entry_index": 127,
+    "source_entry": "L00127",
+    "legacy_context": "8c5310fca7fa4ff799ab2fe011733c73"
+  },
+  {
+    "tibetan": "ཉན་ཐོས",
+    "english": "śrāvaka",
+    "category": "Provisional",
+    "reason": "Proposed technical designation.",
+    "entry_index": 128,
+    "source_entry": "L00128",
+    "legacy_context": "df32b937679041a3baacc32932476cf3"
+  },
+  {
+    "tibetan": "ཐེག་ཆེན",
+    "english": "greater vehicle",
+    "category": "Provisional",
+    "reason": "Proposed designation, retaining the source comparative pairing.",
+    "entry_index": 128,
+    "source_entry": "L00128",
+    "legacy_context": "df32b937679041a3baacc32932476cf3"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 130,
+    "source_entry": "L00130",
+    "legacy_context": "55090c861f92410b868fd0dadda04c73"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 130,
+    "source_entry": "L00130",
+    "legacy_context": "55090c861f92410b868fd0dadda04c73"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 130,
+    "source_entry": "L00130",
+    "legacy_context": "55090c861f92410b868fd0dadda04c73"
+  },
+  {
+    "tibetan": "གཞན་འཛིན་པ",
+    "english": "take as",
+    "category": "Provisional",
+    "reason": "Proposed X-as-Y verbal construction; N-124, with N-131 for its local syntax.",
+    "entry_index": 131,
+    "source_entry": "L00131",
+    "legacy_context": "2fea2d5b2b36403e9f10be82ced60621"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 131,
+    "source_entry": "L00131",
+    "legacy_context": "2fea2d5b2b36403e9f10be82ced60621"
+  },
+  {
+    "tibetan": "སྨོན་པ་སེམས་བསྐྱེད",
+    "english": "generating aspirational bodhicitta",
+    "category": "Provisional",
+    "reason": "Proposed complete technical expression; N-132.",
+    "entry_index": 132,
+    "source_entry": "L00132",
+    "legacy_context": "c2551c647a4b4183a0903a345183bb89"
+  },
+  {
+    "tibetan": "འབྲས་སྐྱབས",
+    "english": "resultant refuge",
+    "category": "Provisional",
+    "reason": "Abbreviated proposed compound; N-120.",
+    "entry_index": 132,
+    "source_entry": "L00132",
+    "legacy_context": "c2551c647a4b4183a0903a345183bb89"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "reason": "Whole expression; proposal coordinated across the work, not a change to ordinary mind.",
+    "entry_index": 132,
+    "source_entry": "L00132",
+    "legacy_context": "c2551c647a4b4183a0903a345183bb89"
+  },
+  {
+    "tibetan": "བྱང་ཆུབ",
+    "english": "awakening",
+    "category": "Provisional",
+    "reason": "Proposed technical equivalent coordinated across the work.",
+    "entry_index": 132,
+    "source_entry": "L00132",
+    "legacy_context": "c2551c647a4b4183a0903a345183bb89"
+  },
+  {
+    "tibetan": "སྨོན་པ་སེམས་བསྐྱེད",
+    "english": "generating aspirational bodhicitta",
+    "category": "Provisional",
+    "reason": "Proposed complete technical expression; N-132.",
+    "entry_index": 133,
+    "source_entry": "L00133",
+    "legacy_context": "4c75bb7e38764a4a85635bfb51ffa329"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 135,
+    "source_entry": "L00135",
+    "legacy_context": "943bd30185f84788aac85a03ffe4bf7a"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared properties",
+    "category": "Provisional",
+    "reason": "Proposed contextual whole expression; N-137.",
+    "entry_index": 137,
+    "source_entry": "L00137",
+    "legacy_context": "64ec27d76f8b4d29b672e7ed5a0c4d0d"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 144,
+    "source_entry": "L00144",
+    "legacy_context": "edfbe25d4272482cbefea8dcf590a70c"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "reason": "Whole expression; proposal coordinated across the work, not a change to ordinary mind.",
+    "entry_index": 144,
+    "source_entry": "L00144",
+    "legacy_context": "edfbe25d4272482cbefea8dcf590a70c"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 145,
+    "source_entry": "L00145",
+    "legacy_context": "7dc0e3f1dbee471bb6cba1a65f2704ab"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 146,
+    "source_entry": "L00146",
+    "legacy_context": "8c56a859da8f42ad96e70dca53836240"
+  },
+  {
+    "tibetan": "མངོན་པར་ཤེས་པ་དྲུག",
+    "english": "six kinds of higher knowing",
+    "category": "Provisional",
+    "reason": "Proposed compound; N-146.",
+    "entry_index": 146,
+    "source_entry": "L00146",
+    "legacy_context": "8c56a859da8f42ad96e70dca53836240"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 147,
+    "source_entry": "L00147",
+    "legacy_context": "8d0fb21c4b044ab697c32bba9b13a514"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 148,
+    "source_entry": "L00148",
+    "legacy_context": "729cccd23a4d4561bc71732c1d753a63"
+  },
+  {
+    "tibetan": "ཆོས་མཐུན",
+    "english": "shared property",
+    "category": "Provisional",
+    "reason": "Repeated contextual construction; N-137.",
+    "entry_index": 149,
+    "source_entry": "L00149",
+    "legacy_context": "64d297fef76849cc908f1882452d07c7"
+  },
+  {
+    "tibetan": "བྱང་སེམས",
+    "english": "bodhisattvas",
+    "category": "Provisional",
+    "reason": "Proposed person-denoting compound; N-111.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "བག་ལ་ཉལ་བ",
+    "english": "latent dispositions",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; N-150a; distinct from habitual tendencies.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Proposed technical refuge expression coordinated across the work.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "ཉན་རང",
+    "english": "śrāvakas and pratyekabuddhas",
+    "category": "Provisional",
+    "reason": "Proposed abbreviated pair of technical designations.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "སྐྱབས་གནས",
+    "english": "sources of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound distinct from the action going for refuge.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "སྐྱབས་ཡུལ",
+    "english": "objects of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound for objects of going for refuge.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "ལུང་གི་ཆོས་རྣམས",
+    "english": "Dharma of scriptural transmission",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "རྟོགས་པའི་ཆོས་རྣམས",
+    "english": "Dharma of realization",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497"
+  },
+  {
+    "tibetan": "ཆོས་རྣམས་གཉིས",
+    "english": "two kinds of Dharma",
+    "category": "Provisional",
+    "reason": "Proposed occurrence-specific Dharma/phenomenon usage; glossary has no standalone row.",
+    "entry_index": 154,
+    "source_entry": "L00154",
+    "legacy_context": "6bf62cec91f2416eaf04c59bfb3638f1"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha",
+    "category": "Provisional",
+    "reason": "Proposed whole technical expression coordinated across the work.",
+    "entry_index": 157,
+    "source_entry": "L00157",
+    "legacy_context": "d6fc1d223fb4458980b3beee96bf5964"
+  },
+  {
+    "tibetan": "དྲན་ཤེས",
+    "english": "mindfulness and alertness",
+    "category": "Provisional",
+    "reason": "Proposed compact technical pair; N-159a.",
+    "entry_index": 159,
+    "source_entry": "L00159",
+    "legacy_context": "400f256f27a442bcb07ad11d6b8fbf26"
+  },
+  {
+    "tibetan": "སྐྱབས་གནས",
+    "english": "sources of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound distinct from the action going for refuge.",
+    "entry_index": 159,
+    "source_entry": "L00159",
+    "legacy_context": "400f256f27a442bcb07ad11d6b8fbf26"
+  },
+  {
+    "tibetan": "ཁྱེད་ཤེས",
+    "english": "You know",
+    "category": "Provisional",
+    "reason": "Provisional supplicatory idiom; N-167; not a technical use of standalone knowing.",
+    "entry_index": 167,
+    "source_entry": "L00167",
+    "legacy_context": "fc30d3ddc6584c48b4c691176897c1ff"
+  },
+  {
+    "tibetan": "སྐྱབས་ཡུལ",
+    "english": "objects of refuge",
+    "category": "Provisional",
+    "reason": "Proposed compound for objects of going for refuge.",
+    "entry_index": 167,
+    "source_entry": "L00167",
+    "legacy_context": "fc30d3ddc6584c48b4c691176897c1ff"
+  },
+  {
+    "tibetan": "ཅི་མཛད་ཁྱེད་ཤེས",
+    "english": "Whatever you do, you know",
+    "category": "Provisional",
+    "reason": "Provisional supplicatory idiom; N-169.",
+    "entry_index": 169,
+    "source_entry": "L00169",
+    "legacy_context": "760f11f1db8f47ee8becf4fea682ca2d"
+  },
+  {
+    "tibetan": "མོས་པ",
+    "english": "devotion",
+    "category": "Provisional",
+    "reason": "Proposed standalone devotional use, distinct from established མོས་གུས confident devotion; N-169.",
+    "entry_index": 169,
+    "source_entry": "L00169",
+    "legacy_context": "760f11f1db8f47ee8becf4fea682ca2d"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "reason": "Whole expression; proposal coordinated across the work, not a change to ordinary mind.",
+    "entry_index": 170,
+    "source_entry": "L00170",
+    "legacy_context": "8bea1c19b0374aa9bc31adba516ebfa7"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 177,
+    "source_entry": "L00177",
+    "legacy_context": "382f2834dd33483fad757b166b2d14b3"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 177,
+    "source_entry": "L00177",
+    "legacy_context": "382f2834dd33483fad757b166b2d14b3"
+  },
+  {
+    "tibetan": "རྣལ་འབྱོར",
+    "english": "yogin",
+    "category": "Provisional",
+    "reason": "Person reading is provisional in entry 178; Guru Yoga is a distinct established whole expression.",
+    "entry_index": 178,
+    "source_entry": "L00178",
+    "legacy_context": "e62e5e945a164089a7119407679836cd"
+  },
+  {
+    "tibetan": "བཅོས་མ་",
+    "english": "contrived",
+    "category": "Provisional",
+    "reason": "Proposed family-consistent realization; see N-179.",
+    "entry_index": 179,
+    "source_entry": "L00179",
+    "legacy_context": "dda94c122b064f5ba521bc8a76c3252f"
+  },
+  {
+    "tibetan": "མུ་སྟེགས",
+    "english": "tīrthika",
+    "category": "Provisional",
+    "reason": "Transliteration for the named religious category; no claim about every non-Buddhist is added.",
+    "entry_index": 181,
+    "source_entry": "L00181",
+    "legacy_context": "935238279130474e979ec93d8fd130ac"
+  },
+  {
+    "tibetan": "ཐར་པ",
+    "english": "liberation",
+    "category": "Provisional",
+    "reason": "Unlisted term, distinct from established self-liberation/primordial liberation.",
+    "entry_index": 183,
+    "source_entry": "L00183",
+    "legacy_context": "3908531c187c4cf295775348aa4b3172"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 187,
+    "source_entry": "L00187",
+    "legacy_context": "64ba1dc0bce84f46a8a5c69dd73fadd9"
+  },
+  {
+    "tibetan": "སྒྲིབ་པ",
+    "english": "obscuration",
+    "category": "Provisional",
+    "reason": "Unlisted technical category; not conflated with an established stain expression.",
+    "entry_index": 189,
+    "source_entry": "L00189",
+    "legacy_context": "d902acb34ae64f92aa95876bb9c796f3"
+  },
+  {
+    "tibetan": "སྒྲིབ་པ",
+    "english": "obscuration",
+    "category": "Provisional",
+    "reason": "Unlisted technical category; not conflated with an established stain expression.",
+    "entry_index": 190,
+    "source_entry": "L00190",
+    "legacy_context": "9cacaef570d64c96b461a1b461951a44"
+  },
+  {
+    "tibetan": "སྒྲིབ་པ",
+    "english": "obscuration",
+    "category": "Provisional",
+    "reason": "Unlisted technical category; not conflated with an established stain expression.",
+    "entry_index": 191,
+    "source_entry": "L00191",
+    "legacy_context": "4c863fbacc5b4c3881072d8b4363eb0f"
+  },
+  {
+    "tibetan": "སྒྲིབ་པ",
+    "english": "obscuration",
+    "category": "Provisional",
+    "reason": "Unlisted technical category; not conflated with an established stain expression.",
+    "entry_index": 192,
+    "source_entry": "L00192",
+    "legacy_context": "279f6fa91cce4dc4a5dcd970ff4ab1a4"
+  },
+  {
+    "tibetan": "ཉོན་མོངས་པ",
+    "english": "affliction",
+    "category": "Provisional",
+    "reason": "Unlisted technical category.",
+    "entry_index": 192,
+    "source_entry": "L00192",
+    "legacy_context": "279f6fa91cce4dc4a5dcd970ff4ab1a4"
+  },
+  {
+    "tibetan": "དུག་ལྔ",
+    "english": "five poisons",
+    "category": "Provisional",
+    "reason": "Source names the group; no unexpressed members supplied.",
+    "entry_index": 192,
+    "source_entry": "L00192",
+    "legacy_context": "279f6fa91cce4dc4a5dcd970ff4ab1a4"
+  },
+  {
+    "tibetan": "ཐུགས་",
+    "english": "awakened mind",
+    "category": "Provisional",
+    "reason": "Honorific member of the fivefold list; see N-193.",
+    "entry_index": 193,
+    "source_entry": "L00193",
+    "legacy_context": "a150db4969e544e4b8a5ff901b1edb4f"
+  },
+  {
+    "tibetan": "ཕྲིན་ལས་",
+    "english": "enlightened activity",
+    "category": "Provisional",
+    "reason": "Unlisted expression in the fivefold list; see N-193.",
+    "entry_index": 193,
+    "source_entry": "L00193",
+    "legacy_context": "a150db4969e544e4b8a5ff901b1edb4f"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 195,
+    "source_entry": "L00195",
+    "legacy_context": "f5c8f19056304539b34a8134fc0ca235"
+  },
+  {
+    "tibetan": "འཁོར་བ",
+    "english": "samsara",
+    "category": "Provisional",
+    "reason": "Unlisted technical category.",
+    "entry_index": 195,
+    "source_entry": "L00195",
+    "legacy_context": "f5c8f19056304539b34a8134fc0ca235"
+  },
+  {
+    "tibetan": "མུ་སྟེགས",
+    "english": "tīrthika",
+    "category": "Provisional",
+    "reason": "Transliteration for the named religious category; no claim about every non-Buddhist is added.",
+    "entry_index": 196,
+    "source_entry": "L00196",
+    "legacy_context": "5dfe7f14b3ad4c97aab860a1b0f8748c"
+  },
+  {
+    "tibetan": "འཁོར་བ",
+    "english": "samsara",
+    "category": "Provisional",
+    "reason": "Unlisted technical category.",
+    "entry_index": 196,
+    "source_entry": "L00196",
+    "legacy_context": "5dfe7f14b3ad4c97aab860a1b0f8748c"
+  },
+  {
+    "tibetan": "ཡུལ་ལྷ",
+    "english": "local deity",
+    "category": "Provisional",
+    "reason": "Unlisted local class named among worldly refuges.",
+    "entry_index": 197,
+    "source_entry": "L00197",
+    "legacy_context": "de8b344010f34106b461cf7ba6bdbc1c"
+  },
+  {
+    "tibetan": "གཞི་བདག",
+    "english": "lord of a site",
+    "category": "Provisional",
+    "reason": "Proposed whole expression, not the standalone metaphysical The Ground assignment.",
+    "entry_index": 197,
+    "source_entry": "L00197",
+    "legacy_context": "de8b344010f34106b461cf7ba6bdbc1c"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 198,
+    "source_entry": "L00198",
+    "legacy_context": "a945cf7518504989b9af1bab6b82edeb"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient being",
+    "category": "Provisional",
+    "reason": "Proposed lexicalized whole expression, not a mechanical expansion of ordinary mind.",
+    "entry_index": 198,
+    "source_entry": "L00198",
+    "legacy_context": "a945cf7518504989b9af1bab6b82edeb"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient being",
+    "category": "Provisional",
+    "reason": "Proposed lexicalized whole expression, not a mechanical expansion of ordinary mind.",
+    "entry_index": 199,
+    "source_entry": "L00199",
+    "legacy_context": "61fcc8e158534ef687ed1048fb51e6f3"
+  },
+  {
+    "tibetan": "མུ་སྟེགས",
+    "english": "tīrthika",
+    "category": "Provisional",
+    "reason": "Transliteration for the named religious category; no claim about every non-Buddhist is added.",
+    "entry_index": 200,
+    "source_entry": "L00200",
+    "legacy_context": "8091ee91b2794f0b82a680d0704ebe14"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 200,
+    "source_entry": "L00200",
+    "legacy_context": "8091ee91b2794f0b82a680d0704ebe14"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4"
+  },
+  {
+    "tibetan": "མུ་སྟེགས",
+    "english": "tīrthika",
+    "category": "Provisional",
+    "reason": "Transliteration for the named religious category; no claim about every non-Buddhist is added.",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4"
+  },
+  {
+    "tibetan": "གསང་སྔགས",
+    "english": "Secret Mantra",
+    "category": "Provisional",
+    "reason": "Unlisted vehicle/tradition expression.",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 203,
+    "source_entry": "L00203",
+    "legacy_context": "1f99bdb231d944c5be7b1f96e1d1bef5"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 203,
+    "source_entry": "L00203",
+    "legacy_context": "1f99bdb231d944c5be7b1f96e1d1bef5"
+  },
+  {
+    "tibetan": "ངག་སྣང",
+    "english": "pure appearance",
+    "category": "Provisional",
+    "reason": "Provisional reading as dag snang on entry 208 evidence; see N-205.",
+    "entry_index": 205,
+    "source_entry": "L00205",
+    "legacy_context": "6e9cd94b851a481a89c2c80170ce20e3"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 205,
+    "source_entry": "L00205",
+    "legacy_context": "6e9cd94b851a481a89c2c80170ce20e3"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 205,
+    "source_entry": "L00205",
+    "legacy_context": "6e9cd94b851a481a89c2c80170ce20e3"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 206,
+    "source_entry": "L00206",
+    "legacy_context": "789281cc576d4bd3969b3f98ea226795"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 207,
+    "source_entry": "L00207",
+    "legacy_context": "43506ba53a87423194e4ef5660305231"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 207,
+    "source_entry": "L00207",
+    "legacy_context": "43506ba53a87423194e4ef5660305231"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 207,
+    "source_entry": "L00207",
+    "legacy_context": "43506ba53a87423194e4ef5660305231"
+  },
+  {
+    "tibetan": "དག་སྣང",
+    "english": "pure appearance",
+    "category": "Provisional",
+    "reason": "Proposed whole-expression rendering preserving appearance; see N-208.",
+    "entry_index": 208,
+    "source_entry": "L00208",
+    "legacy_context": "42c5eaf4f52640a78f4f443056c309a3"
+  },
+  {
+    "tibetan": "བློ་གཏད་ཁྱེད་ཤེས",
+    "english": "entrusting your conceptual mind with “You know”",
+    "category": "Provisional",
+    "reason": "Proposed construction retaining conceptual mind; see N-209.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "ཐུགས་",
+    "english": "awakened mind",
+    "category": "Provisional",
+    "reason": "Honorific member of embodiment/speech/mind; see N-193 and N-209.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "གསང་སྔགས",
+    "english": "Secret Mantra",
+    "category": "Provisional",
+    "reason": "Unlisted vehicle/tradition expression.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "རྡོ་རྗེ་ཐེག་པ",
+    "english": "Vajra Vehicle",
+    "category": "Provisional",
+    "reason": "Unlisted whole expression.",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 210,
+    "source_entry": "L00210",
+    "legacy_context": "60bc0896383045e2a7c3cd43f2aa6bf8"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 211,
+    "source_entry": "L00211",
+    "legacy_context": "054e40d0e34b43a0a6283b1bd64b4a43"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 212,
+    "source_entry": "L00212",
+    "legacy_context": "a91b6e5c58cb4e348ee334688eea2a78"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 213,
+    "source_entry": "L00213",
+    "legacy_context": "3d6492a48fd34204ac7070329e004f03"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393"
+  },
+  {
+    "tibetan": "དཔའ་བོ",
+    "english": "hero",
+    "category": "Provisional",
+    "reason": "Unlisted ritual class in the refuge invocation.",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393"
+  },
+  {
+    "tibetan": "མཁའ་འགྲོ",
+    "english": "ḍākinī",
+    "category": "Provisional",
+    "reason": "Unlisted ritual class, transliterated.",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393"
+  },
+  {
+    "tibetan": "ཆོས་སྐྱོང",
+    "english": "Dharma protector",
+    "category": "Provisional",
+    "reason": "Unlisted ritual class in the invocation.",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393"
+  },
+  {
+    "tibetan": "སྲུང་མ",
+    "english": "guardian",
+    "category": "Provisional",
+    "reason": "Kept distinct from Dharma protector in the coordinated list.",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 215,
+    "source_entry": "L00215",
+    "legacy_context": "11008c7a90774721966a31d0c20686ca"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 215,
+    "source_entry": "L00215",
+    "legacy_context": "11008c7a90774721966a31d0c20686ca"
+  },
+  {
+    "tibetan": "བྱང་ཆུབ",
+    "english": "awakening",
+    "category": "Provisional",
+    "reason": "Unlisted technical term, not conflated with realization or attainment.",
+    "entry_index": 216,
+    "source_entry": "L00216",
+    "legacy_context": "8f0c9c1574c243e393a2ade72f2c92ad"
+  },
+  {
+    "tibetan": "བསོད་ནམས",
+    "english": "merit",
+    "category": "Provisional",
+    "reason": "Unlisted technical category.",
+    "entry_index": 217,
+    "source_entry": "L00217",
+    "legacy_context": "55f11454aaa0499992775010400bc958"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 218,
+    "source_entry": "L00218",
+    "legacy_context": "17d5b074a37941179d393960038735ae"
+  },
+  {
+    "tibetan": "ཡི་དམ་དུ་བྱ",
+    "english": "make your regular commitment",
+    "category": "Provisional",
+    "reason": "Proposed vow/regular-observance sense from the instruction’s grammar; see N-219.",
+    "entry_index": 219,
+    "source_entry": "L00219",
+    "legacy_context": "a116dcb976d840f79018a6a0e170b361"
+  },
+  {
+    "tibetan": "ཆ་མཐུན་",
+    "english": "corresponding",
+    "category": "Provisional",
+    "reason": "Proposed relation among guru, instruction, companions and the Three Jewels; see N-220.",
+    "entry_index": 220,
+    "source_entry": "L00220",
+    "legacy_context": "5c7482af660f4c0caa258f086eed148d"
+  },
+  {
+    "tibetan": "བླང་དོར",
+    "english": "accept and reject",
+    "category": "Provisional",
+    "reason": "Proposed local compound rendering. The established spang blang is rejecting and accepting; the source here has the opposite order and different reject form.",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6"
+  },
+  {
+    "tibetan": "དགེ་བའི་བཤེས་གཉེན",
+    "english": "spiritual friend",
+    "category": "Provisional",
+    "reason": "Unlisted complete title for the guru in context.",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6"
+  },
+  {
+    "tibetan": "དགེ་བ",
+    "english": "virtue",
+    "category": "Provisional",
+    "reason": "Unlisted recurring ethical category; not applied to the full spiritual-friend title.",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 222,
+    "source_entry": "L00222",
+    "legacy_context": "11a65712a0854985bab59a344a26d981"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 222,
+    "source_entry": "L00222",
+    "legacy_context": "11a65712a0854985bab59a344a26d981"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 222,
+    "source_entry": "L00222",
+    "legacy_context": "11a65712a0854985bab59a344a26d981"
+  },
+  {
+    "tibetan": "ཚངས་པར་མཚུངས་པར་སྤྱོད་པ",
+    "english": "share activity in the pure life",
+    "category": "Provisional",
+    "reason": "Proposed construction preserving activity; see N-223.",
+    "entry_index": 223,
+    "source_entry": "L00223",
+    "legacy_context": "1f836e5302a74c7ca7ec5dea4139f715"
+  },
+  {
+    "tibetan": "བླ་མ",
+    "english": "guru",
+    "category": "Provisional",
+    "reason": "Retained source title; not a replacement for Guru Yoga.",
+    "entry_index": 223,
+    "source_entry": "L00223",
+    "legacy_context": "1f836e5302a74c7ca7ec5dea4139f715"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 223,
+    "source_entry": "L00223",
+    "legacy_context": "1f836e5302a74c7ca7ec5dea4139f715"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 223,
+    "source_entry": "L00223",
+    "legacy_context": "1f836e5302a74c7ca7ec5dea4139f715"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 224,
+    "source_entry": "L00224",
+    "legacy_context": "47b4c44a9de849f584a77568089a93dc"
+  },
+  {
+    "tibetan": "ཉམས་སུ་བླང",
+    "english": "put into practice",
+    "category": "Provisional",
+    "reason": "Proposed whole-expression construction; see N-225.",
+    "entry_index": 225,
+    "source_entry": "L00225",
+    "legacy_context": "35b5ee20a8dc4596a6c2a2d292f3bc46"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 225,
+    "source_entry": "L00225",
+    "legacy_context": "35b5ee20a8dc4596a6c2a2d292f3bc46"
+  },
+  {
+    "tibetan": "ཐར་པ",
+    "english": "liberation",
+    "category": "Provisional",
+    "reason": "Unlisted term, distinct from established self-liberation/primordial liberation.",
+    "entry_index": 225,
+    "source_entry": "L00225",
+    "legacy_context": "35b5ee20a8dc4596a6c2a2d292f3bc46"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 227,
+    "source_entry": "L00227",
+    "legacy_context": "b3970bacfe814841834ae8fa37597a61"
+  },
+  {
+    "tibetan": "དགེ་བསྙེན",
+    "english": "lay devotee",
+    "category": "Provisional",
+    "reason": "Unlisted lay religious status.",
+    "entry_index": 228,
+    "source_entry": "L00228",
+    "legacy_context": "feeeb2a8acd042adbb99c9806f7d03ab"
+  },
+  {
+    "tibetan": "དགེ་བ",
+    "english": "virtue",
+    "category": "Provisional",
+    "reason": "Unlisted recurring ethical category; not applied to the full spiritual-friend title.",
+    "entry_index": 228,
+    "source_entry": "L00228",
+    "legacy_context": "feeeb2a8acd042adbb99c9806f7d03ab"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 231,
+    "source_entry": "L00231",
+    "legacy_context": "11afc20202ce4841a7310b63f3dd1404"
+  },
+  {
+    "tibetan": "དགེ་འདུན",
+    "english": "Sangha",
+    "category": "Provisional",
+    "reason": "Unlisted refuge term, transliterated; noble retained where supplied.",
+    "entry_index": 233,
+    "source_entry": "L00233",
+    "legacy_context": "39aa25ccf45146c2989c6082f584db57"
+  },
+  {
+    "tibetan": "མུ་སྟེགས",
+    "english": "tīrthika",
+    "category": "Provisional",
+    "reason": "Transliteration for the named religious category; no claim about every non-Buddhist is added.",
+    "entry_index": 234,
+    "source_entry": "L00234",
+    "legacy_context": "2896ebd40e754a6cb38e0c6a18d2e1f2"
+  },
+  {
+    "tibetan": "ཐར་པ",
+    "english": "liberation",
+    "category": "Provisional",
+    "reason": "Unlisted term, distinct from established self-liberation/primordial liberation.",
+    "entry_index": 237,
+    "source_entry": "L00237",
+    "legacy_context": "d6a26bf4587c42509b368fb5076db737"
+  },
+  {
+    "tibetan": "དགེ་བ",
+    "english": "virtue",
+    "category": "Provisional",
+    "reason": "Unlisted recurring ethical category; not applied to the full spiritual-friend title.",
+    "entry_index": 238,
+    "source_entry": "L00238",
+    "legacy_context": "b739e88e4a6842f390bf623786a7ce9c"
+  },
+  {
+    "tibetan": "མི་དགེ་བ",
+    "english": "nonvirtue",
+    "category": "Provisional",
+    "reason": "Unlisted negated ethical category; paired visibly with virtue.",
+    "entry_index": 238,
+    "source_entry": "L00238",
+    "legacy_context": "b739e88e4a6842f390bf623786a7ce9c"
+  },
+  {
+    "tibetan": "དགེ་བ",
+    "english": "virtue",
+    "category": "Provisional",
+    "reason": "Unlisted recurring ethical category; not applied to the full spiritual-friend title.",
+    "entry_index": 239,
+    "source_entry": "L00239",
+    "legacy_context": "db393da13c024624b1353c3917e31f7a"
+  },
+  {
+    "tibetan": "རྟེན་གཞིར",
+    "english": "basis",
+    "category": "Provisional",
+    "reason": "Proposed rten gzhi compound treatment; see N-240.",
+    "entry_index": 240,
+    "source_entry": "L00240",
+    "legacy_context": "ef4f4f3ac336498da6c36d80f9b6debe"
+  },
+  {
+    "tibetan": "སྡོམ་པ",
+    "english": "vow",
+    "category": "Provisional",
+    "reason": "Unlisted disciplinary term.",
+    "entry_index": 240,
+    "source_entry": "L00240",
+    "legacy_context": "ef4f4f3ac336498da6c36d80f9b6debe"
+  },
+  {
+    "tibetan": "བསམ་དོན",
+    "english": "intended aims",
+    "category": "Provisional",
+    "reason": "Proposed whole-expression reading; see N-241.",
+    "entry_index": 241,
+    "source_entry": "L00241",
+    "legacy_context": "720063733ebb4ef39b53b9869f3c023f"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 242,
+    "source_entry": "L00242",
+    "legacy_context": "a03604d584b6456194d9d32e30c42c84"
+  },
+  {
+    "tibetan": "ཕར་ཕྱིན",
+    "english": "Perfection [of Discerning Knowing]",
+    "category": "Provisional",
+    "reason": "Proposed abbreviated-title expansion preserving the established full expression; see N-243.",
+    "entry_index": 243,
+    "source_entry": "L00243",
+    "legacy_context": "159bc4a0481445df91bbb03588ccc67d"
+  },
+  {
+    "tibetan": "བསོད་ནམས",
+    "english": "merit",
+    "category": "Provisional",
+    "reason": "Unlisted technical category.",
+    "entry_index": 244,
+    "source_entry": "L00244",
+    "legacy_context": "f1b5de4914f141ee8d6f5664b702d856"
+  },
+  {
+    "tibetan": "ཁམས་གསུམ",
+    "english": "three realms",
+    "category": "Provisional",
+    "reason": "Unlisted technical grouping; source does not enumerate members.",
+    "entry_index": 245,
+    "source_entry": "L00245",
+    "legacy_context": "181e911a42804fd0b212ff4a6739a741"
+  },
+  {
+    "tibetan": "དཀོན་མཆོག",
+    "english": "Jewel",
+    "category": "Provisional",
+    "reason": "Singular/plural follows source; preserve the named Jewel referent.",
+    "entry_index": 249,
+    "source_entry": "L00249",
+    "legacy_context": "d2608c784d074a238e06630137e1f31c"
+  },
+  {
+    "tibetan": "མཚམས་མེད་པའི་ལས",
+    "english": "deeds of immediate retribution",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; see N-250.",
+    "entry_index": 250,
+    "source_entry": "L00250",
+    "legacy_context": "ba72ae6c4e4d4b1192bd4ec6ed682919"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 250,
+    "source_entry": "L00250",
+    "legacy_context": "ba72ae6c4e4d4b1192bd4ec6ed682919"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས",
+    "english": "trust",
+    "category": "Provisional",
+    "reason": "Proposed lexicalized compound; distinct from standalone mental faculty and faith.",
+    "entry_index": 250,
+    "source_entry": "L00250",
+    "legacy_context": "ba72ae6c4e4d4b1192bd4ec6ed682919"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 251,
+    "source_entry": "L00251",
+    "legacy_context": "d5abab3781b740339e242fbdfb99bee3"
+  },
+  {
+    "tibetan": "རང་སངས་རྒྱས",
+    "english": "solitary buddha",
+    "category": "Provisional",
+    "reason": "Proposed full expression, not the shorter self-purified entry; see N-252.",
+    "entry_index": 252,
+    "source_entry": "L00252",
+    "legacy_context": "216400efb85c4ef98478fef841b4f91f"
+  },
+  {
+    "tibetan": "སངས་རྒྱས",
+    "english": "Buddha/buddhahood",
+    "category": "Provisional",
+    "reason": "Buddha or buddhas for the referent; buddhahood for accomplishment or the state. The whole expression is not rang sangs.",
+    "entry_index": 252,
+    "source_entry": "L00252",
+    "legacy_context": "216400efb85c4ef98478fef841b4f91f"
+  },
+  {
+    "tibetan": "རྟེན་གཞི",
+    "english": "basis",
+    "category": "Provisional",
+    "reason": "Same scoped compound treatment as N-240.",
+    "entry_index": 253,
+    "source_entry": "L00253",
+    "legacy_context": "5947711e732c46f1ada37028f9729549"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 253,
+    "source_entry": "L00253",
+    "legacy_context": "5947711e732c46f1ada37028f9729549"
+  },
+  {
+    "tibetan": "ཡིད་ཆེས",
+    "english": "trust",
+    "category": "Provisional",
+    "reason": "Proposed lexicalized compound; distinct from standalone mental faculty and faith.",
+    "entry_index": 254,
+    "source_entry": "L00254",
+    "legacy_context": "4ce18034468b43a58e205ae7f43a92cc"
+  },
+  {
+    "tibetan": "བསླབ་གསུམ",
+    "english": "three trainings",
+    "category": "Provisional",
+    "reason": "Proposed technical expression; see N-255.",
+    "entry_index": 255,
+    "source_entry": "L00255",
+    "legacy_context": "1c4cdf43314143499a6e7909eed356a1"
+  },
+  {
+    "tibetan": "བསྲུང་སྡོམ",
+    "english": "guarding the vows",
+    "category": "Provisional",
+    "reason": "Proposed construction of the disciplinary term; see N-255.",
+    "entry_index": 255,
+    "source_entry": "L00255",
+    "legacy_context": "1c4cdf43314143499a6e7909eed356a1"
+  },
+  {
+    "tibetan": "སེམས་ཅན",
+    "english": "sentient being",
+    "category": "Provisional",
+    "reason": "Proposed lexicalized whole expression, not a mechanical expansion of ordinary mind.",
+    "entry_index": 256,
+    "source_entry": "L00256",
+    "legacy_context": "c06a256e9c9143fcbd18a2cfb981285f"
+  },
+  {
+    "tibetan": "ལྷ་རྫས",
+    "english": "ceremonial fabric",
+    "category": "Provisional",
+    "reason": "Proposed context-specific ritual item; see N-258.",
+    "entry_index": 258,
+    "source_entry": "L00258",
+    "legacy_context": "7e6d976ff65a4e02b7d40ec8190653b7"
+  },
+  {
+    "tibetan": "ཆོས",
+    "english": "Dharma",
+    "category": "Provisional",
+    "reason": "Unlisted refuge/teaching expression; compound-specific readings remain governed by their full expressions.",
+    "entry_index": 258,
+    "source_entry": "L00258",
+    "legacy_context": "7e6d976ff65a4e02b7d40ec8190653b7"
+  }
+]

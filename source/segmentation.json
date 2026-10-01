@@ -1,0 +1,2802 @@
+[
+  {
+    "pair_id": "NS-000001",
+    "source_id": "L00001",
+    "entry_index": 1,
+    "start": 0,
+    "end": 100,
+    "separator_after": "",
+    "format": "h1",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000002",
+    "source_id": "L00002",
+    "entry_index": 2,
+    "start": 0,
+    "end": 40,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000003",
+    "source_id": "L00003",
+    "entry_index": 3,
+    "start": 0,
+    "end": 38,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000004",
+    "source_id": "L00004",
+    "entry_index": 4,
+    "start": 0,
+    "end": 40,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000005",
+    "source_id": "L00005",
+    "entry_index": 5,
+    "start": 0,
+    "end": 34,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000006",
+    "source_id": "L00006",
+    "entry_index": 6,
+    "start": 0,
+    "end": 148,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000007a",
+    "source_id": "L00007a",
+    "entry_index": 7,
+    "start": 0,
+    "end": 10,
+    "separator_after": " ",
+    "format": "h2",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000007b",
+    "source_id": "L00007b",
+    "entry_index": 7,
+    "start": 11,
+    "end": 60,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000008",
+    "source_id": "L00008",
+    "entry_index": 8,
+    "start": 0,
+    "end": 97,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000009",
+    "source_id": "L00009",
+    "entry_index": 9,
+    "start": 0,
+    "end": 98,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000010a",
+    "source_id": "L00010a",
+    "entry_index": 10,
+    "start": 0,
+    "end": 30,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000010b",
+    "source_id": "L00010b",
+    "entry_index": 10,
+    "start": 31,
+    "end": 168,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000011",
+    "source_id": "L00011",
+    "entry_index": 11,
+    "start": 0,
+    "end": 143,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000012a",
+    "source_id": "L00012a",
+    "entry_index": 12,
+    "start": 0,
+    "end": 24,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000012b",
+    "source_id": "L00012b",
+    "entry_index": 12,
+    "start": 25,
+    "end": 91,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000013",
+    "source_id": "L00013",
+    "entry_index": 13,
+    "start": 0,
+    "end": 64,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000014",
+    "source_id": "L00014",
+    "entry_index": 14,
+    "start": 0,
+    "end": 96,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000015a",
+    "source_id": "L00015a",
+    "entry_index": 15,
+    "start": 0,
+    "end": 27,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000015b",
+    "source_id": "L00015b",
+    "entry_index": 15,
+    "start": 28,
+    "end": 216,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000016",
+    "source_id": "L00016",
+    "entry_index": 16,
+    "start": 0,
+    "end": 74,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000017",
+    "source_id": "L00017",
+    "entry_index": 17,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000018",
+    "source_id": "L00018",
+    "entry_index": 18,
+    "start": 0,
+    "end": 39,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000019",
+    "source_id": "L00019",
+    "entry_index": 19,
+    "start": 0,
+    "end": 33,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000020",
+    "source_id": "L00020",
+    "entry_index": 20,
+    "start": 0,
+    "end": 21,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000021",
+    "source_id": "L00021",
+    "entry_index": 21,
+    "start": 0,
+    "end": 109,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000022",
+    "source_id": "L00022",
+    "entry_index": 22,
+    "start": 0,
+    "end": 7,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000023",
+    "source_id": "L00023",
+    "entry_index": 23,
+    "start": 0,
+    "end": 23,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000024",
+    "source_id": "L00024",
+    "entry_index": 24,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000025",
+    "source_id": "L00025",
+    "entry_index": 25,
+    "start": 0,
+    "end": 21,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000026",
+    "source_id": "L00026",
+    "entry_index": 26,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000027",
+    "source_id": "L00027",
+    "entry_index": 27,
+    "start": 0,
+    "end": 10,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000028a",
+    "source_id": "L00028a",
+    "entry_index": 28,
+    "start": 0,
+    "end": 55,
+    "separator_after": " ",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000028b",
+    "source_id": "L00028b",
+    "entry_index": 28,
+    "start": 56,
+    "end": 109,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000029",
+    "source_id": "L00029",
+    "entry_index": 29,
+    "start": 0,
+    "end": 205,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000030a",
+    "source_id": "L00030a",
+    "entry_index": 30,
+    "start": 0,
+    "end": 64,
+    "separator_after": " ",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000030b",
+    "source_id": "L00030b",
+    "entry_index": 30,
+    "start": 65,
+    "end": 75,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000031",
+    "source_id": "L00031",
+    "entry_index": 31,
+    "start": 0,
+    "end": 135,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000032",
+    "source_id": "L00032",
+    "entry_index": 32,
+    "start": 0,
+    "end": 97,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000033",
+    "source_id": "L00033",
+    "entry_index": 33,
+    "start": 0,
+    "end": 101,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000034",
+    "source_id": "L00034",
+    "entry_index": 34,
+    "start": 0,
+    "end": 173,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000035a",
+    "source_id": "L00035a",
+    "entry_index": 35,
+    "start": 0,
+    "end": 121,
+    "separator_after": " ",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000035b",
+    "source_id": "L00035b",
+    "entry_index": 35,
+    "start": 122,
+    "end": 136,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000036",
+    "source_id": "L00036",
+    "entry_index": 36,
+    "start": 0,
+    "end": 131,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000037",
+    "source_id": "L00037",
+    "entry_index": 37,
+    "start": 0,
+    "end": 10,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000038",
+    "source_id": "L00038",
+    "entry_index": 38,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000039",
+    "source_id": "L00039",
+    "entry_index": 39,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000040",
+    "source_id": "L00040",
+    "entry_index": 40,
+    "start": 0,
+    "end": 35,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000041",
+    "source_id": "L00041",
+    "entry_index": 41,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000042",
+    "source_id": "L00042",
+    "entry_index": 42,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000043",
+    "source_id": "L00043",
+    "entry_index": 43,
+    "start": 0,
+    "end": 35,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000044",
+    "source_id": "L00044",
+    "entry_index": 44,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000045",
+    "source_id": "L00045",
+    "entry_index": 45,
+    "start": 0,
+    "end": 34,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000046",
+    "source_id": "L00046",
+    "entry_index": 46,
+    "start": 0,
+    "end": 66,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000047",
+    "source_id": "L00047",
+    "entry_index": 47,
+    "start": 0,
+    "end": 48,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000048",
+    "source_id": "L00048",
+    "entry_index": 48,
+    "start": 0,
+    "end": 36,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000049",
+    "source_id": "L00049",
+    "entry_index": 49,
+    "start": 0,
+    "end": 44,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000050",
+    "source_id": "L00050",
+    "entry_index": 50,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000051",
+    "source_id": "L00051",
+    "entry_index": 51,
+    "start": 0,
+    "end": 93,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000052",
+    "source_id": "L00052",
+    "entry_index": 52,
+    "start": 0,
+    "end": 63,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000053",
+    "source_id": "L00053",
+    "entry_index": 53,
+    "start": 0,
+    "end": 45,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000054",
+    "source_id": "L00054",
+    "entry_index": 54,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000055",
+    "source_id": "L00055",
+    "entry_index": 55,
+    "start": 0,
+    "end": 90,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000056",
+    "source_id": "L00056",
+    "entry_index": 56,
+    "start": 0,
+    "end": 53,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000057",
+    "source_id": "L00057",
+    "entry_index": 57,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000058",
+    "source_id": "L00058",
+    "entry_index": 58,
+    "start": 0,
+    "end": 47,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000059",
+    "source_id": "L00059",
+    "entry_index": 59,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000060",
+    "source_id": "L00060",
+    "entry_index": 60,
+    "start": 0,
+    "end": 46,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000061",
+    "source_id": "L00061",
+    "entry_index": 61,
+    "start": 0,
+    "end": 57,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000062",
+    "source_id": "L00062",
+    "entry_index": 62,
+    "start": 0,
+    "end": 93,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000063",
+    "source_id": "L00063",
+    "entry_index": 63,
+    "start": 0,
+    "end": 135,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000064",
+    "source_id": "L00064",
+    "entry_index": 64,
+    "start": 0,
+    "end": 56,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000065",
+    "source_id": "L00065",
+    "entry_index": 65,
+    "start": 0,
+    "end": 141,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000066",
+    "source_id": "L00066",
+    "entry_index": 66,
+    "start": 0,
+    "end": 81,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000067",
+    "source_id": "L00067",
+    "entry_index": 67,
+    "start": 0,
+    "end": 12,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000068",
+    "source_id": "L00068",
+    "entry_index": 68,
+    "start": 0,
+    "end": 61,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000069",
+    "source_id": "L00069",
+    "entry_index": 69,
+    "start": 0,
+    "end": 185,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000070",
+    "source_id": "L00070",
+    "entry_index": 70,
+    "start": 0,
+    "end": 126,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000071",
+    "source_id": "L00071",
+    "entry_index": 71,
+    "start": 0,
+    "end": 93,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000072",
+    "source_id": "L00072",
+    "entry_index": 72,
+    "start": 0,
+    "end": 85,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000073",
+    "source_id": "L00073",
+    "entry_index": 73,
+    "start": 0,
+    "end": 111,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000074",
+    "source_id": "L00074",
+    "entry_index": 74,
+    "start": 0,
+    "end": 153,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000075",
+    "source_id": "L00075",
+    "entry_index": 75,
+    "start": 0,
+    "end": 83,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000076",
+    "source_id": "L00076",
+    "entry_index": 76,
+    "start": 0,
+    "end": 36,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000077",
+    "source_id": "L00077",
+    "entry_index": 77,
+    "start": 0,
+    "end": 142,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000078",
+    "source_id": "L00078",
+    "entry_index": 78,
+    "start": 0,
+    "end": 86,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000079",
+    "source_id": "L00079",
+    "entry_index": 79,
+    "start": 0,
+    "end": 157,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000080",
+    "source_id": "L00080",
+    "entry_index": 80,
+    "start": 0,
+    "end": 137,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000081",
+    "source_id": "L00081",
+    "entry_index": 81,
+    "start": 0,
+    "end": 140,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000082",
+    "source_id": "L00082",
+    "entry_index": 82,
+    "start": 0,
+    "end": 172,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000083",
+    "source_id": "L00083",
+    "entry_index": 83,
+    "start": 0,
+    "end": 147,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000084",
+    "source_id": "L00084",
+    "entry_index": 84,
+    "start": 0,
+    "end": 57,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000085",
+    "source_id": "L00085",
+    "entry_index": 85,
+    "start": 0,
+    "end": 224,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000086",
+    "source_id": "L00086",
+    "entry_index": 86,
+    "start": 0,
+    "end": 170,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000087",
+    "source_id": "L00087",
+    "entry_index": 87,
+    "start": 0,
+    "end": 18,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000088",
+    "source_id": "L00088",
+    "entry_index": 88,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000089",
+    "source_id": "L00089",
+    "entry_index": 89,
+    "start": 0,
+    "end": 23,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000090",
+    "source_id": "L00090",
+    "entry_index": 90,
+    "start": 0,
+    "end": 13,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000091a",
+    "source_id": "L00091a",
+    "entry_index": 91,
+    "start": 0,
+    "end": 31,
+    "separator_after": " ",
+    "format": "h2",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000091b",
+    "source_id": "L00091b",
+    "entry_index": 91,
+    "start": 32,
+    "end": 66,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000092",
+    "source_id": "L00092",
+    "entry_index": 92,
+    "start": 0,
+    "end": 124,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000093",
+    "source_id": "L00093",
+    "entry_index": 93,
+    "start": 0,
+    "end": 17,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000094",
+    "source_id": "L00094",
+    "entry_index": 94,
+    "start": 0,
+    "end": 71,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000095",
+    "source_id": "L00095",
+    "entry_index": 95,
+    "start": 0,
+    "end": 25,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000096",
+    "source_id": "L00096",
+    "entry_index": 96,
+    "start": 0,
+    "end": 57,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000097",
+    "source_id": "L00097",
+    "entry_index": 97,
+    "start": 0,
+    "end": 18,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000098",
+    "source_id": "L00098",
+    "entry_index": 98,
+    "start": 0,
+    "end": 120,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000099",
+    "source_id": "L00099",
+    "entry_index": 99,
+    "start": 0,
+    "end": 16,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000100",
+    "source_id": "L00100",
+    "entry_index": 100,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000101",
+    "source_id": "L00101",
+    "entry_index": 101,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000102",
+    "source_id": "L00102",
+    "entry_index": 102,
+    "start": 0,
+    "end": 27,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000103",
+    "source_id": "L00103",
+    "entry_index": 103,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000104",
+    "source_id": "L00104",
+    "entry_index": 104,
+    "start": 0,
+    "end": 10,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000105",
+    "source_id": "L00105",
+    "entry_index": 105,
+    "start": 0,
+    "end": 160,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000106",
+    "source_id": "L00106",
+    "entry_index": 106,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000107",
+    "source_id": "L00107",
+    "entry_index": 107,
+    "start": 0,
+    "end": 32,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000108",
+    "source_id": "L00108",
+    "entry_index": 108,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000109",
+    "source_id": "L00109",
+    "entry_index": 109,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000110",
+    "source_id": "L00110",
+    "entry_index": 110,
+    "start": 0,
+    "end": 13,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000111",
+    "source_id": "L00111",
+    "entry_index": 111,
+    "start": 0,
+    "end": 95,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000112a",
+    "source_id": "L00112a",
+    "entry_index": 112,
+    "start": 0,
+    "end": 23,
+    "separator_after": " ",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000112b",
+    "source_id": "L00112b",
+    "entry_index": 112,
+    "start": 24,
+    "end": 47,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000113",
+    "source_id": "L00113",
+    "entry_index": 113,
+    "start": 0,
+    "end": 27,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000114",
+    "source_id": "L00114",
+    "entry_index": 114,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000115",
+    "source_id": "L00115",
+    "entry_index": 115,
+    "start": 0,
+    "end": 25,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000116",
+    "source_id": "L00116",
+    "entry_index": 116,
+    "start": 0,
+    "end": 13,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000117a",
+    "source_id": "L00117a",
+    "entry_index": 117,
+    "start": 0,
+    "end": 17,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000117b",
+    "source_id": "L00117b",
+    "entry_index": 117,
+    "start": 18,
+    "end": 45,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000118a",
+    "source_id": "L00118a",
+    "entry_index": 118,
+    "start": 0,
+    "end": 11,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000118b",
+    "source_id": "L00118b",
+    "entry_index": 118,
+    "start": 12,
+    "end": 58,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000119",
+    "source_id": "L00119",
+    "entry_index": 119,
+    "start": 0,
+    "end": 19,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000120",
+    "source_id": "L00120",
+    "entry_index": 120,
+    "start": 0,
+    "end": 46,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000121",
+    "source_id": "L00121",
+    "entry_index": 121,
+    "start": 0,
+    "end": 99,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000122",
+    "source_id": "L00122",
+    "entry_index": 122,
+    "start": 0,
+    "end": 164,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000123",
+    "source_id": "L00123",
+    "entry_index": 123,
+    "start": 0,
+    "end": 75,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000124",
+    "source_id": "L00124",
+    "entry_index": 124,
+    "start": 0,
+    "end": 88,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000125a",
+    "source_id": "L00125a",
+    "entry_index": 125,
+    "start": 0,
+    "end": 7,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000125b",
+    "source_id": "L00125b",
+    "entry_index": 125,
+    "start": 8,
+    "end": 41,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000126",
+    "source_id": "L00126",
+    "entry_index": 126,
+    "start": 0,
+    "end": 44,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000127a",
+    "source_id": "L00127a",
+    "entry_index": 127,
+    "start": 0,
+    "end": 8,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000127b",
+    "source_id": "L00127b",
+    "entry_index": 127,
+    "start": 9,
+    "end": 171,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000128a",
+    "source_id": "L00128a",
+    "entry_index": 128,
+    "start": 0,
+    "end": 15,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000128b",
+    "source_id": "L00128b",
+    "entry_index": 128,
+    "start": 16,
+    "end": 98,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000129",
+    "source_id": "L00129",
+    "entry_index": 129,
+    "start": 0,
+    "end": 66,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000130a",
+    "source_id": "L00130a",
+    "entry_index": 130,
+    "start": 0,
+    "end": 9,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000130b",
+    "source_id": "L00130b",
+    "entry_index": 130,
+    "start": 10,
+    "end": 137,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000131",
+    "source_id": "L00131",
+    "entry_index": 131,
+    "start": 0,
+    "end": 217,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000132a",
+    "source_id": "L00132a",
+    "entry_index": 132,
+    "start": 0,
+    "end": 53,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000132b",
+    "source_id": "L00132b",
+    "entry_index": 132,
+    "start": 54,
+    "end": 107,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000133",
+    "source_id": "L00133",
+    "entry_index": 133,
+    "start": 0,
+    "end": 71,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000134",
+    "source_id": "L00134",
+    "entry_index": 134,
+    "start": 0,
+    "end": 10,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000135",
+    "source_id": "L00135",
+    "entry_index": 135,
+    "start": 0,
+    "end": 111,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000136",
+    "source_id": "L00136",
+    "entry_index": 136,
+    "start": 0,
+    "end": 170,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000137a",
+    "source_id": "L00137a",
+    "entry_index": 137,
+    "start": 0,
+    "end": 11,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000137b",
+    "source_id": "L00137b",
+    "entry_index": 137,
+    "start": 12,
+    "end": 85,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000138",
+    "source_id": "L00138",
+    "entry_index": 138,
+    "start": 0,
+    "end": 14,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000139",
+    "source_id": "L00139",
+    "entry_index": 139,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000140",
+    "source_id": "L00140",
+    "entry_index": 140,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000141",
+    "source_id": "L00141",
+    "entry_index": 141,
+    "start": 0,
+    "end": 32,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000142",
+    "source_id": "L00142",
+    "entry_index": 142,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000143",
+    "source_id": "L00143",
+    "entry_index": 143,
+    "start": 0,
+    "end": 7,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000144",
+    "source_id": "L00144",
+    "entry_index": 144,
+    "start": 0,
+    "end": 147,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000145",
+    "source_id": "L00145",
+    "entry_index": 145,
+    "start": 0,
+    "end": 86,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000146",
+    "source_id": "L00146",
+    "entry_index": 146,
+    "start": 0,
+    "end": 138,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000147",
+    "source_id": "L00147",
+    "entry_index": 147,
+    "start": 0,
+    "end": 95,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000148",
+    "source_id": "L00148",
+    "entry_index": 148,
+    "start": 0,
+    "end": 91,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000149",
+    "source_id": "L00149",
+    "entry_index": 149,
+    "start": 0,
+    "end": 109,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000150a",
+    "source_id": "L00150a",
+    "entry_index": 150,
+    "start": 0,
+    "end": 18,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000150b",
+    "source_id": "L00150b",
+    "entry_index": 150,
+    "start": 19,
+    "end": 422,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000151",
+    "source_id": "L00151",
+    "entry_index": 151,
+    "start": 0,
+    "end": 14,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000152",
+    "source_id": "L00152",
+    "entry_index": 152,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000153",
+    "source_id": "L00153",
+    "entry_index": 153,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000154",
+    "source_id": "L00154",
+    "entry_index": 154,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000155",
+    "source_id": "L00155",
+    "entry_index": 155,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000156",
+    "source_id": "L00156",
+    "entry_index": 156,
+    "start": 0,
+    "end": 25,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000157",
+    "source_id": "L00157",
+    "entry_index": 157,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000158",
+    "source_id": "L00158",
+    "entry_index": 158,
+    "start": 0,
+    "end": 7,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000159a",
+    "source_id": "L00159a",
+    "entry_index": 159,
+    "start": 0,
+    "end": 20,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000159b",
+    "source_id": "L00159b",
+    "entry_index": 159,
+    "start": 21,
+    "end": 150,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000160",
+    "source_id": "L00160",
+    "entry_index": 160,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000161",
+    "source_id": "L00161",
+    "entry_index": 161,
+    "start": 0,
+    "end": 44,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000162",
+    "source_id": "L00162",
+    "entry_index": 162,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000163",
+    "source_id": "L00163",
+    "entry_index": 163,
+    "start": 0,
+    "end": 38,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000164",
+    "source_id": "L00164",
+    "entry_index": 164,
+    "start": 0,
+    "end": 34,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000165",
+    "source_id": "L00165",
+    "entry_index": 165,
+    "start": 0,
+    "end": 39,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000166",
+    "source_id": "L00166",
+    "entry_index": 166,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000167",
+    "source_id": "L00167",
+    "entry_index": 167,
+    "start": 0,
+    "end": 163,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000168a",
+    "source_id": "L00168a",
+    "entry_index": 168,
+    "start": 0,
+    "end": 24,
+    "separator_after": " ",
+    "format": "h2",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000168b",
+    "source_id": "L00168b",
+    "entry_index": 168,
+    "start": 25,
+    "end": 113,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000169a",
+    "source_id": "L00169a",
+    "entry_index": 169,
+    "start": 0,
+    "end": 9,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000169b",
+    "source_id": "L00169b",
+    "entry_index": 169,
+    "start": 10,
+    "end": 182,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000170",
+    "source_id": "L00170",
+    "entry_index": 170,
+    "start": 0,
+    "end": 103,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000171",
+    "source_id": "L00171",
+    "entry_index": 171,
+    "start": 0,
+    "end": 71,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000172",
+    "source_id": "L00172",
+    "entry_index": 172,
+    "start": 0,
+    "end": 118,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000173",
+    "source_id": "L00173",
+    "entry_index": 173,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000174",
+    "source_id": "L00174",
+    "entry_index": 174,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000175",
+    "source_id": "L00175",
+    "entry_index": 175,
+    "start": 0,
+    "end": 87,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000176",
+    "source_id": "L00176",
+    "entry_index": 176,
+    "start": 0,
+    "end": 33,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000177",
+    "source_id": "L00177",
+    "entry_index": 177,
+    "start": 0,
+    "end": 30,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000178",
+    "source_id": "L00178",
+    "entry_index": 178,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000179",
+    "source_id": "L00179",
+    "entry_index": 179,
+    "start": 0,
+    "end": 27,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000180",
+    "source_id": "L00180",
+    "entry_index": 180,
+    "start": 0,
+    "end": 20,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000181",
+    "source_id": "L00181",
+    "entry_index": 181,
+    "start": 0,
+    "end": 154,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000182",
+    "source_id": "L00182",
+    "entry_index": 182,
+    "start": 0,
+    "end": 74,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000183",
+    "source_id": "L00183",
+    "entry_index": 183,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000184",
+    "source_id": "L00184",
+    "entry_index": 184,
+    "start": 0,
+    "end": 22,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000185",
+    "source_id": "L00185",
+    "entry_index": 185,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000186",
+    "source_id": "L00186",
+    "entry_index": 186,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000187",
+    "source_id": "L00187",
+    "entry_index": 187,
+    "start": 0,
+    "end": 31,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000188",
+    "source_id": "L00188",
+    "entry_index": 188,
+    "start": 0,
+    "end": 8,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000189",
+    "source_id": "L00189",
+    "entry_index": 189,
+    "start": 0,
+    "end": 57,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000190",
+    "source_id": "L00190",
+    "entry_index": 190,
+    "start": 0,
+    "end": 34,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000191",
+    "source_id": "L00191",
+    "entry_index": 191,
+    "start": 0,
+    "end": 35,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000192",
+    "source_id": "L00192",
+    "entry_index": 192,
+    "start": 0,
+    "end": 148,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000193",
+    "source_id": "L00193",
+    "entry_index": 193,
+    "start": 0,
+    "end": 86,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000194",
+    "source_id": "L00194",
+    "entry_index": 194,
+    "start": 0,
+    "end": 95,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000195a",
+    "source_id": "L00195a",
+    "entry_index": 195,
+    "start": 0,
+    "end": 23,
+    "separator_after": " ",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000195b",
+    "source_id": "L00195b",
+    "entry_index": 195,
+    "start": 24,
+    "end": 87,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000196",
+    "source_id": "L00196",
+    "entry_index": 196,
+    "start": 0,
+    "end": 100,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000197",
+    "source_id": "L00197",
+    "entry_index": 197,
+    "start": 0,
+    "end": 126,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000198",
+    "source_id": "L00198",
+    "entry_index": 198,
+    "start": 0,
+    "end": 55,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000199",
+    "source_id": "L00199",
+    "entry_index": 199,
+    "start": 0,
+    "end": 89,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000200",
+    "source_id": "L00200",
+    "entry_index": 200,
+    "start": 0,
+    "end": 61,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000201",
+    "source_id": "L00201",
+    "entry_index": 201,
+    "start": 0,
+    "end": 111,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000202",
+    "source_id": "L00202",
+    "entry_index": 202,
+    "start": 0,
+    "end": 18,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000203",
+    "source_id": "L00203",
+    "entry_index": 203,
+    "start": 0,
+    "end": 85,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000204",
+    "source_id": "L00204",
+    "entry_index": 204,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000205",
+    "source_id": "L00205",
+    "entry_index": 205,
+    "start": 0,
+    "end": 64,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000206",
+    "source_id": "L00206",
+    "entry_index": 206,
+    "start": 0,
+    "end": 61,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000207",
+    "source_id": "L00207",
+    "entry_index": 207,
+    "start": 0,
+    "end": 168,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000208",
+    "source_id": "L00208",
+    "entry_index": 208,
+    "start": 0,
+    "end": 43,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000209",
+    "source_id": "L00209",
+    "entry_index": 209,
+    "start": 0,
+    "end": 304,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000210",
+    "source_id": "L00210",
+    "entry_index": 210,
+    "start": 0,
+    "end": 22,
+    "separator_after": "",
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000211",
+    "source_id": "L00211",
+    "entry_index": 211,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000212",
+    "source_id": "L00212",
+    "entry_index": 212,
+    "start": 0,
+    "end": 21,
+    "separator_after": "",
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000213",
+    "source_id": "L00213",
+    "entry_index": 213,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000214",
+    "source_id": "L00214",
+    "entry_index": 214,
+    "start": 0,
+    "end": 87,
+    "separator_after": "",
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000215",
+    "source_id": "L00215",
+    "entry_index": 215,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "verse",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000216",
+    "source_id": "L00216",
+    "entry_index": 216,
+    "start": 0,
+    "end": 36,
+    "separator_after": "",
+    "format": "verse",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000217",
+    "source_id": "L00217",
+    "entry_index": 217,
+    "start": 0,
+    "end": 43,
+    "separator_after": "",
+    "format": "verse",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000218",
+    "source_id": "L00218",
+    "entry_index": 218,
+    "start": 0,
+    "end": 36,
+    "separator_after": "",
+    "format": "verse",
+    "role": "ritual_formula"
+  },
+  {
+    "pair_id": "NS-000219",
+    "source_id": "L00219",
+    "entry_index": 219,
+    "start": 0,
+    "end": 55,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000220",
+    "source_id": "L00220",
+    "entry_index": 220,
+    "start": 0,
+    "end": 15,
+    "separator_after": "",
+    "format": "h3",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000221",
+    "source_id": "L00221",
+    "entry_index": 221,
+    "start": 0,
+    "end": 169,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000222",
+    "source_id": "L00222",
+    "entry_index": 222,
+    "start": 0,
+    "end": 130,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000223",
+    "source_id": "L00223",
+    "entry_index": 223,
+    "start": 0,
+    "end": 176,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000224",
+    "source_id": "L00224",
+    "entry_index": 224,
+    "start": 0,
+    "end": 215,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000225",
+    "source_id": "L00225",
+    "entry_index": 225,
+    "start": 0,
+    "end": 139,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000226",
+    "source_id": "L00226",
+    "entry_index": 226,
+    "start": 0,
+    "end": 7,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000227",
+    "source_id": "L00227",
+    "entry_index": 227,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000228",
+    "source_id": "L00228",
+    "entry_index": 228,
+    "start": 0,
+    "end": 25,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000229",
+    "source_id": "L00229",
+    "entry_index": 229,
+    "start": 0,
+    "end": 21,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000230",
+    "source_id": "L00230",
+    "entry_index": 230,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000231",
+    "source_id": "L00231",
+    "entry_index": 231,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000232",
+    "source_id": "L00232",
+    "entry_index": 232,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000233",
+    "source_id": "L00233",
+    "entry_index": 233,
+    "start": 0,
+    "end": 32,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000234",
+    "source_id": "L00234",
+    "entry_index": 234,
+    "start": 0,
+    "end": 28,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000235",
+    "source_id": "L00235",
+    "entry_index": 235,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000236",
+    "source_id": "L00236",
+    "entry_index": 236,
+    "start": 0,
+    "end": 40,
+    "separator_after": "",
+    "format": "h2",
+    "role": "source_heading"
+  },
+  {
+    "pair_id": "NS-000237",
+    "source_id": "L00237",
+    "entry_index": 237,
+    "start": 0,
+    "end": 54,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000238",
+    "source_id": "L00238",
+    "entry_index": 238,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000239",
+    "source_id": "L00239",
+    "entry_index": 239,
+    "start": 0,
+    "end": 24,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000240",
+    "source_id": "L00240",
+    "entry_index": 240,
+    "start": 0,
+    "end": 80,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000241",
+    "source_id": "L00241",
+    "entry_index": 241,
+    "start": 0,
+    "end": 67,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000242",
+    "source_id": "L00242",
+    "entry_index": 242,
+    "start": 0,
+    "end": 72,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000243",
+    "source_id": "L00243",
+    "entry_index": 243,
+    "start": 0,
+    "end": 19,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000244",
+    "source_id": "L00244",
+    "entry_index": 244,
+    "start": 0,
+    "end": 32,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000245",
+    "source_id": "L00245",
+    "entry_index": 245,
+    "start": 0,
+    "end": 29,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000246",
+    "source_id": "L00246",
+    "entry_index": 246,
+    "start": 0,
+    "end": 26,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000247",
+    "source_id": "L00247",
+    "entry_index": 247,
+    "start": 0,
+    "end": 23,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000248",
+    "source_id": "L00248",
+    "entry_index": 248,
+    "start": 0,
+    "end": 20,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000249",
+    "source_id": "L00249",
+    "entry_index": 249,
+    "start": 0,
+    "end": 102,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000250",
+    "source_id": "L00250",
+    "entry_index": 250,
+    "start": 0,
+    "end": 108,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000251",
+    "source_id": "L00251",
+    "entry_index": 251,
+    "start": 0,
+    "end": 50,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000252",
+    "source_id": "L00252",
+    "entry_index": 252,
+    "start": 0,
+    "end": 67,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000253",
+    "source_id": "L00253",
+    "entry_index": 253,
+    "start": 0,
+    "end": 141,
+    "separator_after": "",
+    "format": "prose",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000254",
+    "source_id": "L00254",
+    "entry_index": 254,
+    "start": 0,
+    "end": 41,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000255",
+    "source_id": "L00255",
+    "entry_index": 255,
+    "start": 0,
+    "end": 41,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000256",
+    "source_id": "L00256",
+    "entry_index": 256,
+    "start": 0,
+    "end": 35,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000257",
+    "source_id": "L00257",
+    "entry_index": 257,
+    "start": 0,
+    "end": 37,
+    "separator_after": "",
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "pair_id": "NS-000258",
+    "source_id": "L00258",
+    "entry_index": 258,
+    "start": 0,
+    "end": 313,
+    "separator_after": "",
+    "format": "prose",
+    "role": "work_colophon"
+  }
+]

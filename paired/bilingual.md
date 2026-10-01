@@ -1,1137 +1,1693 @@
----
-schema: paired-text/2
-text-id: Nangpa-Sangyepa
-source-edition: ns-provisional-source-v1
-translation-edition: ns-english-draft-v1
-language: en
-status: annotated-working-draft
----
+# Nangpa-Sangyepa — Tibetan and English working draft
 
-<!-- pair: NS-000001 -->
+Generated from canonical paired/source.md and paired/translation.md by scripts/build_views.py.
+Provisional electronic source; golden phase waived. Source-linked notes flag readings and terminology for review.
+
+<!-- NS-000001 | legacy entry 1 -->
 
 # Dispelling the darkness of the mental faculty: instruction on going for refuge, the foundation stone of every path of all Buddhists[^N-001]
 
-<!-- pair: NS-000002 -->
+ནང་པ་སངས་རྒྱས་པ་ཀུན་གྱི་ལམ་ཐམས་ཅད་ཀྱི་རྨིང་རྡོ་སྐྱབས་འགྲོའི་ཁྲིད་ཡིད་ཀྱི་མུན་སེལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+
+<!-- NS-000002 | legacy entry 2 -->
+
+ཕྱིའི་སྐྱབས་འགྲོ་མཆོག་གསུམ་ཐོད་བཞིན་ཁུར།
 
 You bear like a crown the three supreme ones of outer going for refuge;[^N-002]
 
-<!-- pair: NS-000003 -->
+<!-- NS-000003 | legacy entry 3 -->
+
+ནང་གི་སྐྱབས་འགྲོ་རྩ་གསུམ་དངོས་སུ་གྲུབ།
 
 You have actually accomplished the three roots of inner going for refuge;[^N-003]
 
-<!-- pair: NS-000004 -->
+<!-- NS-000004 | legacy entry 4 -->
+
+དོན་གྱི་སྐྱབས་འགྲོ་སྐུ་གསུམ་མངོན་དུ་བྱས།
 
 You have made manifest the three embodiments of going for refuge in its meaning.[^N-004]
 
-<!-- pair: NS-000005 -->
+<!-- NS-000005 | legacy entry 5 -->
+
+མཚུངས་མེད་བླ་མའི་ཞབས་ལ་ཕྱག་འཚལ་ལོ།
 
 I prostrate at the feet of the incomparable guru.[^N-005]
 
-<!-- pair: NS-000006 -->
+<!-- NS-000006 | legacy entry 6 -->
+
+དང་པོ་ལམ་ཐམས་ཅད་ཀྱི་རྨིང་རྡོ་སྐྱབས་སུ་འགྲོ་བའི་ཁྲིད་ལ། སྐྱབས་འགྲོའི་དབྱེ་བ། སྐྱབས་སུ་འགྲོ་ཚུལ། བསླབ་བྱ་བསྟན་པ་དང་ཕན་ཡོན་བཅས་དོན་བཞི་རུ་བསྡུས་ཏེ་ཞུན།
 
 First, the instruction on going for refuge, the foundation stone of every path, is explained in four summarized topics: the divisions of going for refuge, the manner of going for refuge, the presentation of the training, and its benefits.[^N-006][^N-006b]
 
-<!-- pair: NS-000007a -->
+<!-- NS-000007a | legacy entry 7 -->
 
 ## The first topic
 
-<!-- pair: NS-000007b -->
+དོན་དང་པོ།
+
+<!-- NS-000007b | legacy entry 7 -->
+
+སྤྱིར་ཆོས་ཐམས་ཅད་ཀྱི་སྒོ་དབྱེ་བ་སྐྱབས་འགྲོ་ཡིན་ལ།
 
 In general, going for refuge opens the door to all Dharma,[^N-007]
 
-<!-- pair: NS-000008 -->
+<!-- NS-000008 | legacy entry 8 -->
+
+སྐྱབས་འགྲོའི་སྒོ་དབྱེ་བ་ནི། དད་པ་ཡིན། སྐྱབས་སུ་འགྲོ་བའི་དང་པོར་རྒྱུད་ལ་དད་པ་བརྟན་པོ་སྐྱེ་པ་གལ་ཆེ།
 
 and what opens the door to going for refuge is faith. At the beginning of going for refuge, it is important that stable faith arise in the continuum.
 
-<!-- pair: NS-000009 -->
+<!-- NS-000009 | legacy entry 9 -->
+
+དད་པ་དེ་ལ་ནང་གསེས་ཀྱིས་དབྱེ་གསུམ་ཡོད་དེ། དང་བའི་དད་པ། འདོད་པའི་དད་པ། ཡིད་ཆེས་པའི་དད་པ་དང་གསུམ་ཡོད།
 
 Faith has three subdivisions: lucid faith, aspiring faith, and trusting faith—these three.[^N-009]
 
-<!-- pair: NS-000010a -->
+<!-- NS-000010a | legacy entry 10 -->
 
 ### First: lucid faith
 
-<!-- pair: NS-000010b -->
+དང་པོ་དང་བའི་དད་པ་ཞེས་བྱ་བ་ནི།
+
+<!-- NS-000010b | legacy entry 10 -->
+
+རྒྱལ་བའི་སྐུ་གསུང་ཐུགས་རྟེན་མང་པོ་ཡོད་པའི་གཙུག་ལག་ཁང་ལྟ་བུར་སྐྱོད་པའམ། བླ་མ་དགེ་བའི་བཤེས་གཉེན་སྐྱེས་བུ་དམ་པ་རྣམས་བཞུགས་པའི་ཞལ་མཇལ་ཞུ་བའམ།
 
 It arises through such circumstances as visiting a temple containing many supports of the victorious ones’ embodiment, speech, and awakened mind, or requesting an audience with gurus, spiritual friends, and holy persons,[^N-010]
 
-<!-- pair: NS-000011 -->
+<!-- NS-000011 | legacy entry 11 -->
+
+དེ་དག་གི་ཡོན་ཏན་་་་་་་རྣམ་ཐར་ཐོས་པ་ལྟ་བུའི་རྐྱེན་གྱིས་བདག་ལ་ཐུགས་རྗེ་མ་ཆུང་སྙམ་དུ་སེམས་དང་བ་འདྲེན་ནས་དད་པ་སྐྱེས་པ་དེ་ལ་དང་བའི་དད་པ་ཞུ་བ་ཡིན་ནོ།
 
 or hearing of their qualities and accounts of liberation. Thinking, “Their compassionate responsiveness toward me is no small thing,” one’s ordinary mind is drawn to lucidity and faith arises. This is called lucid faith.[^N-011]
 
-<!-- pair: NS-000012a -->
+<!-- NS-000012a | legacy entry 12 -->
 
 ### Second: aspiring faith
 
-<!-- pair: NS-000012b -->
+གཉིས་པ་འདོད་པའི་དད་པ་ནི།
+
+<!-- NS-000012b | legacy entry 12 -->
+
+འཁོར་བ་ངན་སོང་གི་སྡུག་བསྔོལ་ལ་སོགས་པ་ཐོས་ནས་དེ་དང་བྲལ་འདོད་སྐྱེ་བ།
 
 This is the wish to be free from samsara and the lower rebirths that arises on hearing of their suffering and so forth;[^N-012]
 
-<!-- pair: NS-000013 -->
+<!-- NS-000013 | legacy entry 13 -->
+
+མཐོ་རིས་ལྷ་དང་མི་དད་ཐར་པའི་བདེ་སྐྱིད་ཐོས་ན་དེ་ལ་ཐོབ་འདོད་སྐྱེ་བ།
 
 the wish to attain the happiness of gods and humans in the higher realms and of liberation, which arises on hearing of it;[^N-013][^N-013b]
 
-<!-- pair: NS-000014 -->
+<!-- NS-000014 | legacy entry 14 -->
+
+དགེ་བའི་ཕན་ཡོན་ཐོས་ནས་དེ་ལ་སྒྲུབ་འདོད་དང་། སྡིག་པའི་ཉེས་པ་མཐོང་ནས་དེ་ལ་སྤང་འདོད་སྐྱེ་བ་རྣམས་ཡིན།
 
 the wish to accomplish virtue that arises on hearing of its benefits, and the wish to abandon harmful deeds that arises on seeing their faults.
 
-<!-- pair: NS-000015a -->
+<!-- NS-000015a | legacy entry 15 -->
 
 ### Third: trusting faith
 
-<!-- pair: NS-000015b -->
+གསུམ་པ་ཡིད་ཆེས་པའི་དད་པ་ནི།
+
+<!-- NS-000015b | legacy entry 15 -->
+
+དཀོན་མཆོག་རིན་པོ་ཆེ་རྣམ་པ་གསུམ་གྱི་ཡོན་ཏན་དང་བྱིན་རླབས་ཐུན་མོང་མ་ཡིན་པ་ཤེས་ནས། སྐྱིད་རུང་སྡུག་རུང་ན་རུང་སྐྱེ་རུང་ཤི་རུང་གསོན་རུང་། ལས་ཅི་བྱུང་ཡང་སྐྱབས་བསླུ་བ་མེད་པ་དཀོན་མཆོག་གསུམ་པོ་མཁྱེན།
 
 This is to know the extraordinary qualities and blessings of the Three Precious Jewels and think: “Whether happy or distressed, ill or born, dead or alive, whatever karma may arise—Three Jewels, unfailing refuge, heed me![^N-015][^N-015b][^N-015c]
 
-<!-- pair: NS-000016 -->
+<!-- NS-000016 | legacy entry 16 -->
+
+བློ་གཏད་དང་རེ་ལྟོས་ཡིད་ཆེས་གཞན་ན་མེད་བསམ་པ་ལ་ཡིད་ཆེས་པའི་དད་པ་ཞུ་བ་ཡིན་ནོ།
 
 “There is nowhere else to direct my conceptual mind, place my hopes, or put my trust.” This is called trusting faith.[^N-016]
 
-<!-- pair: NS-000017 -->
+<!-- NS-000017 | legacy entry 17 -->
+
+ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ནས།
 
 As the Precious One of Oḍḍiyāna said:
 
-<!-- pair: NS-000018 -->
+<!-- NS-000018 | legacy entry 18 -->
+
+ཡིད་་་ཁྱེད་ཤེས་ཀྱི་དད་པས་བྱིན་རླབས་འདུག
 
 With the mental faculty’s faith that says, “You know,” there is blessing.[^N-018]
 
-<!-- pair: NS-000019 -->
+<!-- NS-000019 | legacy entry 19 -->
+
+བློ་ཐེ་ཚོམ་དང་བྲལ་ན་ཅི་བསམ་འགྲུབ།
 
 If the conceptual mind is free from doubt, whatever one intends is accomplished.
 
-<!-- pair: NS-000020 -->
+<!-- NS-000020 | legacy entry 20 -->
+
+ཅེས་གསུངས་པ་བཞིན་ཡིན།
 
 It is just as he said.
 
-<!-- pair: NS-000021 -->
+<!-- NS-000021 | legacy entry 21 -->
+
+དེས་ན་དད་པ་ནི་ཆོས་དཀར་པོའི་ཡོན་ཏན་ཐམས་ཅད་སྐྱེད་པའི་ས་བོན་ལྟ་བུ་ཡིན་པས། དད་པ་མེད་ན་ས་བོན་མེས་ཚིག་པ་དང་འདྲ་སྟེ།
 
 Thus faith is like the seed that produces all the qualities of wholesome Dharma. Without faith, one is like a seed burned by fire.[^N-021]
 
-<!-- pair: NS-000022 -->
+<!-- NS-000022 | legacy entry 22 -->
+
+མདོ་ལས།
 
 A sūtra says:
 
-<!-- pair: NS-000023 -->
+<!-- NS-000023 | legacy entry 23 -->
+
+དད་པ་མེད་པའི་མི་རྣམས་ལ།
 
 In people who have no faith,
 
-<!-- pair: NS-000024 -->
+<!-- NS-000024 | legacy entry 24 -->
+
+དཀར་པོའི་ཆོས་ནི་མི་འབྱུང་སྟེ།
 
 Wholesome Dharma does not arise—
 
-<!-- pair: NS-000025 -->
+<!-- NS-000025 | legacy entry 25 -->
+
+ས་བོན་མེ་ཡིས་ཚིག་པ་ལ།
 
 Just as, from a seed burned by fire,
 
-<!-- pair: NS-000026 -->
+<!-- NS-000026 | legacy entry 26 -->
+
+མྱུ་གུ་སྔོན་མོ་ཇི་བཞིན་ནོ།
 
 No green shoot grows.
 
-<!-- pair: NS-000027 -->
+<!-- NS-000027 | legacy entry 27 -->
+
+ཞེས་གསུངས།
 
 So it is said.
 
-<!-- pair: NS-000028a -->
+<!-- NS-000028a | legacy entry 28 -->
+
+དེ་བཞིན་དུ་དད་པ་ནི་འཕགས་པའི་ནོར་བདུན་གྱི་གཙོ་བོ་ཡིན་ཏེ།
 
 Likewise, faith is foremost among the seven riches of noble ones:[^N-028]
 
-<!-- pair: NS-000028b -->
+<!-- NS-000028b | legacy entry 28 -->
+
+དད་པའི་འཁོར་ལོ་རིན་པོ་ཆེ། ཉིན་མཚན་དགེ་བའི་ལམ་ལ་སྦྱོར།
 
 “The precious wheel of faith\
 Sets one on the path of virtue day and night.”
 
-<!-- pair: NS-000029 -->
+<!-- NS-000029 | legacy entry 29 -->
+
+ཞེས་པ་ལྟར་ཡིན་པས་ནོར་ཐམས་ཅད་ཀྱི་ནང་ན་མཆོག་ཏུ་གྱུར་པ་ཡིན་པ་དང་དེ་བཞིན་དུ་ཡོན་ཏན་མི་ཟད་པའི་འབྱུང་གནས་ཡིན་པས་གཏེར་དང་། ཐར་པའི་ལམ་དུ་འགྲོ་བའི་རྐང་པ་དང། དགེ་བའི་ཆོས་ཐམས་ཅད་རང་རྒྱུད་ལ་སྡུད་པའི་ལག་པ་ལྟ་བུ་ཡིན་ཏེ།
 
 As these words say, it is supreme among all riches. Likewise, it is a treasure, since it is the source of inexhaustible qualities; it is like feet for walking the path to liberation and hands for gathering all virtuous Dharma into one’s own continuum.
 
-<!-- pair: NS-000030a -->
+<!-- NS-000030a | legacy entry 30 -->
+
+དད་པ་ནོར་དང་གཏེར་དང་རྐང་པའི་མཆོག ལག་པ་བཞིན་དུ་དགེ་སྡུས་རྩ་བ་ཡིན།
 
 “Faith is the supreme wealth, treasure, and feet;\
 Like a hand, it is the root of gathering virtue.”
 
-<!-- pair: NS-000030b -->
+<!-- NS-000030b | legacy entry 30 -->
+
+ཞེས་གསུངས།
 
 So it is said.
 
-<!-- pair: NS-000031 -->
+<!-- NS-000031 | legacy entry 31 -->
+
+དེས་ན་དཀོན་མཆོག་གསུམ་ལ་ཐུགས་རྗེ་དང་བྱིན་རླབས་བསམ་གྱི་མི་ཁྱབ་པ་ཡོད་ཀྱང་། རང་གི་རྒྱུད་ལ་འཇུག་པར་བྱེད་པ་ནི་དད་པ་དང་མོས་གུས་གཉིས་ཁག་ཆེ་ཡིན།
 
 Thus, although the Three Jewels have inconceivable compassionate responsiveness and blessings, the two—faith and confident devotion—are crucial for bringing these into one’s own continuum.
 
-<!-- pair: NS-000032 -->
+<!-- NS-000032 | legacy entry 32 -->
+
+རང་ལ་དད་པ་དང་མོས་གུས་ལེགས་པ་ཅིག་ཡོད་ན་བླ་མ་དཀོན་མཆོག་གི་ཐུགས་རྗེ་དང་བྱིན་རླབས་ཡང་ལེགས་པ་ཅིག་ཡོང་།
 
 If one’s faith and confident devotion are excellent, the compassionate responsiveness and blessings of the guru and the Three Jewels will also be excellent.
 
-<!-- pair: NS-000033 -->
+<!-- NS-000033 | legacy entry 33 -->
+
+འབྲིང་འབྲིང་། ཉུང་ངུ་ལ་ཉུང་ངུ་། དད་པ་དང་མོས་གུས་རྩ་བ་ནས་མེད་ན་བྱིན་རླབས་དང་ཐུགས་གཏན་ནས་མི་འཇུག་པ་ཡིན།
 
 For middling faith and confident devotion, middling; for little, little. If faith and confident devotion are entirely absent, blessings and compassionate responsiveness will never enter.[^N-033]
 
-<!-- pair: NS-000034 -->
+<!-- NS-000034 | legacy entry 34 -->
+
+དཔེར་ན་དགེ་སློང་ལེགས་པའི་སྐར་མ་ལོ་ཉེར་ལྔའི་བར་དུ་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་འབྲིང་དུ་བསྡད་ཀྱང་དད་པ་ཅུང་ཟད་མེད་པར་ལོག་ལྟ་ཁོ་ན་བྱས་པས་མཐར་མེ་ཏོག་ལྡུམ་རར་ཡི་དྭགས་སུ་སྐྱས་པ་ལྟ་བུ་ཡིན།
 
 For example, although the monk Good Star served as the Blessed One’s attendant for twenty-five years, he had not the slightest faith and held only wrong views. In the end, he was born as a hungry ghost in a flower garden.[^N-034][^N-034b]
 
-<!-- pair: NS-000035a -->
+<!-- NS-000035a | legacy entry 35 -->
+
+སངས་རྒྱས་མདུན་དུ་ཕེབས་ཀྱང་དད་པ་ཅུང་ཟད་མེད། དུད་འགྲོ་རྒྱུ་མ་རླུག་ཀྱང་སྙིང་རྗེ་ཅུང་ཟད་མེད། དེ་གཉིས་མེད་ལ་བྱིན་རླབས་ག་ལ་འཇུག
 
 “Even when the Buddha comes before you, you have not the slightest faith;\
 Even when an animal’s entrails spill out, you have not the slightest compassion.\
 Without these two, how could blessings enter?”[^N-035][^N-035b]
 
-<!-- pair: NS-000035b -->
+<!-- NS-000035b | legacy entry 35 -->
+
+ཞེས་པ་ལྟར་ཡིན།
 
 It is as these words say.
 
-<!-- pair: NS-000036 -->
+<!-- NS-000036 | legacy entry 36 -->
+
+སྙིང་ཁོང་རུས་པའི་གཏིང་ནས་དད་པ་དང་མོས་གུས་ཡོད་ན་དེའི་དྲུང་ན་རྒྱལ་བ་རྫོགས་པའི་སངས་རྒྱས་ཉིད་བཞུགས་ནས་བྱིན་གྱིས་རློབ་པར་འགྱུར་བ་ཡིན་པས།
 
 If one has faith and confident devotion from the depths of heart and bone, the victorious, perfect Buddha himself will abide in one’s presence and bless one.
 
-<!-- pair: NS-000037 -->
+<!-- NS-000037 | legacy entry 37 -->
+
+ཇི་སྐད་དུ།
 
 As it is said:
 
-<!-- pair: NS-000038 -->
+<!-- NS-000038 | legacy entry 38 -->
+
+གང་གིས་མོས་པ་ཡིད་བྱེད་པ།
 
 Whoever attends with the mental faculty in devotion,[^N-038]
 
-<!-- pair: NS-000039 -->
+<!-- NS-000039 | legacy entry 39 -->
+
+དེ་ཡི་མདུན་དུ་ཐུབ་པ་བཞུགས།
 
 Before that person the Sage abides;
 
-<!-- pair: NS-000040 -->
+<!-- NS-000040 | legacy entry 40 -->
+
+དབང་བསྐུར་བྱིན་གྱིས་བརླབ་པར་འགྱུར།།
 
 He will grant empowerment and bestow blessing.[^N-040]
 
-<!-- pair: NS-000041 -->
+<!-- NS-000041 | legacy entry 41 -->
+
+ཞེས་དང་། གུ་རུ་རིན་པོ་ཆེས།
 
 So it is said. Guru Rinpoche also says:
 
-<!-- pair: NS-000042 -->
+<!-- NS-000042 | legacy entry 42 -->
+
+དད་པ་ཅན་གྱི་གང་ཟག་ཕོ་མོ་ལ།
 
 For a person with faith, whether man or woman,
 
-<!-- pair: NS-000043 -->
+<!-- NS-000043 | legacy entry 43 -->
+
+པད་འབྱུང་གང་དུའང་མ་བཞུད་སྒོ་ཉལ་ཡོད།
 
 I, the Lotus-Born, have gone nowhere: I lie at their door.
 
-<!-- pair: NS-000044 -->
+<!-- NS-000044 | legacy entry 44 -->
+
+ང་ཡི་ཚེ་ལ་འདས་གྲོང་ཡོད་མ་ཡིན།
 
 There is no passing away in my life.[^N-044]
 
-<!-- pair: NS-000045 -->
+<!-- NS-000045 | legacy entry 45 -->
+
+དད་ལྡན་མི་རེའི་མདུན་ན་པད་འབྱུང་རེ།
 
 Before each person with faith, there is a Lotus-Born.
 
-<!-- pair: NS-000046 -->
+<!-- NS-000046 | legacy entry 46 -->
+
+རང་ལ་ཡིད་ཆེས་ཀྱི་དད་པ་ཡོད་ན་སངས་རྒྱས་ཀྱི་ཐུགས་རྗེ་གང་དུ་ཡང་འཇུག་པ།
 
 If one has trusting faith, the Buddha’s compassionate responsiveness can enter anywhere.
 
-<!-- pair: NS-000047 -->
+<!-- NS-000047 | legacy entry 47 -->
+
+དད་པ་ཡོད་ན་རྒན་མོ་ཁྱི་སོས་སངས་རྒྱས་ཟེར་བ་ཡིན་ཏེ།
 
 It is said, “With faith, an old woman became a Buddha through a dog’s tooth.”[^N-047]
 
-<!-- pair: NS-000048 -->
+<!-- NS-000048 | legacy entry 48 -->
+
+སྔོན་དུས་རྒན་མོ་མ་བུ་གཉིས་ཡོད་པ་ཡིན།
 
 Long ago there were an old mother and her son.
 
-<!-- pair: NS-000049 -->
+<!-- NS-000049 | legacy entry 49 -->
+
+བུ་ཡང་་་་་ཡང་རྒྱ་གར་དུ་ཚོང་ལ་འགྲོ་བ་ཞིག་ཡོད།
 
 The son repeatedly went to India to trade.
 
-<!-- pair: NS-000050 -->
+<!-- NS-000050 | legacy entry 50 -->
+
+བུ་རང་ལ་མ༼་༽རྒན་ང་ཡིས་ཞུ་བ་ཡིན།
 
 “My son, I, your old mother, ask you:
 
-<!-- pair: NS-000051 -->
+<!-- NS-000051 | legacy entry 51 -->
+
+རྒྱ་གར་འཕགས་ཡུལ་གྱི་གནས་ཆེན་རྡོ་རྗེ་གདན་རྫོགས་པའི་སངས་རྒྱས་མང་དུ་བྱོན་པའི་ཡུལ་ཡིན་པར་འདུག་པས།
 
 “In the noble land of India, the great sacred place Vajrāsana is a place where many perfect buddhas have appeared.
 
-<!-- pair: NS-000052 -->
+<!-- NS-000052 | legacy entry 52 -->
+
+ཁྱོད་ཀྱིས་རྒྱ་གར་ནས་ང་ལ་ཕྱག་འཚལ་བའི་རྟེན་ཁྱད་པར་ཅན་ཞིག་ཞུ་དགོས།
 
 “So you must obtain for me from India an exceptional support for prostration.”
 
-<!-- pair: NS-000053 -->
+<!-- NS-000053 | legacy entry 53 -->
+
+ཅེས་ལན་མང་པོར་ཟེར་ཡང་བུས་བརྗེད་ནས་རྟེན་མ་ལོན།
 
 Although she said this many times, the son forgot and obtained no support.
 
-<!-- pair: NS-000054 -->
+<!-- NS-000054 | legacy entry 54 -->
+
+སྐོར་ཅིག་ཡང་བུ་རྒྱ་གར་དུ་འགྲོ་བའི་ཚེ་
 
 Once, when the son was again going to India,
 
-<!-- pair: NS-000055 -->
+<!-- NS-000055 | legacy entry 55 -->
+
+ད་རེས་ང་ལ་ཕྱག་འཚལ་བའི་རྟེན་ཞིག་འཁུར་རྒྱུ་མེད་ན་ང་ཁྱོད་རང་གི་སྔོན་ལ་ལྕེབས་ནས་འཆིའོ་ཟེར་བ་ལ།
 
 she said, “If you do not bring me a support for prostration this time, I will kill myself and die before your very eyes.”
 
-<!-- pair: NS-000056 -->
+<!-- NS-000056 | legacy entry 56 -->
+
+བུ་རྒྱ་གར་དུ་ཕྱིན་ཚོང་བྱས་ནས་སླར་ལྡོག་གི་བར་དུ་བརྗེད།
 
 The son went to India, traded, and forgot about it until his return.
 
-<!-- pair: NS-000057 -->
+<!-- NS-000057 | legacy entry 57 -->
+
+ཁང་པར་སླེབ་པར་མས་སྨྲས་པ་དྲན་ནས།
 
 On reaching the house, he remembered what his mother had said.[^N-057]
 
-<!-- pair: NS-000058 -->
+<!-- NS-000058 | legacy entry 58 -->
+
+ད་ཅི་བྱེད་ངས་མ་རྒན་ལ་ཕྱག་འཚལ་བའི་རྟེན་ནི་མ་ལོན།
 
 “What shall I do now? I have obtained no support for my old mother’s prostrations.
 
-<!-- pair: NS-000059 -->
+<!-- NS-000059 | legacy entry 59 -->
+
+ད་མ་རྒན་ལྕབས་ནས་འཆི་སྙམ་སྟེ།
 
 “Now my old mother will kill herself and die,” he thought.[^N-059]
 
-<!-- pair: NS-000060 -->
+<!-- NS-000060 | legacy entry 60 -->
+
+གཡས་གཡོན་དུ་བལྟས་པས་ཟུར་ཞིག་ན་ཁྱི་མགོ་ཞིག་འདུག
 
 Looking to the right and left, he found a dog’s head in a corner.
 
-<!-- pair: NS-000061 -->
+<!-- NS-000061 | legacy entry 61 -->
+
+དེའི་སོ་ཞིག་པུད་ནས་དར་གྱིས་དྲིལ་ཏེ་ཁྱེར་འོངས་ནས་མ་ལ་བྱིན།
 
 He pulled out one of its teeth, wrapped it in silk, brought it with him, and gave it to his mother.
 
-<!-- pair: NS-000062 -->
+<!-- NS-000062 | legacy entry 62 -->
+
+འདི་བཅོམ་ལྡན་འདས་ཀྱི་ཚེམས་མཆེ་བ་ཡིན་པས་མ་རྒན་ཁྱོད་ཀྱིས་གསོལ་བ་འདེབས་པའི་རྟེན་གྱིས་ཤིག་བྱས་པས།
 
 He said, “This is the Blessed One’s canine tooth. Old mother, make it a support for your supplications.”
 
-<!-- pair: NS-000063 -->
+<!-- NS-000063 | legacy entry 63 -->
+
+མ་རྒན་གྱིས་ཁྱི་སོ་དེ་ལ་སངས་རྒྱས་ཀྱི་ཚེམས་དངོས་སུ་བཟུང་ནས་དད་པ་བསྐྱད་དེ་དུས་རྒྱུན་དུ་ཕྱག་དང་མཆོད་པ་བྱས་པས་ཁྱི་སོ་ལས་རིང་བསྲེལ་མང་པོ་བབས།
 
 His old mother regarded that dog’s tooth as the Buddha’s actual tooth and aroused faith. She continually made prostrations and offerings, and many relics emerged from the dog’s tooth.[^N-063]
 
-<!-- pair: NS-000064 -->
+<!-- NS-000064 | legacy entry 64 -->
+
+རྒན་མོ་འཆི་བའི་ཚེ་འཇའ་འོད་ཀྱི་གུར་ཕུབ་པ་སོགས་བྱུང་བ་ཡིན།
 
 When the old woman died, a canopy of rainbow light appeared, along with other such signs.
 
-<!-- pair: NS-000065 -->
+<!-- NS-000065 | legacy entry 65 -->
+
+ཁྱི་སོ་ལ་བྱིན་རླབས་ཡོད་པ་མ་ཡིན་ཀྱང་། རྒན་མོ་དད་པ་ཆེ་བའི་སྟོབས་ཀྱིས་སངས་རྒྱས་ཀྱི་བྱིན་རླབས་ཁྱི་སོ་ལ་ཞུགས་ཏེ་སངས་རྒྱས་ཚེམས་དང་ཁྱད་མ་བྱུང་བ་ཡིན།
 
 Although there was no blessing in the dog’s tooth, through the power of the old woman’s great faith the Buddha’s blessing entered it, so that it became no different from the Buddha’s tooth.
 
-<!-- pair: NS-000066 -->
+<!-- NS-000066 | legacy entry 66 -->
+
+དེར་མ་ཟད་གནས་ལུགས་དོན་དམ་པའི་བདེན་པ་མངོན་སུམ་དུ་རྟོགས་པ་ཡང་དད་པ་ཁོ་ན་ལ་རགས་ལས་ཏེ།
 
 Moreover, realizing through direct perception the ultimate truth of the natural state depends on faith alone.[^N-066][^N-066b]
 
-<!-- pair: NS-000067 -->
+<!-- NS-000067 | legacy entry 67 -->
+
+མདོ་ལས་ཀྱང་།
 
 A sūtra also says:
 
-<!-- pair: NS-000068 -->
+<!-- NS-000068 | legacy entry 68 -->
+
+ཤཱ་རིའི་བུ་དོན་དམ་པ་ནི་དད་པས་རྟོགས་པར་བྱ་བ་ཁོ་ན་ཡིན་ནོ་གསུངས།
 
 “Śāriputra, the ultimate is to be realized through faith alone.” So it is said.
 
-<!-- pair: NS-000069 -->
+<!-- NS-000069 | legacy entry 69 -->
+
+དད་པ་ཐུན་མོང་མ་ཡིན་པ་སྐྱེས་པའི་མཐུ་ལས་བླ་མ་དཀོན་མཆོག་གི་བྱིན་རླབས་རང་རྒྱུད་ལ་ཞུགས་ནས་ཡང་དག་པའི་རྟོགས་པ་རྒྱུད་ལ་སྐྱེ་ཞིང་གནས་ལུགས་ཡང་དག་པའི་དོན་མཐོང་ཚེ་བླ་མ་དང་དཀོན་མཆོག་ལ་ཡིད་ཆེས་པ་གཅིག
 
 Through the power of extraordinary faith arising, the blessings of the guru and the Three Jewels enter one’s own continuum, and authentic realization arises in the continuum. When one sees the meaning of the authentic natural state, trust in the guru and the Three Jewels arises—[^N-069]
 
-<!-- pair: NS-000070 -->
+<!-- NS-000070 | legacy entry 70 -->
+
+ཕྱིར་མི་ལྡོག་པའི་དད་པ་ཐུན་མོང་མ་ཡིན་པ་སྐྱེ་བས་གནས་ལུགས་ཀྱི་རྟོགས་པ་དང་ཡིད་ཆེས་ཀྱི་དད་པ་གཉིས་གཅིག་གྲོགས་གཅིག་གིས་བྱེད་པ་ཡིན་ཏེ།
 
 an extraordinary, irreversible faith. Thus realization of the natural state and trusting faith support one another.
 
-<!-- pair: NS-000071 -->
+<!-- NS-000071 | legacy entry 71 -->
+
+སྔོན་དྭགས་པའི་རིན་པོ་ཆེ་བྱོན་ཁར་རྗེ་བཙུན་མི་ལ་རིན་པོ་ཆེ་ལ་ཚོགས་པ་སྐྱོང་བའི་དུས་ནམ་ཡིན་ཞུས་པས།
 
 Formerly, when the Precious One of Dakpo was about to depart, he asked the venerable precious Mila, “When is the time to care for a community?”[^N-071]
 
-<!-- pair: NS-000072 -->
+<!-- NS-000072 | legacy entry 72 -->
+
+ཇི་ཞིག་ན་ད་ལྟ་དང་མི་འདྲ་བའི་སེམས་ཀྱི་ངོ་བོ་ལྷག་གིས་མཐོང་བའི་རྟོགས་པ་ཞིག་རྒྱུད་ལ་སྐྱེ།
 
 He replied, “At some point, a realization will arise in your continuum in which you see the essence of ordinary mind with a clarity unlike what you have now.[^N-072]
 
-<!-- pair: NS-000073 -->
+<!-- NS-000073 | legacy entry 73 -->
+
+དེའི་དུས་སུ་ཕ་རྒན་ང་ལ་ཡང་སངས་རྒྱས་དངོས་སུ་མཐོང་བའི་དད་པ་བརྟན་པོ་སྐྱེ་བ་ཡིན་པས་དེ་དུས་ཚོགས་པ་སྐྱོངས་གསུངས་པ་ཡིན།
 
 “At that time, stable faith will arise in you, seeing even me, your old father, as the actual Buddha. Then care for a community.”
 
-<!-- pair: NS-000074 -->
+<!-- NS-000074 | legacy entry 74 -->
+
+དེ་ལྟར་དད་པ་དང་མོས་གུས་ཐུན་མོང་མ་ཡིན་པ་ཞིག་གི་སྒོ་ནས་ཡིད་ཁྱེད་ཤེས་ཀྱི་བློ་གཞན་དུ་མི་འགྱུར་བ་ཞིག་ནི། སྐྱབས་སུ་འགྲོ་བའི་སྒོ་འབྱེད་ལྟ་བུ་ཡིན་པས་མེད་ཐབས་མེད།
 
 Thus, through extraordinary faith and confident devotion, a conceptual mind that does not turn elsewhere, the mental faculty saying, “You know,” is like the opening of the door to going for refuge. It is indispensable.[^N-074]
 
-<!-- pair: NS-000075 -->
+<!-- NS-000075 | legacy entry 75 -->
+
+དེ་ལྟ་བུའི་དད་པ་དང་ལྡན་པའི་སྐྱབས་འགྲོ་དེ་ལ་ཡང་། ཀུན་སློང་གི་སྒོ་ནས་དབྱེ་ན་གསུམ་སྟེ།
 
 Going for refuge endowed with such faith also has three divisions when classified according to motivation.
 
-<!-- pair: NS-000076 -->
+<!-- NS-000076 | legacy entry 76 -->
+
+འདི་ལྟར་དམྱལ་བ་ཡི་དྭགས་དུད་འགྲོ་སྟེ།
 
 To explain: the hells, hungry ghosts, and animals—
 
-<!-- pair: NS-000077 -->
+<!-- NS-000077 | legacy entry 77 -->
+
+ངན་སོང་གསུམ་གྱི་སྡུག་བསྔལ་ལ་འཇིགས་ཤིང་སྐྲག་ནས་མཐོ་རིས་ལྷ་དང་མིའི་བདེ་བ་ཙམ་དོན་དུ་གཉེར་བས་སྐྱབས་སུ་འགྲོ་ན། སྐྱེས་བུ་ཆུང་ངུའི་སྐྱབས་འགྲོ་ཞེས་བྱ།
 
 if, frightened and terrified by the suffering of these three lower rebirths, one goes for refuge seeking merely the happiness of gods and humans in the higher realms, this is called the going for refuge of a person of lesser capacity.[^N-077][^N-077b]
 
-<!-- pair: NS-000078 -->
+<!-- NS-000078 | legacy entry 78 -->
+
+འཁོར་བའི་གནས་རིས་འདི་མཐོ་དམན་གང་དུ་སྐྱེས་ཀྱང་སྡུག་བསྔལ་གྱི་རང་བཞིན་ལས་མ་འདས་པར་ཤེས་ནས།
 
 If one knows that, wherever one is born among the higher or lower abodes of samsara, one has not gone beyond the intrinsic nature of suffering,
 
-<!-- pair: NS-000079 -->
+<!-- NS-000079 | legacy entry 79 -->
+
+རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་ཐམས་ཅད་ལས་གྲོལ་བའི་ཞི་བ་མྱང་འདས་ཀྱི་གོ་འཕང་ཙམ་དོན་དུ་གཉེར་ནས། དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་འགྲོ་ན་སྐྱེས་བུ་འབྲིང་གི་སྐྱབས་འགྲོ་ཞེས་བྱ།
 
 and goes for refuge to the Three Jewels seeking merely the peaceful state of nirvana, in which one oneself is free from all the sufferings of samsara, this is called the going for refuge of a person of middling capacity.[^N-079]
 
-<!-- pair: NS-000080 -->
+<!-- NS-000080 | legacy entry 80 -->
+
+མཐའ་མེད་པའི་འཁོར་བ་སྡུག་བསྔལ་གྱི་རྒྱ་མཚོ་ཆེན་པོ་ན་གནས་པའི་སེམས་ཅན་འདི་དག་ཐམས་ཅད་སྡུག་བསྔལ་གྱི་རྣམ་གྲངས་བསམ་གྱིས་མི་ཁྱབ་པས་མནར་བར་མཐོང་ནས།
 
 If one sees all these sentient beings, abiding in the great ocean of suffering that is endless samsara, tormented by inconceivably many kinds of suffering,[^N-080]
 
-<!-- pair: NS-000081 -->
+<!-- NS-000081 | legacy entry 81 -->
+
+དེ་ཐམས་ཅད་རྣམ་མཁྱེན་བླ་མ་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་ལ་འགོད་པའི་ཆེད་དུ་སྐྱབས་སུ་འགྲོ་ན་སྐྱེས་བུ་ཆེན་པོའི་སྐྱབས་འགྲོ་ཞེས་བྱ།
 
 and goes for refuge in order to establish them all in the omniscient state of unsurpassed, authentic, perfect buddhahood, this is called the going for refuge of a person of great capacity.[^N-081]
 
-<!-- pair: NS-000082 -->
+<!-- NS-000082 | legacy entry 82 -->
+
+དེ་ལྟར་སེམས་ཀྱི་ཀུན་སློང་རྣམ་པ་གསུམ་ལས་ད་རེས་ཀྱི་སྐབས་སུ་མཐའ་ཡས་པའི་སེམས་ཅན་ཐམས་ཅད་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་ལ་འགོད་པར་འདོད་པའི་སྐྱེས་བུ་ཆེན་པོའི་སྐྱབས་སུ་འགྲོ་དགོས་ཏེ།
 
 Of these three aspects of the ordinary mind’s motivation, on this occasion one must go for refuge as a person of great capacity, wishing to establish all limitless sentient beings in the state of perfect buddhahood.
 
-<!-- pair: NS-000083 -->
+<!-- NS-000083 | legacy entry 83 -->
+
+མཐོ་རིས་ལྷ་དང་མིའི་བདེ་བ་ཙམ་ནི་འཕྲལ་དུ་བདེ་བ་ལྟར་སྣང་ཡང་དོན་དུ་སྡུག་བསྔལ་ལས་མ་འདས་ཤིང་མཐོ་རིས་ཀྱི་བདེ་འབྲས་ཟད་ནས་སླར་ཡང་ངན་སོང་དུ་ལྟུང་བར་འགྱུར་བས།
 
 The mere happiness of gods and humans in the higher realms appears to be happiness for the moment, yet in actuality it does not go beyond suffering. Once the happy results of the higher realms are exhausted, one will fall again into the lower rebirths.[^N-083]
 
-<!-- pair: NS-000084 -->
+<!-- NS-000084 | legacy entry 84 -->
+
+མཐོ་རིས་ཀྱི་བདེ་བ་དར་ཅིག་ཙམ་པ་དོན་དུ་གཉེར་བ་ལ་དགོས་པ་མེད།
 
 There is therefore no purpose in seeking the merely fleeting happiness of the higher realms.
 
-<!-- pair: NS-000085 -->
+<!-- NS-000085 | legacy entry 85 -->
+
+རང་ཉིད་གཅིག་པུ་ཞི་བདེ་མྱ་ངན་ལས་འདས་པ་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་གོ་འཕང་ཙམ་ཐོབ་ཀྱང་ཐོག་མ་མེད་པའི་དུས་ནས་རང་གི་ཨ་ཕ་ཨ་མར་གྱུར་པའི་སེམས་ཅན་རྣམས་མཐའ་མེད་འཁོར་བ་སྡུག་བསྔལ་གྱི་རྒྱ་མཚོར་ལྷུངས་པ་རྣམས་ཀྱི་དོན་མ་བྱས་པར་གྱུར་ན་མི་རུང་བས།
 
 Even if one alone attains the peaceful happiness of nirvana, merely the state of a śrāvaka or pratyekabuddha, it is unacceptable to fail to act for the sake of the sentient beings who have been one’s fathers and mothers since beginningless time and have fallen into the ocean of suffering of endless samsara.[^N-085][^N-085b]
 
-<!-- pair: NS-000086 -->
+<!-- NS-000086 | legacy entry 86 -->
+
+སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་གོ་འཕང་ཐོབ་པར་འདོད་པས་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ་ནི། སྐྱེས་བུ་ཆེན་པོའི་ལམ་བསོད་ནམས་ཚད་མེད་པའི་འཇུག་ངོགས་ཡིན་པས་དེ་ལྟ་བུ་ལ་བསྟེན་དགོས་ཏེ།
 
 Going for refuge to the Three Jewels with the wish that all sentient beings attain the state of buddhahood is the path of a person of great capacity, the entrance to immeasurable merit. One must therefore rely on this kind of going for refuge.[^N-086]
 
-<!-- pair: NS-000087 -->
+<!-- NS-000087 | legacy entry 87 -->
+
+རིན་ཆེན་ཕྲེང་བ་ལས།
 
 From the Precious Garland:
 
-<!-- pair: NS-000088 -->
+<!-- NS-000088 | legacy entry 88 -->
+
+སེམས་ཅན་ཁམས་ནི་ཚད་མེད་ལ།
 
 The realm of sentient beings is immeasurable;
 
-<!-- pair: NS-000089 -->
+<!-- NS-000089 | legacy entry 89 -->
+
+ཕན་འདོད་དེ་ནི་དེ་འདྲའོ།
 
 the wish to benefit them is likewise.
 
-<!-- pair: NS-000090 -->
+<!-- NS-000090 | legacy entry 90 -->
+
+ཞེས་གསུངས་སོ།
 
 Thus it is said.
 
-<!-- pair: NS-000091a -->
+<!-- NS-000091a | legacy entry 91 -->
 
 ## Second: the manner of going for refuge.
 
-<!-- pair: NS-000091b -->
+གཉིས་པ་སྐྱབས་སུ་འགྲོ་བའི་ཚུལ་ལ།
+
+<!-- NS-000091b | legacy entry 91 -->
+
+དེ་ཡང་བསྡུས་པའི་དོན་རྣམ་པ་བཅུ་སྟེ།
 
 Its meaning is summarized in ten aspects:
 
-<!-- pair: NS-000092 -->
+<!-- NS-000092 | legacy entry 92 -->
+
+མཚན་གཞི། མཚན་ཉིད། དབྱེ་བ། ཁྱད་པར། ངོ་བོ། འབྲས་སྐྱབས་དང་སྨོན་སེམས་ཀྱི་ཁྱད་པར། དགོས་པ། སྒྲ་དོན། མཐར་ཐུག་སྐྱབ་ཡུལ་བསྒོམ་ཚུལ་ལོ།
 
 instances; defining characteristics; classifications; distinctions; essence; the distinction between resultant refuge and aspirational bodhicitta; purpose; word and meaning; the ultimate object of refuge; and the manner of cultivation.[^N-092]
 
-<!-- pair: NS-000093 -->
+<!-- NS-000093 | legacy entry 93 -->
 
 ### First: instances.[^N-093]
 
-<!-- pair: NS-000094 -->
+དང་པོ་མཚན་གཞི་ནི།
+
+<!-- NS-000094 | legacy entry 94 -->
+
+སྤང་རྟོག་ཕུན་སུམ་ཚོགས་ཅིང་རང་གཞན་གྱི་དོན་གཉིས་ལྡན་པ་རྫོགས་པའི་སངས་རྒྱས།
 
 The perfectly complete Buddha, perfect in abandonment and realization, possesses the two aims: one’s own and others’.[^N-094][^N-094a]
 
-<!-- pair: NS-000095 -->
+<!-- NS-000095 | legacy entry 95 -->
+
+ཞི་བ་ཆགས་དང་བྲལ་བ་དམ་ཆོས།
 
 The sublime Dharma is peaceful and free from attachment.
 
-<!-- pair: NS-000096 -->
+<!-- NS-000096 | legacy entry 96 -->
+
+རིག་གྲོལ་གཉིས་ལྡན་འཕགས་པའི་དགེ་འདུན་ཏེ་དཀོན་མཆོག་གསུམ་མོ།
 
 The noble Sangha possesses awareness and liberation. These are the Three Jewels.[^N-096]
 
-<!-- pair: NS-000097 -->
+<!-- NS-000097 | legacy entry 97 -->
 
 ### Second: defining characteristics.[^N-097]
 
-<!-- pair: NS-000098 -->
+གཉིས་པ་མཚན་ཉིད་ནི།
+
+<!-- NS-000098 | legacy entry 98 -->
+
+སངས་རྒྱས་དཀོན་མཆོག་སྐུ་བཞི་ཡེ་ཤེས་ལྔའི་བདག་ཉིད་དག་པ་གཉིས་ལྡན་མཐར་ཐུག་པ་དོན་གཉིས་ཕུན་སུམ་ཚོགས་པ་མཚན་ཉིད་བརྒྱད་ལྡན་ཡིན་ཏེ།
 
 The Jewel of the Buddha is of the nature of the four embodiments and five kinds of primordial knowing, possesses the two purities, is ultimate, perfects the two aims, and has eight defining characteristics.[^N-098]
 
-<!-- pair: NS-000099 -->
+<!-- NS-000099 | legacy entry 99 -->
+
+རྒྱལ་ཚབ་མ་ཕམ་པས།
 
 The regent Maitreya said:
 
-<!-- pair: NS-000100 -->
+<!-- NS-000100 | legacy entry 100 -->
+
+འདུས་མ་བྱས་ཤིང་ལྷུན་གྱི་གྲུབ།
 
 Unconditioned and spontaneously present,
 
-<!-- pair: NS-000101 -->
+<!-- NS-000101 | legacy entry 101 -->
+
+གཞན་གྱི་རྐྱེན་གྱིས་རྟོགས་མིན་པ།
 
 not realized through conditions supplied by others,
 
-<!-- pair: NS-000102 -->
+<!-- NS-000102 | legacy entry 102 -->
+
+མཁྱེན་དང་བརྩེ་དང་ནུས་པ་ལྡན།
 
 endowed with knowledge, love, and power:[^N-102]
 
-<!-- pair: NS-000103 -->
+<!-- NS-000103 | legacy entry 103 -->
+
+དོན་གཉིས་ལྡན་པའི་སངས་རྒྱས་ཉིད།
 
 Buddha himself possesses the two aims.
 
-<!-- pair: NS-000104 -->
+<!-- NS-000104 | legacy entry 104 -->
+
+ཅེས་གསུངས།
 
 Thus he said.
 
-<!-- pair: NS-000105 -->
+<!-- NS-000105 | legacy entry 105 -->
+
+ཆོས་བརྗོད་བྱ་འགོག་པ་དང་ལམ་གྱིས་བསྡུས་པའི་ཟག་མེད་རྣམ་བྱང་གི་བདེན་པ་དང་རྗོད་བྱེད་གསུང་རབ་མིང་ཚིག་ཡི་གེར་སྣང་བ་སྟེ་ལུང་རྟོགས་གཉིས་ཀྱི་ཆོས་ལའང་མཚན་ཉིད་བརྒྱད་ལྡན་ཏེ།
 
 The Dharma comprises what is expressed—the uncontaminated truths of complete purification, included in cessation and the path—and what expresses it: the scriptures appearing as names, words, and letters. This twofold Dharma of scriptural transmission and realization also has eight defining characteristics:[^N-105]
 
-<!-- pair: NS-000106 -->
+<!-- NS-000106 | legacy entry 106 -->
+
+བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ།
 
 Inconceivable, nondual, free from conceptualization;
 
-<!-- pair: NS-000107 -->
+<!-- NS-000107 | legacy entry 107 -->
+
+དག་གསལ་གཉེན་པོའི་ཕྱོགས་ཉིད་ཀྱིས།
 
 pure, clear, and on the remedial side—
 
-<!-- pair: NS-000108 -->
+<!-- NS-000108 | legacy entry 108 -->
+
+གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ།
 
 that which is freedom from attachment, and that by which it is reached:[^N-108]
 
-<!-- pair: NS-000109 -->
+<!-- NS-000109 | legacy entry 109 -->
+
+བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས།
 
 this Dharma has the two truths as its defining characteristics.
 
-<!-- pair: NS-000110 -->
+<!-- NS-000110 | legacy entry 110 -->
+
+ཞེས་གསུངས་སོ།
 
 Thus it is said.
 
-<!-- pair: NS-000111 -->
+<!-- NS-000111 | legacy entry 111 -->
+
+དགེ་འདུན་དངོས་ས་ཆེན་པོ་ལ་བཞུགས་པའི་རྒྱལ་སྲས་བྱང་སེམས་འཕགས་པའི་རིག་གྲོལ་གྱི་ཡོན་ཏན་ལྡན་པ་ཉིད་དེ།
 
 The actual Sangha consists of the noble bodhisattvas, the Victors’ children who abide on the great stages and possess the qualities of awareness and liberation.[^N-111][^N-111a]
 
-<!-- pair: NS-000112a -->
+<!-- NS-000112a | legacy entry 112 -->
+
+རྒྱལ་ཚབ་བྱམས་མགོན་གྱིས།
 
 The regent, the protector Maitreya, said:
 
-<!-- pair: NS-000112b -->
+<!-- NS-000112b | legacy entry 112 -->
+
+ཇི་ལྟ་ཇི་སྙེད་ནང་གི་ནི།
 
 Of how things are and all there is, their inward[^N-112]
 
-<!-- pair: NS-000113 -->
+<!-- NS-000113 | legacy entry 113 -->
+
+ཡེ་ཤེས་གཟིགས་པ་དག་པའི་ཕྱིར།
 
 seeing through primordial knowing is pure; therefore
 
-<!-- pair: NS-000114 -->
+<!-- NS-000114 | legacy entry 114 -->
+
+བློ་ལྡན་ཕྱིར་མི་ལྡོག་པའི་ཚོགས།
 
 the irreversible assembly of those endowed with conceptual mind[^N-114]
 
-<!-- pair: NS-000115 -->
+<!-- NS-000115 | legacy entry 115 -->
+
+བླ་མེད་ཡོན་ཏན་དང་ལྡན་ཉིད།
 
 possesses unsurpassed qualities.
 
-<!-- pair: NS-000116 -->
+<!-- NS-000116 | legacy entry 116 -->
+
+ཅེས་གསུངས་སོ།
 
 Thus he said.
 
-<!-- pair: NS-000117a -->
+<!-- NS-000117a | legacy entry 117 -->
 
 ### Third: classification.
 
-<!-- pair: NS-000117b -->
+གསུམ་པ་དབྱེ་བ་ནི།
+
+<!-- NS-000117b | legacy entry 117 -->
+
+ཐུན་མོང་དང་ཐུན་མིན་གཉིས་སོ།
 
 There are two: common and uncommon.
 
-<!-- pair: NS-000118a -->
+<!-- NS-000118a | legacy entry 118 -->
 
 ### The distinctions.
 
-<!-- pair: NS-000118b -->
+ཁྱེད་པར་ནི།
+
+<!-- NS-000118b | legacy entry 118 -->
+
+སྐྱབས་གནས་དང། དུས། རྒྱུ། ཆེད་དུ་བྱ་བ་དད་བཞིའོ།
 
 They are four: the sources of refuge, the duration, the cause, and the purpose.[^N-118]
 
-<!-- pair: NS-000119 -->
+<!-- NS-000119 | legacy entry 119 -->
 
 ### First: the sources of refuge.
 
-<!-- pair: NS-000120 -->
+དང་པོ་སྐྱབས་གནས་ནི།
+
+<!-- NS-000120 | legacy entry 120 -->
+
+ཉན་ཐོས་པ་རྣམས་ཀྱིས་འབྲས་བུ་སྐྱབས་དགྲ་བཅོམ་སྟེ།
 
 For śrāvakas, the resultant refuge is an arhat;[^N-120]
 
-<!-- pair: NS-000121 -->
+<!-- NS-000121 | legacy entry 121 -->
+
+སྡུག་བསྔལ་སྤངས་ནས་སངས་རྒྱས་ཀྱི་སྤྱན་སྔར་ཆོས་ཉན་གཞན་ལ་འཆད་པར་བྱེད་པ་དགེ་འདུན་དཀོན་མཆོག་ལ་འདོད་པ་ཡིན།
 
 they consider the Jewel of the Sangha to be one who has abandoned suffering, listens to Dharma in the presence of the Buddha, and explains it to others.
 
-<!-- pair: NS-000122 -->
+<!-- NS-000122 | legacy entry 122 -->
+
+རང་རྒྱལ་པ་རྣམས་ཀྱིས་རྟེན་འབྲེལ་བཅུ་གཉིས་ལུགས་འབྱུང་ལུགས་ལྡོག་གི་ཚུལ་དུ་སྒོམ་ནས་རྟེན་འབྲེལ་གྱི་ཆོས་རྣམས་ཟབ་མོར་རྟོགས་ནས་སྡུག་བསྔལ་སྤང་བའི་ཆོས་དཀོན་མཆོག་ལ་འདོད་པ་ཡིན།
 
 Pratyekabuddhas cultivate the twelve links of dependent arising in forward and reverse order. Having profoundly realized the phenomena of dependent arising, they consider their refuge to be the Jewel of the Dharma that relinquishes suffering.[^N-122]
 
-<!-- pair: NS-000123 -->
+<!-- NS-000123 | legacy entry 123 -->
+
+ཐེག་ཆེན་པོ་རྣམས་ཀྱིས་སྟོན་པ་སངས་རྒྱས་ལ་འཇིག་པ་ལས་གྲོལ་བའི་སྐྱབས་སུ་འཛིན་ཏོ།
 
 Practitioners of the greater vehicle regard the teacher, the Buddha, as the refuge that frees one from destruction.[^N-123]
 
-<!-- pair: NS-000124 -->
+<!-- NS-000124 | legacy entry 124 -->
+
+རྒྱུའི་སྐྱབས་གནས་ནི་གསུམ་ཀས་སངས་རྒྱས་ལ་སྟོན་པ། ཆོས་ལ་ལམ། དགེ་འདུན་ལ་གྲོགས་སུ་འཛིན་པ་ཡིན།
 
 As for the sources of causal refuge, all three regard the Buddha as teacher, the Dharma as path, and the Sangha as companions.[^N-124]
 
-<!-- pair: NS-000125a -->
+<!-- NS-000125a | legacy entry 125 -->
 
 ### The duration.
 
-<!-- pair: NS-000125b -->
+དུས་ནི།
+
+<!-- NS-000125b | legacy entry 125 -->
+
+ཐེག་དམན་པས་ཇི་སྲིད་འཚོའི་བར་དུའོ།
 
 Practitioners of the lesser vehicle go for refuge for as long as they live.
 
-<!-- pair: NS-000126 -->
+<!-- NS-000126 | legacy entry 126 -->
+
+ཐེག་ཆེན་པས་སྙིང་པོ་བྱང་ཆུབ་ལ་ཐུག་གི་བར་དུའོ།
 
 Practitioners of the greater vehicle do so until reaching the heart of awakening.[^N-126]
 
-<!-- pair: NS-000127a -->
+<!-- NS-000127a | legacy entry 127 -->
 
 ### The cause.
 
-<!-- pair: NS-000127b -->
+རྒྱུ་ནི།
+
+<!-- NS-000127b | legacy entry 127 -->
+
+ཉན་རང་གིས་རང་ཉིད་སྡུག་བསྔལ་ལས་ཐར་བར་འདོད་པ་དད་པས་སྐྱབས་སུ་འགྲོ་ལ། ཐེག་ཆེན་པས་གཞན་སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་ལས་སྒྲོལ་བའི་དོན་དུ་སྙིང་རྗེ་ཆེན་པོའི་སྐྱབས་སུ་འགྲོ་བའོ།
 
 Śrāvakas and pratyekabuddhas go for refuge with faith, wishing to free themselves from suffering. Practitioners of the greater vehicle go for refuge with great compassion, to free all other sentient beings from suffering.[^N-127]
 
-<!-- pair: NS-000128a -->
+<!-- NS-000128a | legacy entry 128 -->
 
 ### The purpose.
 
-<!-- pair: NS-000128b -->
+ཆེད་དུ་བྱ་བ་ནི།
+
+<!-- NS-000128b | legacy entry 128 -->
+
+ཉན་ཐོས་པས་རང་དང་། ཐེག་ཆེན་པའི་གཞན་སྡུག་བསྔལ་ལས་སྒྲོལ་བའི་དོན་དུ་སྐྱབས་སུ་འགྲོ་བའོ།
 
 Śrāvakas go for refuge to free themselves from suffering; practitioners of the greater vehicle do so to free others.[^N-128]
 
-<!-- pair: NS-000129 -->
+<!-- NS-000129 | legacy entry 129 -->
+
+དེ་ལ་འདིར་ཁྱད་པར་བཞི་ལྡན་གྱི་སྐྱབས་འགྲོ་ཐུན་མོང་མ་ཡིན་པ་ལ་འདོད་དོ།
 
 Here, the uncommon going for refuge, endowed with these four distinctions, is intended.
 
-<!-- pair: NS-000130a -->
+<!-- NS-000130a | legacy entry 130 -->
 
 ### The essence.
 
-<!-- pair: NS-000130b -->
+ངོ་བོ་ནི།
+
+<!-- NS-000130b | legacy entry 130 -->
+
+འབྲས་བུ་འཇིགས་པ་མེད་པའི་གནས་སངས་རྒྱས་དོན་དུ་གཉེར་བས་སངས་རྒྱས་ཆོས་དགེ་འདུན་ལ་སྟོན་པ་ལམ་གྲོགས་སུ་ཁས་ལེན་པ་སྐྱབས་འགྲོའི་ངོ་བོ་སྟེ།
 
 Seeking the result—Buddha, the state without fear—and acknowledging the Buddha, Dharma, and Sangha as teacher, path, and companions is the essence of going for refuge.
 
-<!-- pair: NS-000131 -->
+<!-- NS-000131 | legacy entry 131 -->
+
+འབྲས་བུ་དེ་དོན་དུ་གཉེར་ཡང་སྟོན་པ་རྫོགས་པའི་སངས་རྒྱས་ལ་ཚངས་པ་དང་ལྷ་ཆེན་དབང་ཕྱུག་དང་། ཁྱབ་འཇུག་ལ་སོགས་པ་གཞན་འཛིན་པ་དང་། སངས་རྒྱས་སོགས་ལ་སྟོན་པ་ལ་སོགས་འཛིན་ཀྱང་འབྲས་བུ་དམན་པ་དོན་དུ་གཉེར་ན་སྐྱབས་སུ་ལེགས་པར་སོང་བ་མ་ཡིན་ནོ།
 
 Even if one seeks that result, taking someone else—Brahmā, the great god Īśvara, Viṣṇu, and so forth—as teacher in place of the perfectly complete Buddha means one has not gone for refuge properly. Nor has one done so if, although regarding the Buddha and the others as teacher and so forth, one seeks an inferior result.[^N-131]
 
-<!-- pair: NS-000132a -->
+<!-- NS-000132a | legacy entry 132 -->
 
 ### What is the distinction between resultant refuge and generating aspirational bodhicitta?
 
-<!-- pair: NS-000132b -->
+འབྲས་སྐྱབས་དང་སྨོན་པ་སེམས་བསྐྱེད་ལ་ཁྱད་པ་ཅི་ཡོད་ཅེ་ན།
+
+<!-- NS-000132b | legacy entry 132 -->
+
+སེམས་ཅན་དོན་དུ་བྱང་ཆུབ་དོན་གཉེར་ཙམ་ནི་སྐྱབས་འགྲོ་ཡིན།
 
 Merely seeking awakening for the sake of sentient beings is going for refuge.[^N-132]
 
-<!-- pair: NS-000133 -->
+<!-- NS-000133 | legacy entry 133 -->
+
+བསམ་པ་དེ་ཉིད་དམ་བཅའ་བའི་ལྕགས་ཀྱུས་དབང་དུ་བྱ་བ་ནི་སྨོན་པ་སེམས་བསྐྱེད་དོ།
 
 Bringing that very intention under control with the hook of a pledge is generating aspirational bodhicitta.
 
-<!-- pair: NS-000134 -->
+<!-- NS-000134 | legacy entry 134 -->
 
 ### The purpose.
 
-<!-- pair: NS-000135 -->
+དགོས་པ་ནི།
+
+<!-- NS-000135 | legacy entry 135 -->
+
+ཕྱི་པ་དང་ནང་པ་སངས་རྒྱས་པའི་ཁྱད་པར་དབྱེ་བའི་ཆད་དང་། དགེ་བསྙེན་དང་དགེ་ཚུལ་དགེ་སློང་སོགས་ལ་རང་རང་གི་སྡོམ་པ་སྐྱེའོ།
 
 It distinguishes outsiders from Buddhist insiders, and the respective vows arise in lay adherents, novices, fully ordained monastics, and so forth.[^N-135]
 
-<!-- pair: NS-000136 -->
+<!-- NS-000136 | legacy entry 136 -->
+
+གདོན་བགེགས་སོགས་ལས་སྐྱོབ་པའི་སྲུང་བ་ཆེན་པོ་དང་ལྡན་པ། ལོག་པར་མོས་པའི་ལས་ཀྱི་སྒྲིབ་པ་སྲབ་པ་དང་། དམ་པའི་གྲངས་སུ་བགྲང་བ་དང་། བསྟན་པ་ལ་དད་པའི་ལྷ་ཀླུ་རྣམས་ཀྱི་ཆེད་དུ་བརྗོད་པའོ།
 
 One possesses great protection against harmful spirits, obstructors, and the like; the karmic obscurations of misplaced allegiance diminish; one is counted among the sublime ones; and the gods and nāgas who have faith in the teaching speak of one with acclaim.[^N-136]
 
-<!-- pair: NS-000137a -->
+<!-- NS-000137a | legacy entry 137 -->
 
 ### Word and meaning.
 
-<!-- pair: NS-000137b -->
+སྒྲ་དོན་ནི།
+
+<!-- NS-000137b | legacy entry 137 -->
+
+རཏྣ་ཞེས་པའི་སྒྲ་ལས་རིན་པོ་ཆེ་དང་ཆོས་མཐུན་པ་དྲུག་གིས་དཀོན་མཆོག་ཏུ་བཞག་སྟེ།
 
 With reference to the word ratna, they are designated “Jewels” because of six properties they share with precious gems:[^N-137]
 
-<!-- pair: NS-000138 -->
+<!-- NS-000138 | legacy entry 138 -->
+
+རྒྱུད་བླ་མ་ལས།
 
 From the Sublime Continuum:
 
-<!-- pair: NS-000139 -->
+<!-- NS-000139 | legacy entry 139 -->
+
+འབྱུང་བ་དཀོན་ཕྱིར་དྲི་མེད་ཕྱིར།
 
 Because they rarely arise, because they are stainless,
 
-<!-- pair: NS-000140 -->
+<!-- NS-000140 | legacy entry 140 -->
+
+མཐུ་ལྡན་ཕྱིར་དང་འཇིག་རྟེན་གྱི།
 
 because they possess power, and because they become the world’s
 
-<!-- pair: NS-000141 -->
+<!-- NS-000141 | legacy entry 141 -->
+
+རྒྱན་གྱུར་ཕྱིར་དང་མཆོག་ཉིད་ཕྱིར།
 
 adornment, because they are supreme,
 
-<!-- pair: NS-000142 -->
+<!-- NS-000142 | legacy entry 142 -->
+
+འགྱུར་བ་མེད་ཕྱིར་དཀོན་མཆོག་ཉིད།
 
 and because they do not change, they are Jewels.
 
-<!-- pair: NS-000143 -->
+<!-- NS-000143 | legacy entry 143 -->
+
+ཅེས་པས།
 
 Thus it is said. Accordingly:
 
-<!-- pair: NS-000144 -->
+<!-- NS-000144 | legacy entry 144 -->
+
+འབྱུང་བ་དཀོན་པར་ཆོས་མཐུན་པ་ནི། བསྐལ་པ་ཡོངས་སུ་འགྱུར་བ་མང་པོར་ཡང་འཇིག་རྟེན་ན་དགེ་བའི་རྩ་བ་མ་བསྐྲུན་པའི་སེམས་ཅན་རྣམས་དང་འཕྲད་པར་མི་འགྱུར་བའི་ཕྱིར་རོ།
 
 The shared property of rarely arising is this: even over many fully elapsed eons, they are not encountered by beings in the world who have not produced roots of virtue.
 
-<!-- pair: NS-000145 -->
+<!-- NS-000145 | legacy entry 145 -->
+
+དྲི་མ་མེད་པར་ཆོས་མཐུན་པ་ནི། རྣམ་པ་ཐམས་ཅད་དུ་སྐྱོན་གྱི་དྲི་མ་ཐམས་ཅད་དང་བྲལ་བའི་ཕྱིར་རོ།
 
 The shared property of being stainless is this: in every aspect, they are free from all the stains of faults.
 
-<!-- pair: NS-000146 -->
+<!-- NS-000146 | legacy entry 146 -->
+
+མཐུ་དང་ལྡན་པར་ཆོས་མཐུན་པ་ནི། མངོན་པར་ཤེས་པ་དྲུག་ལ་སོགས་པའི་ཡོན་ཏན་གྱི་མཐུ་བསམ་གྱི་མི་ཁྱབ་པ་དང་ལྡན་པས་འཇིག་རྟེན་གྱི་རྒུད་པ་སེལ་བའི་ཕྱིར་རོ།
 
 The shared property of possessing power is this: possessing the inconceivable power of qualities such as the six kinds of higher knowing, they dispel the world’s misfortunes.[^N-146]
 
-<!-- pair: NS-000147 -->
+<!-- NS-000147 | legacy entry 147 -->
+
+འཇིག་རྟེན་གྱི་རྒྱན་དུ་གྱུར་པར་ཆོས་མཐུན་པ་ནི། འགྲོ་བ་ཐམས་ཅད་ཀྱི་བསམ་པ་དགེ་བའི་རྒྱི་ཡིན་པའི་ཕྱིར།
 
 The shared property of being the world’s adornment is this: they are the cause of virtuous intentions in all beings.[^N-147]
 
-<!-- pair: NS-000148 -->
+<!-- NS-000148 | legacy entry 148 -->
+
+རིན་པོ་ཆེ་བཅོས་མ་ལས་མཆོག་ཉིད་དུ་ཆོས་མཐུན་པ་ནི། འཇིག་རྟེན་ལས་འདས་པའི་ཡོན་ཏན་མངའ་བའི་ཕྱིར་རོ།
 
 The shared property of being superior to imitation jewels is this: they possess qualities that transcend the world.
 
-<!-- pair: NS-000149 -->
+<!-- NS-000149 | legacy entry 149 -->
+
+བསྟོད་སྨད་ལ་སོགས་པའི་རྐྱེན་གྱིས་འགྱུར་བ་མེད་པར་ཆོས་མཐུན་པ་ནི། ཆོས་ཉིད་འདུས་མ་བྱས་པའི་རང་བཞིན་ཡིན་པའི་ཕྱིར་རོ།
 
 The shared property of not changing under conditions such as praise and blame is this: their intrinsic nature is the unconditioned nature of phenomena.[^N-149]
 
-<!-- pair: NS-000150a -->
+<!-- NS-000150a | legacy entry 150 -->
 
 ### The ultimate object of refuge.
 
-<!-- pair: NS-000150b -->
+མཐར་ཐུག་སྐྱབས་ཡུལ།
+
+<!-- NS-000150b | legacy entry 150 -->
+
+མཐར་ཐུག་གི་སྐྱབས་གནས་སངས་རྒྱས་ཁོ་ན་ཡིན་གྱི། གཞན་གཉིས་མ་ཡིན་ཏེ། ལུང་གི་ཆོས་རྣམས་བདེན་པ་མཐོང་བ་ན་སྤང་དགོས་པའི་ཕྱིར་དང་། བྱང་སེམས་ཉན་རང་གི་རྒྱུད་ཀྱི་རྟོགས་པའི་ཆོས་རྣམས་གོང་ནས་གོང་བོཌ་དབྱུང་དུ་ཡོད་པས་མི་རྟག་ཅིང་བསླུ་བའི་ཕྱིར་དང་། དགེ་འདུན་དེ་དག་རང་ཡང་ད་དུང་ལམ་བགྲོད་བྱ་དང་བཅས་པས་ན་མཐར་ཐུག་པ་མེད་པའི་ཕྱིར་དང་། བག་ལ་ཉལ་བ་དང་རང་སའི་སྒྲིབ་པ་རྣམས་སངས་རྒྱས་ལ་མ་བརྟེན་པར་སྤང་མི་ནུས་པས་ན་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར་ཏེ།
 
 The ultimate source of refuge is the Buddha alone, not the other two. This is because the Dharma of scriptural transmission must be abandoned when truth is seen; because the Dharma of realization in the continua of bodhisattvas, śrāvakas, and pratyekabuddhas [has an unresolved predicate concerning successive stages][^N-150] and is therefore impermanent and deceptive; because those members of the Sangha themselves still have a path to traverse and so are not ultimate; and because, without relying on the Buddha, they cannot abandon latent dispositions and the obscurations of their respective stages, and so remain subject to fear.[^N-150a]
 
-<!-- pair: NS-000151 -->
+<!-- NS-000151 | legacy entry 151 -->
+
+རྒྱུས་བླ་མ་ལས།
 
 From the Sublime Continuum:[^N-151]
 
-<!-- pair: NS-000152 -->
+<!-- NS-000152 | legacy entry 152 -->
+
+སྤང་ཕྱིར་བསླུ་བའི་ཆོས་ཅན་ཕྱིར།
 
 Because they are to be abandoned, because they have a deceptive character,
 
-<!-- pair: NS-000153 -->
+<!-- NS-000153 | legacy entry 153 -->
+
+མེད་ཕྱིར་འཇིགས་དང་བཅས་པའི་ཕྱིར།
 
 because the ultimate is absent, and because they are subject to fear,[^N-153]
 
-<!-- pair: NS-000154 -->
+<!-- NS-000154 | legacy entry 154 -->
+
+ཆོས་རྣམས་གཉིས་དང་འཕགས་པའི་ཚོགས།
 
 the two kinds of Dharma and the noble assembly
 
-<!-- pair: NS-000155 -->
+<!-- NS-000155 | legacy entry 155 -->
+
+གཏན་གྱི་སྐྱབས་མཆོག་མ་ཡིན་ནོ།
 
 are not the lasting supreme refuge.
 
-<!-- pair: NS-000156 -->
+<!-- NS-000156 | legacy entry 156 -->
+
+དམ་པའི་དོན་དུ་འགྲོ་བ་ཡིན།
 
 In the ultimate meaning, [for] beings,[^N-156]
 
-<!-- pair: NS-000157 -->
+<!-- NS-000157 | legacy entry 157 -->
+
+སྐྱབས་ནི་སངས་རྒྱས་ཉག་གཅིག་ཡིན།
 
 the Buddha alone is the refuge.
 
-<!-- pair: NS-000158 -->
+<!-- NS-000158 | legacy entry 158 -->
+
+ཞེས་སོ།
 
 Thus it is said.
 
-<!-- pair: NS-000159a -->
+<!-- NS-000159a | legacy entry 159 -->
 
 ### Seventh: the manner of cultivation.
 
-<!-- pair: NS-000159b -->
+བདུན་པ་བསྒོམ་ཚུལ་ནི།
+
+<!-- NS-000159b | legacy entry 159 -->
+
+དུས་དང་རྣམ་པ་ཐམས་ཅད་དུ་སེམས་དྲན་ཤེས་དང་མ་བྲལ་བའི་ངང་ནས་སྐྱབས་གནས་གསུམ་པོ་དང་ལྷ་ཚོགས་དེ་དག་འགྲོ་བའི་ཚེ་ཕྲག་པ་གཡས་ཀྱི་ནམ་མཁར་བསྒོམ།
 
 At all times and in every aspect, with ordinary mind inseparable from mindfulness and alertness, cultivate the three sources of refuge and that assembly of deities in the space above your right shoulder while walking.[^N-159][^N-159a]
 
-<!-- pair: NS-000160 -->
+<!-- NS-000160 | legacy entry 160 -->
+
+དེ་བསྐོར་བ་བྱེད་པའི་གནས་ཡིན།
 
 That is the position for circumambulation.
 
-<!-- pair: NS-000161 -->
+<!-- NS-000161 | legacy entry 161 -->
+
+འདུག་པའི་དུས་སྤྱི་བོའི་གཙུག་གི་ནམ་མཁར་བསྒོམ།
 
 When sitting, cultivate them in the space above the top of your crown.
 
-<!-- pair: NS-000162 -->
+<!-- NS-000162 | legacy entry 162 -->
+
+དེ་གསོལ་བ་འདེབས་པའི་རྟེན་ཡིན།
 
 That is the support for supplication.
 
-<!-- pair: NS-000163 -->
+<!-- NS-000163 | legacy entry 163 -->
+
+ཟ་འཐུང་གི་དུས་མགྲིན་པའི་དབུས་སུ་བསྒོམ།
 
 When eating and drinking, cultivate them in the center of your throat.
 
-<!-- pair: NS-000164 -->
+<!-- NS-000164 | legacy entry 164 -->
+
+དེ་ཅི་ཟ་ཅི་འཐུང་གི་ཕུད་མཆོད་ས་ཡིན།
 
 That is the place for offering the first portion of whatever you eat and drink.
 
-<!-- pair: NS-000165 -->
+<!-- NS-000165 | legacy entry 165 -->
+
+གཉིད་ལོག་པའི་དུས་སྙིང་གི་དབུས་སུ་བསྒོམ།
 
 When going to sleep, cultivate them in the center of your heart.
 
-<!-- pair: NS-000166 -->
+<!-- NS-000166 | legacy entry 166 -->
+
+དེ་འཁྲུལ་བ་འོད་གསལ་དུ་སྦ་བའི་གནད་ཡིན།
 
 That is the key point for hiding delusion within clear light.[^N-166]
 
-<!-- pair: NS-000167 -->
+<!-- NS-000167 | legacy entry 167 -->
+
+དེ་ལྟར་སྤྱོད་ལམ་ཐམས་ཅད་དུ་སྐྱབས་ཡུལ་རྣམས་གསལ་སྣང་དང་མ་བྲལ་བའི་ངང་ནས་དཀོན་མཆོག་རིན་པོ་ཆེ་རྣམ་པ་གསུམ་ལ་ཡིད་ཁྱེད་ཤེས་ཀྱི་དད་པས་བློ་བཀལ་ཏེ་སྐྱབས་འགྲོ་མཛད་དགོས་ཁག་ཆེའོ།
 
 In this way, throughout all your conduct, remain inseparable from the clear appearance of the objects of refuge. It is essential to go for refuge, entrusting your conceptual mind to the three precious Jewels with faith in your mental faculty that says, “You know.”[^N-167]
 
-<!-- pair: NS-000168a -->
+<!-- NS-000168a | legacy entry 168 -->
 
 ## Third: explaining the trainings.
 
-<!-- pair: NS-000168b -->
+གསུམ་པ་བསླབ་བྱ་བསྟན་པ་ལ།
+
+<!-- NS-000168b | legacy entry 168 -->
+
+ཕྱག་འཚལ་བའི་བསླབ་བྱ། སྤང་བྱའི་བསླབ་བྱ། བསྒྲུབ་བྱའི་བསླབ་བྱ། ཆ་མཐུན་གྱི་བསླབ་བྱ་དང་བཞིའོ།
 
 There are four: the training in prostration, the training in what to abandon, the training in what to accomplish, and the corresponding training.
 
-<!-- pair: NS-000169a -->
+<!-- NS-000169a | legacy entry 169 -->
 
 ### First.
 
-<!-- pair: NS-000169b -->
+དང་པོ་ནི།
+
+<!-- NS-000169b | legacy entry 169 -->
+
+དེ་ཡང་ཕྱག་འཚལ་བའི་དུས་ལུས་ཀྱི་སྒོ་ནས་ཕྱག་འཚལ་བ། ངག་གིས་སྐྱབས་འགྲོ་དང་གསོལ་འདེབས་གང་ཤེས་ཀྱི་ཚིག་འདོན་པ། ཡིད་ཀྱིས་ཅི་མཛད་ཁྱེད་ཤེས་ཀྱི་བློ་གཏད་བརྟན་པོ་དང་མོས་པ་ཁག་ཆེ་མཛད་དགོས།
 
 When prostrating, prostrate through the gateway of the body. With speech, recite whatever words of going for refuge and supplication you know. With the mental faculty, it is essential to maintain firm entrustment of the conceptual mind and strong devotion: “Whatever you do, you know.”[^N-169][^N-169a]
 
-<!-- pair: NS-000170 -->
+<!-- NS-000170 | legacy entry 170 -->
+
+དེ་ལྟར་སྒོ་གསུམ་ཁྱོན་ཅིག་ཏུ་བསྒྲིམས་ནས་བདག་དང་སེམས་ཅན་ཐམས་ཅད་ལྷན་ཅིག་ཕྱག་འཚལ་བའི་དམིགས་པ་སོགས་གནད་ཆེ་ལ།
 
 Thus gather all three gateways into one effort. It is important to take as your object of focus yourself and all sentient beings prostrating together, and so forth.
 
-<!-- pair: NS-000171 -->
+<!-- NS-000171 | legacy entry 171 -->
+
+དེ་ལྟར་མ་ཡིན་པར་ཁ་གཡེང་མིག་གཡེང་སེམས་ཕྱི་རོལ་གྱི་ཡུལ་གྱི་རྗེས་སུ་འབྲངས།
 
 Otherwise, the mouth is distracted, the eyes are distracted, and ordinary mind follows external objects.
 
-<!-- pair: NS-000172 -->
+<!-- NS-000172 | legacy entry 172 -->
+
+གཡས་ཕྱོགས་ནས་འགྲོ་འདུག་དང་སྨྲ་བརྗོད་ཟེར་བ་བྱུང་ན་མིག་དང་ཤེས་པ་དེ་ཕྱོགས་སུ་གཡེང་ཞིང་ཐལ་མོ་འགྲམ་པ་གཡོན་གྱི་སྟེང་དུ་སྦྱར།
 
 If someone moves about, sits, or talks on your right, your eyes and knowing stray in that direction, while you press your palms together against your left cheek.[^N-172]
 
-<!-- pair: NS-000173 -->
+<!-- NS-000173 | legacy entry 173 -->
+
+དེ་བཞིན་དུ་གཡོན་ཕྱོགས་སུའང་འདྲ།
 
 The same happens toward the left.[^N-173]
 
-<!-- pair: NS-000174 -->
+<!-- NS-000174 | legacy entry 174 -->
+
+སེམས་རྣམ་གཡེང་གི་དབང་དུ་བཏང་།
 
 The ordinary mind is handed over to distraction.
 
-<!-- pair: NS-000175 -->
+<!-- NS-000175 | legacy entry 175 -->
+
+ལུས་དེ་ཁོ་ནས་ཁྱོ་རོ་རོ་ཕྱག་འཚལ་མདོགས་བྱེད་པ་ནི་སྙིང་པོ་ཅི་ཡང་མེད་འོ་རྒྱལ་ཆེ་བའི་རྒྱུའོ།
 
 The body alone [sways about] in a show of prostrating. There is no substance to this at all; it is a cause of great weariness.[^N-175]
 
-<!-- pair: NS-000176 -->
+<!-- NS-000176 | legacy entry 176 -->
+
+སྐྱོབ་པ་འཇིག་རྟེན་གསུམ་མགོན་གྱིས།
 
 The Protector Jigten Sumgön said:
 
-<!-- pair: NS-000177 -->
+<!-- NS-000177 | legacy entry 177 -->
+
+བླ་མ་དང་རང་སེམས་སངས་རྒྱས་གསུམ།
 
 The guru, one’s own ordinary mind, and the Buddha—these three:[^N-177-T]
 
-<!-- pair: NS-000178 -->
+<!-- NS-000178 | legacy entry 178 -->
+
+ཅིག་ཏུ་རྟོགས་པའི་རྣལ་འབྱོར་ལ།
 
 for the yogin who realizes them as one,[^N-178][^N-178-T]
 
-<!-- pair: NS-000179 -->
+<!-- NS-000179 | legacy entry 179 -->
+
+བཅོས་མ་མོས་གུས་བྱ་རྒྱུ་མེད།
 
 there is no need to do contrived confident devotion.[^N-179]
 
-<!-- pair: NS-000180 -->
+<!-- NS-000180 | legacy entry 180 -->
+
+ཞེས་གསུངས་པ་ལྟར་ཡིན།
 
 It is as he said.
 
-<!-- pair: NS-000181 -->
+<!-- NS-000181 | legacy entry 181 -->
+
+དེར་མ་ཟད་ཕྱག་འཚལ་ཚེ་ཡང་ཐལ་མོ་ཁོག་སྟོང་དུ་པདྨ་ཁ་འབུས་པ་ལྟ་བུར་སྦྱར་དགོས་ཀྱི། ཐལ་མོ་ལ་ནང་ཁོང་སྟོང་མེད་པར་ལག་མཐིལ་གཉིས་སྤྲད་དེ་བཅའ་བ་ནི་མུ་སྟེགས་པའི་ཕྱག་ཡིན།
 
 Furthermore, when prostrating, join the palms with a hollow between them, like a budding lotus. Pressing the two palms flat together without a hollow inside is the prostration of the tīrthikas.[^N-181-T]
 
-<!-- pair: NS-000182 -->
+<!-- NS-000182 | legacy entry 182 -->
+
+སོར་རྩེ་ཐུག་ཙམ་བྱེད་པ་ནི་བླུན་པོ་ཅང་མི་ཤེས་ཀྱི་ཕྱག་ཡིན་དེ་རྣམས་མི་རུང་སྟེ།
 
 Merely touching the fingertips together is the prostration of a fool who knows nothing. These are improper, for
 
-<!-- pair: NS-000183 -->
+<!-- NS-000183 | legacy entry 183 -->
+
+ཐར་པ་ཆེན་པོ་ཕྱོགས་སུ་རྒྱས་པའི་མདོ་ལས།
 
 the Sūtra of Great Liberation, Expansive in the Directions, says:[^N-183][^N-183-T]
 
-<!-- pair: NS-000184 -->
+<!-- NS-000184 | legacy entry 184 -->
+
+པདྨ་ཁ་འབུས་ཕྱེས་འདྲ་བ།
 
 Like a lotus bud opening,
 
-<!-- pair: NS-000185 -->
+<!-- NS-000185 | legacy entry 185 -->
+
+ལག་གཉིས་སྤྱི་བོར་ཐལ་སྦྱར་ཏེ།
 
 join the palms of both hands at the crown of the head;
 
-<!-- pair: NS-000186 -->
+<!-- NS-000186 | legacy entry 186 -->
+
+ལུས་དཔག་མེད་པའི་སྤྲིན་ཚོགས་བཅས།
 
 together with cloudlike hosts of immeasurable bodies,
 
-<!-- pair: NS-000187 -->
+<!-- NS-000187 | legacy entry 187 -->
+
+ཕྱོགས་བཅུའི་སངས་རྒྱས་ལ་ཕྱག་འཚལ།
 
 prostrate to the buddhas of the ten directions.
 
-<!-- pair: NS-000188 -->
+<!-- NS-000188 | legacy entry 188 -->
+
+ཞེས་དང་།
 
 Thus it says. Further,
 
-<!-- pair: NS-000189 -->
+<!-- NS-000189 | legacy entry 189 -->
+
+དེ་ནས་རིམ་བཞིན་ཐལ་མོ་སྤྱི་བོར་སྦྱར་བས་ལུས་ཀྱི་སྒྲིབ་པ་འདག
 
 then, in sequence, joining the palms at the crown of the head purifies the obscurations of the body;[^N-189-T]
 
-<!-- pair: NS-000190 -->
+<!-- NS-000190 | legacy entry 190 -->
+
+མགྲིན་པར་སྦྱར་བས་ངག་གི་སྒྲིབ་པ་འདག
 
 joining them at the throat purifies the obscurations of speech;
 
-<!-- pair: NS-000191 -->
+<!-- NS-000191 | legacy entry 191 -->
+
+སྙིང གར་སྦྱར་བས་ཡིད་ཀྱི་སྒྲིབ་པ་འདག
 
 joining them at the heart purifies the obscurations of the mental faculty.[^N-191]
 
-<!-- pair: NS-000192 -->
+<!-- NS-000192 | legacy entry 192 -->
+
+དེ་ནས་ལུས་ཀྱི་མ་ལྔ་ས་ལ་ཕབ་པ་ཞེས་བྱ་བ། དཔྲལ་བ་དང་གཅིག ལག་མཐིལ་གཉིས། པུས་མོ་གཉིས་དང་ལྔ་པོས་ལ་ཕབ་སྟེ་ཕྱག་བྱས་པས། ཉོན་མོངས་པ་དུག་ལྔའི་སྒྲིབ་པ་འདག་པ་དང་།
 
 Then, what is called “lowering the five [parts] of the body to the ground” means lowering the forehead as one, the two palms, and the two knees—five in all—to the ground. Prostrating in this way purifies the obscurations of the afflictions, the five poisons, and[^N-192][^N-192-T]
 
-<!-- pair: NS-000193 -->
+<!-- NS-000193 | legacy entry 193 -->
+
+སྐུ་གསུངས་ཐུགས་ཡོན་ཏན་ཕྲིན་ལས་ལྔའི་བྱིན་རླབས་ཐོབ་པ་ལ་སོགས་པའི་དགོས་པ་ཡོད་པས་དེ་ལྟར་བྱ།
 
 has such purposes as attaining the blessings of the five: embodiment, speech, awakened mind, qualities, and enlightened activity. Therefore, do it in this way.[^N-193]
 
-<!-- pair: NS-000194 -->
+<!-- NS-000194 | legacy entry 194 -->
+
+དེ་ནས་ཡར་ལ་ངས་པའི་ཡང་རྐེད་པ་དྲང་པོར་བསྲངས་ཏེ་ཐལ་མོ་བཅས་ནས་ཡང་སྔར་ལྟར་ཕྱག་འཚལ་མཛད་དགོས་པ་ཡིན་ནོ།
 
 Then, [when rising], again straighten the waist, join the palms, and prostrate again as before.[^N-194]
 
-<!-- pair: NS-000195a -->
+<!-- NS-000195a | legacy entry 195 -->
 
 ### Second: the three things to abandon.
 
-<!-- pair: NS-000195b -->
+གཉིས་པ། སྤང་བྱ་གསུམ་ནི།
+
+<!-- NS-000195b | legacy entry 195 -->
+
+སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ནས་འཁོར་བའི་ལྷ་ལ་ཕྱག་མི་འཚལ་ཞེས་བྱ་སྟེ།
 
 It is said, “Having gone for refuge to the Buddha, do not prostrate to the gods of samsara.” That is,[^N-195-T]
 
-<!-- pair: NS-000196 -->
+<!-- NS-000196 | legacy entry 196 -->
+
+ཕྱི་རོལ་མུ་སྟེགས་པའི་ལྷ་དབང་ཕྱུགས་དང་ཁྱབ་འཇུག་ལ་སོགས་རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་ལས་མ་གྲོལ་བ་རྣམས་དང་།
 
 the gods of the non-Buddhist tīrthikas—Īśvara, Viṣṇu, and others—have themselves not been freed from the suffering of samsara.[^N-196]
 
-<!-- pair: NS-000197 -->
+<!-- NS-000197 | legacy entry 197 -->
+
+གཞན་ཡང་ཡུལ་ལྷ་གཞི་བདག་ལ་སོགས་པ་འཇིག་རྟེན་གྱི་ལྷ་འདྲེ་མཐུ་བོ་ཆེ་རྣམས་ལ་ཕྱི་མའི་སྐྱབས་གནས་སུ་བཟུང་ནས་ཕྱག་དང་མཆོད་པ་ལ་སོགས་མི་བྱ།
 
 To these, and also to powerful worldly gods and spirits such as local deities and lords of sites, do not prostrate, make offerings, or the like while regarding them as refuges for the next life.[^N-197-T]
 
-<!-- pair: NS-000198 -->
+<!-- NS-000198 | legacy entry 198 -->
+
+ཆོས་ལ་སྐྱབས་སུ་སོང་ནས་སེམས་ཅན་ལ་འཚེ་བ་སྤང་ཞེས་གསུངས་ཏེ།
 
 It is said, “Having gone for refuge to the Dharma, abandon injuring sentient beings.”[^N-198-T]
 
-<!-- pair: NS-000199 -->
+<!-- NS-000199 | legacy entry 199 -->
+
+སེམས་ཅན་གཞན་ལ་གནོད་ཅིང་འཚེ་བའི་བྱ་བ་རྨི་ལམ་དུ་ཡང་མི་བྱ་བར་འབད་པ་དྲག་པོས་ཅི་ནུས་སུ་བསྲུང་།
 
 With intense effort, guard yourself as far as you can against doing anything that harms or injures other sentient beings, even in dreams.
 
-<!-- pair: NS-000200 -->
+<!-- NS-000200 | legacy entry 200 -->
+
+དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ནས་གྲོགས་མུ་སྟེགས་ཅན་དད་མི་འགྲོགས་ཏེ།
 
 Having gone for refuge to the Sangha, do not associate with tīrthikas as companions.[^N-200][^N-200-T]
 
-<!-- pair: NS-000201 -->
+<!-- NS-000201 | legacy entry 201 -->
+
+རད་གི་བླ་མ་དང་ཆོས་ལ་གཤེ་ཞིང་སྨོད་པ་དང་གསང་སྔགས་ཟབ་མོའི་ཆོས་ལ་སྐུར་འདེབས་བྱེད་པ་མུ་སྟེགས་དང་ཆ་འདྲ་བ་ལ་མི་འགྲོགས།
 
 Do not associate with those who resemble tīrthikas in abusing and disparaging [your own] guru and Dharma and slandering the profound Dharma of Secret Mantra.[^N-201][^N-201-T]
 
-<!-- pair: NS-000202 -->
+<!-- NS-000202 | legacy entry 202 -->
 
 ### The three things to accomplish
 
-<!-- pair: NS-000203 -->
+བསྒྲུབ་བྱ་གསུམ་ནི།
+
+<!-- NS-000203 | legacy entry 203 -->
+
+སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ནས་སངས་རྒྱས་དཀོན་མཆོག་གི་སྐུའི་རྟེན་ཆག་དུམ་ཡན་ཆད་གུས་པས་མཆོད།
 
 Having gone for refuge to the Buddha, make respectful offerings to representations of the embodiment of the Buddha Jewel, down to even a broken fragment.[^N-203-T]
 
-<!-- pair: NS-000204 -->
+<!-- NS-000204 | legacy entry 204 -->
+
+སྤྱི་བོས་བཏེག་གཙང་སར་བཞག
 
 Lift it to the crown of your head and place it somewhere clean.
 
-<!-- pair: NS-000205 -->
+<!-- NS-000205 | legacy entry 205 -->
+
+སངས་རྒྱས་དཀོན་མཆོག་དངོས་ཀྱི་འདུ་ཤེས་བསྐྱེད་དེ་དད་པ་དང་ངག་སྣང་བྱ།
 
 Generate the perception that it is the actual Buddha Jewel, and maintain faith and [pure appearance].[^N-205]
 
-<!-- pair: NS-000206 -->
+<!-- NS-000206 | legacy entry 206 -->
+
+ཆོས་ལ་སྐྱབས་སུ་སོང་ནས་གསུང་རབ་ཡི་གེ་ཀ་ཁ་ན་ཡན་ཆད་གུས་པ་བསྐྱེད།
 
 Having gone for refuge to the Dharma, develop respect for even the letters of scripture, ka, kha, and na.[^N-206]
 
-<!-- pair: NS-000207 -->
+<!-- NS-000207 | legacy entry 207 -->
+
+སྤྱི་བོས་བཏེག་ཆོས་དཀོན་མཆོག་དངོས་ཀྱི་འདུ་ཤེས་བཞག་དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ནས་དགེ་འདུན་དཀོན་མཆོག་གོ་རྟེན་ལྷན་པ་དམར་སེར་ཡན་ཆད་དགེ་འདུན་དངོས་ཀྱི་འདུ་ཤེས་བཞག་ནས་གུས་པས་མཆོད།
 
 Lift it to the crown of your head and maintain the perception that it is the actual Dharma Jewel. Having gone for refuge to the Sangha, make respectful offerings to representations of the Sangha Jewel, down to even a red or yellow patch [of cloth], maintaining the perception that it is the actual Sangha.[^N-207]
 
-<!-- pair: NS-000208 -->
+<!-- NS-000208 | legacy entry 208 -->
+
+སྤྱི་བོས་མཆོད་གཙང་སར་བཞག་དད་པ་དང་དག་སྣང་བྱ།
 
 Honor it with the crown of your head, place it somewhere clean, and maintain faith and pure appearance.[^N-208]
 
-<!-- pair: NS-000209 -->
+<!-- NS-000209 | legacy entry 209 -->
+
+ཁྱད་པར་གསང་སྔགས་རྡོ་རྗེ་ཐེག་པ་འདིར་སྐྱབས་ཡུལ་གྱི་གཙོ་བོ་བླ་མ་ཡིན་པས། བླ་མའི་སྐུ་དགེ་འདུན། གསུང་དམ་ཆོས། ཐུགས་སངས་རྒྱས་ཏེ་དཀོན་མཆོག་ཀུན་འདུས་ཀྱི་ངོ་བོར་ཤེས་པར་བྱས་ནས། ཅི་མཛད་ལེགས་མཐོང་དང་། བློ་གཏད་ཁྱེད་ཤེས་ཀྱི་སྒོ་ནས་བསྟེན་ཞིང་རྟག་ཏུ་སྔ་དྲོ་ལན་གསུམ་མམ་བདུན། ཕྱི་ཏོག་ཡང་དེ་བཞིན་ཕྱག་འཚལ་སྐྱབས་འགྲོ་གསུང་དགོས།
 
 In this Vajra Vehicle of Secret Mantra in particular, the guru is the principal object of refuge. Know the guru to be the essence in which all the Jewels are gathered: the guru’s embodiment is the Sangha, speech is the sacred Dharma, and awakened mind is the Buddha. See whatever the guru does as good, and attend to the guru by entrusting your conceptual mind with “You know.” Always prostrate and recite going for refuge three or seven times in the morning, and likewise in the [evening].[^N-209][^N-209-T]
 
-<!-- pair: NS-000210 -->
+<!-- NS-000210 | legacy entry 210 -->
+
+བླ་མ་ལ་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge to the guru.
 
-<!-- pair: NS-000211 -->
+<!-- NS-000211 | legacy entry 211 -->
+
+སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge to the Buddha.
 
-<!-- pair: NS-000212 -->
+<!-- NS-000212 | legacy entry 212 -->
+
+ཆོས་ལ་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge to the Dharma.
 
-<!-- pair: NS-000213 -->
+<!-- NS-000213 | legacy entry 213 -->
+
+དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge to the Sangha.
 
-<!-- pair: NS-000214 -->
+<!-- NS-000214 | legacy entry 214 -->
+
+དཔའ་བོ་མཁའ་འགྲོ་ཆོས་སྐྱོང་སྲུང་མའི་ཚོགས་ཡེ་ཤེས་ཀྱི་སྤྱན་དང་ལྡན་པ་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge to the hosts of heroes, ḍākinīs, Dharma protectors, and guardians who possess the eye of primordial knowing.[^N-214-T]
 
-<!-- pair: NS-000215 -->
+<!-- NS-000215 | legacy entry 215 -->
+
+སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ།
 
 To the Buddha, the Dharma, and the supreme assembly,
 
-<!-- pair: NS-000216 -->
+<!-- NS-000216 | legacy entry 216 -->
+
+བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆིའོ།
 
 I go for refuge until awakening.[^N-216-T]
 
-<!-- pair: NS-000217 -->
+<!-- NS-000217 | legacy entry 217 -->
+
+བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས།
 
 Through the merit of the generosity and other [deeds] I have done,[^N-217-T]
 
-<!-- pair: NS-000218 -->
+<!-- NS-000218 | legacy entry 218 -->
+
+འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག
 
 may I accomplish buddhahood to benefit beings.
 
-<!-- pair: NS-000219 -->
+<!-- NS-000219 | legacy entry 219 -->
+
+ཞེས་སྐྱབས་འགྲོ་བཞི་སྐོར་དུ་གྲགས་པ་འདི་དག་ལ་ཡི་དམ་དུ་བྱ།
 
 Make these, known as the “fourfold cycle of going for refuge,” your regular commitment.[^N-219]
 
-<!-- pair: NS-000220 -->
+<!-- NS-000220 | legacy entry 220 -->
 
 ### The three corresponding [trainings][^N-220]
 
-<!-- pair: NS-000221 -->
+ཆ་མཐུན་གསུམ་ནི།
+
+<!-- NS-000221 | legacy entry 221 -->
+
+ད་ལྟ་རང་ལ་བླང་དོར་གྱི་གནས་སྟོན་པའི་བླ་མ་དགེ་བའི་བཤེས་གཉེན་ལ། སངས་རྒྱས་དཀོམ་མཆོག་དདོས་ཀྱི་འདུ་ཤེས་བཞག་ནས་ཐ་ན་སྐུའི་གྲིབ་མ་ཙམ་ལ་ཡང་མི་འགོང་་བར་ཞབས་ཏོག་དང་བསྙེན་བཀུར་ལ་འབད།
 
 Maintain the perception that the guru, the spiritual friend who now shows you what to accept and reject, is the actual Buddha Jewel. Without even stepping over the shadow of the guru’s embodiment, apply yourself to service and respectful attendance.[^N-221][^N-221-T]
 
-<!-- pair: NS-000222 -->
+<!-- NS-000222 | legacy entry 222 -->
+
+བླ་མ་དམ་པ་དེས་བཀའ་ཇི་ལྟར་སྩལ་བའི་གསུང་རྣམས་ལ་ཆོས་དཀོན་མཆོག་དངོས་ཀྱི་འདུ་ཤེས་བཞག་ནས་ཅི་གསུངས་དང་དུ་བླང་ཞིང་གསུང་གི་ཟུར་ཙམ་ཡང་མི་བཅག
 
 Maintain the perception that the words spoken as instructions by that sublime guru are the actual Dharma Jewel. Accept whatever is said; do not transgress even the slightest part of that speech.
 
-<!-- pair: NS-000223 -->
+<!-- NS-000223 | legacy entry 223 -->
+
+བླ་མའི་འཁོར་དང་སློབ་མ་རང་གི་གྲོགས་ཚངས་པར་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་དགེ་འདུན་དཀོན་མཆོག་དངོས་ཀྱི་འདུ་ཤེས་བཞག་སྟེ་ལུས་ངག་ཡིད་གསུམ་གུས་པས་བསྟེན་ཞིང་མི་མཉེས་པ་སྐད་ཅིག་མ་ཙམ་ཡང་མི་བྱའོ།
 
 Maintain the perception that the guru’s retinue and disciples—your companions who share activity in the pure life—are the actual Sangha Jewel. Attend to them respectfully with body, speech, and mental faculty, and do nothing displeasing to them even for an instant.[^N-223]
 
-<!-- pair: NS-000224 -->
+<!-- NS-000224 | legacy entry 224 -->
+
+ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤ་ཡང་མདོ་སྔགས་ཀྱི་ཆོས་རྒྱ་མཚོ་ལྟ་བུ་ལ་མི་མཁྱེན་པ་དང་མི་གཟིགས་པ་ཅུང་ཟད་མེད་ཀྱང་། དེ་དག་ཀུན་ཀྱང་ཐོག་མར་སྐྱབས་འགྲོ་ཁོ་ན་གནད་ཆེ་བར་འདུག་གསུངས་ནས་སྐྱབས་འགྲོ་་་་བཤད་པས་སྐྱབས་འགྲོ་པཎྜི་ཏ་ཞེས་གྲགས་སོ།
 
 Though there was not the slightest part of the oceanlike Dharma of sūtra and mantra that the glorious Lord Atiśa did not know or see, he said that for all of them, going for refuge alone was crucial at the outset. Because he taught going for refuge, he became known as the “Paṇḍita of Going for Refuge.”[^N-224]
 
-<!-- pair: NS-000225 -->
+<!-- NS-000225 | legacy entry 225 -->
+
+དེས་ན་ཐར་པའི་ལམ་དུ་ཞུགས་པའི་ནང་པ་སངས་རྒྱས་པ་ཞིག་ཡིན་ཕྱིན་ཆད་སྐྱབས་འགྲོ་དང་སྐྱབས་འགྲོའི་བསླབ་བྱ་སྲོག་ལ་བབས་ཀྱང་མི་དོར་བར་ཉམས་སུ་བླང་དགོས་ཏེ།
 
 Therefore, once one is a Buddhist who has entered the path of liberation, one must put going for refuge and its trainings into practice without abandoning them, even at the cost of one’s life.[^N-225]
 
-<!-- pair: NS-000226 -->
+<!-- NS-000226 | legacy entry 226 -->
+
+མདོ་ལས།
 
 A sūtra says:
 
-<!-- pair: NS-000227 -->
+<!-- NS-000227 | legacy entry 227 -->
+
+གང་ཞིག་སངས་རྒྱས་སྐྱབས་འགྲོ་བ།
 
 Whoever goes for refuge to the Buddha
 
-<!-- pair: NS-000228 -->
+<!-- NS-000228 | legacy entry 228 -->
+
+དེ་ནི་ཡང་དག་དགེ་བསྙེན་ཏེ།
 
 is truly a lay devotee;[^N-228-T]
 
-<!-- pair: NS-000229 -->
+<!-- NS-000229 | legacy entry 229 -->
+
+ནམ་དུ་ལྷ་ནི་གཞན་དག་ལ།
 
 to other gods, at any time,
 
-<!-- pair: NS-000230 -->
+<!-- NS-000230 | legacy entry 230 -->
+
+སྐྱབས་སུ་སོང་བ་མ་ཡིན་ནོ།
 
 that person does not go for refuge.
 
-<!-- pair: NS-000231 -->
+<!-- NS-000231 | legacy entry 231 -->
+
+དམ་པའི་ཆོས་ལ་སྐྱབས་འགྲོ་བ།
 
 Whoever goes for refuge to the sacred Dharma
 
-<!-- pair: NS-000232 -->
+<!-- NS-000232 | legacy entry 232 -->
+
+འཚེ་ཞིང་གནོད་པའི་སེམས་དང་བྲལ།
 
 is free from an ordinary mind that injures and harms.
 
-<!-- pair: NS-000233 -->
+<!-- NS-000233 | legacy entry 233 -->
+
+འཕགས་པའི་དགེ་འདུན་་སྐྱབས་འགྲོ་བ།
 
 Whoever goes for refuge to the noble Sangha[^N-233]
 
-<!-- pair: NS-000234 -->
+<!-- NS-000234 | legacy entry 234 -->
+
+མུ་སྟེགས་ཅན་དང་འགྲོགས་མི་བྱ།
 
 does not associate with tīrthikas.
 
-<!-- pair: NS-000235 -->
+<!-- NS-000235 | legacy entry 235 -->
+
+ཞེས་སོགས་གསུངས་པ་ལྟར་རོ།
 
 It is as stated in these and other passages.
 
-<!-- pair: NS-000236 -->
+<!-- NS-000236 | legacy entry 236 -->
 
 ## Fourth: explaining the benefits of having gone for refuge
 
-<!-- pair: NS-000237 -->
+བཞི་པ་སྐྱབས་སུ་སོང་བའི་ཕན་ཡོན་བསྟན་པ་ནི།
+
+<!-- NS-000237 | legacy entry 237 -->
+
+གང་གི་སྐྱབས་སུ་སོང་བ་ཙམ་གྱིས་ཐར་པའི་ས་བོན་འདེབས་པ་དང་།
 
 Merely going for refuge plants the seed of liberation;
 
-<!-- pair: NS-000238 -->
+<!-- NS-000238 | legacy entry 238 -->
+
+མི་དགེ་བའི་ཚོགས་ལས་རིང་དུ་བྱེད་པ་དང་།
 
 it distances one from collections of nonvirtue;[^N-238-T]
 
-<!-- pair: NS-000239 -->
+<!-- NS-000239 | legacy entry 239 -->
+
+དགེ་བ་གོང་དུ་འཕེལ་བ་དང་།
 
 it increases virtue;
 
-<!-- pair: NS-000240 -->
+<!-- NS-000240 | legacy entry 240 -->
+
+སྡོམ་པ་ཀུན་གྱི་རྟེན་གཞིར་འགྱུར་ཞིང་། ཡོན་ཏན་ཐམས་ཅད་ཀྱི་འབྱུང་གནས་སུ་འགྱུར་བ་དང་།
 
 it becomes the basis of all vows and the source of all qualities;[^N-240][^N-240-T]
 
-<!-- pair: NS-000241 -->
+<!-- NS-000241 | legacy entry 241 -->
+
+གནས་སྐབས་སུ་ཡང་དཀར་ཕྱོགས་ལྷ་རྣམས་ཀྱིས་སྲུང་ཞིང་བསམ་དོན་འགྲུབ་པ་དང་།
 
 even in the meantime, the gods on the side of virtue protect one, and one’s intended aims are accomplished;[^N-241]
 
-<!-- pair: NS-000242 -->
+<!-- NS-000242 | legacy entry 242 -->
+
+མཐར་ཐུགས་སངས་རྒྱས་ཀྱི་གོ་འཕང་ཐོབ་པ་ལ་སོགས་ཕན་ཡོན་དཔག་ཏུ་མེད་པར་གསུངས་ཏེ།
 
 and ultimately one attains the state of buddhahood. These and other benefits are said to be immeasurable.[^N-242]
 
-<!-- pair: NS-000243 -->
+<!-- NS-000243 | legacy entry 243 -->
+
+ཕར་ཕྱིན་བསྡུས་པ་ལས།
 
 The Condensed Perfection [of Discerning Knowing] says:[^N-243]
 
-<!-- pair: NS-000244 -->
+<!-- NS-000244 | legacy entry 244 -->
+
+སྐྱབས་སོང་བསོད་ནམས་གཟུགས་མཆིས་ན།
 
 If the merit of going for refuge had form,
 
-<!-- pair: NS-000245 -->
+<!-- NS-000245 | legacy entry 245 -->
+
+ཁམས་གསུམ་འདི་ཡང་སྣོད་དུ་ཆུང་།
 
 even these three realms would be too small a vessel.[^N-245-T]
 
-<!-- pair: NS-000246 -->
+<!-- NS-000246 | legacy entry 246 -->
+
+རྒྱ་མཚོ་ཆེན་པོ་ཆུ་ཡི་གཏེར།
 
 The great ocean, a treasury of water—
 
-<!-- pair: NS-000247 -->
+<!-- NS-000247 | legacy entry 247 -->
+
+ཕུལ་གྱི་གཞལ་བར་ག་ལ་ནུས།
 
 how could it be measured by a handful?
 
-<!-- pair: NS-000248 -->
+<!-- NS-000248 | legacy entry 248 -->
+
+ཞེས་གསུངས་པ་ལྟར་དང་།
 
 It is as stated there. Further,
 
-<!-- pair: NS-000249 -->
+<!-- NS-000249 | legacy entry 249 -->
+
+རྒྱལ་པོ་མ་སྐྱེས་དགྲས་ཕ་བསད་པ་ཡང་དཀོན་མཆོག་ལ་སྐྱབས་སུ་སོང་བས་དམྱལ་བ་ཞག་བདུན་མྱོངས་ནས་ཐར་བར་གསུངས་པ་དང་།
 
 it is said that even King Ajātaśatru, who killed his father, was freed after experiencing hell for seven days because he had gone for refuge to the Jewels.
 
-<!-- pair: NS-000250 -->
+<!-- NS-000250 | legacy entry 250 -->
+
+ལྷས་སྦྱིན་མཚམས་མེད་པའི་ལས་གསུམ་བྱས་པས་གསོན་བཞིན་དུ་དམྱལ་བའི་མེས་སྲེག་པའི་ཚེ་སངས་རྒྱས་ཀྱི་གསུངས་ལ་ཡིད་ཆེས་ནས།
 
 Devadatta had done three deeds of immediate retribution. As he was being burned alive by the fires of hell, he trusted the Buddha’s words and [said]:[^N-250][^N-250-T]
 
-<!-- pair: NS-000251 -->
+<!-- NS-000251 | legacy entry 251 -->
+
+ངས་ད་ནི་རུས་པའི་གཏིང་ནས་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།
 
 “Now, from the depths of my bones, I go for refuge to the Buddha.”
 
-<!-- pair: NS-000252 -->
+<!-- NS-000252 | legacy entry 252 -->
+
+ཞེས་བརྗོད་པས་རང་སངས་རྒྱས་རུས་པ་ཅན་བྱ་བར་འགྱུར་བར་གསུངས་བ་ལྟ་བུ་ཡིན།
 
 As an example, it is said that through saying this he will become a solitary buddha called “Possessing Bones.”[^N-252]
 
-<!-- pair: NS-000253 -->
+<!-- NS-000253 | legacy entry 253 -->
+
+དེ་ལྟར་ཕན་ཡོན་ཚད་མེད་པ་དང་ལྡན་པས་ན་ཆོས་ཐམས་ཅད་ཀྱི་རྟེན་གཞི་སྐྱབས་སུ་འགྲོ་བའི་གནས་འདི་རྒན་གཞོན་ཆེ་ཆུང་བུ་དང་བུ་མོ་ཀུན་གྱི་ནན་ཏན་དུ་བྱ་དགོས་སོ།
 
 Since it has such immeasurable benefits, everyone—old and young, great and small, sons and daughters—must diligently engage in this matter of going for refuge, the basis of all Dharma.
 
-<!-- pair: NS-000254 -->
+<!-- NS-000254 | legacy entry 254 -->
+
+སྐྱབས་གསུམ་བརྟེན་ཀྱང་སྙིང་ནས་ཡིད་ཆེས་དམན།
 
 Though I rely on the three refuges, trust from the heart is weak;
 
-<!-- pair: NS-000255 -->
+<!-- NS-000255 | legacy entry 255 -->
+
+བསླབ་གསུམ་ནོད་ཀྱང་བསྲུང་སྡོམ་འཇའ་བཞིན་ཡལ།
 
 though I have received the three trainings, guarding the vows fades like a rainbow.[^N-255]
 
-<!-- pair: NS-000256 -->
+<!-- NS-000256 | legacy entry 256 -->
+
+བདག་དང་བདག་འདྲ་སེམས་ཅན་བླུན་རྣམས་ལ།
 
 For me and foolish sentient beings like me,
 
-<!-- pair: NS-000257 -->
+<!-- NS-000257 | legacy entry 257 -->
+
+མི་ལྡོག་དད་པ་བརྟན་པར་བྱིན་གྱིས་རློབས།
 
 grant blessings that irreversible faith may be firm.
 
-<!-- pair: NS-000258 -->
+<!-- NS-000258 | legacy entry 258 -->
+
+ཅེས་པ་འདིའང་ཕྱི་དབང་གཞོན་ནུ་ཚོགས་པ་རྣམས་ནས་ཆོས་ཀུན་གྱི་རྩ་བ་སྐྱབས་འགྲོའི་ཁྲིད་དགོས་ཞེས་བཀྲ་ཤིས་པའི་ལྷ་རྫས་དང་བཅས་བསྐུར་བར་བརྟེན་སྤྱི་ལོ་ ༡༩༨༣ སྤྱི་ཟླ་གཉིས་པ་མང་ཡུལ་གྱི་ལོ་ཆུ་ཕག་ཆོ་འཕྲུལ་ཟླ་བའི་ཚེས་གསུམ་བཟང་པོར་སླེ་གཟིམས་ཤག་་རྟེན་འབྲེལ་གླིང་དུ་ཆོས་རྗེ་རྟོགས་སྤྲུལ་ཐུབ་བསྟན་བསྟན་པའི་རྒྱལ་མཚན་པས་སྦྱར་བའོ།། །།མངྒ་ལཾ།
 
 This, too, was composed by the Dharma lord Toktrul Thubten Tenpe Gyaltsen at Tendrel Ling, the residence in Leh, on the auspicious third day of the Month of Magical Display in the Water Pig year of Mangyul, in February 1983. It was occasioned by the Phyang Youth Association sending auspicious ceremonial fabric with the request for instruction on going for refuge, the root of all Dharma. Maṅgalaṃ.[^N-258]
 
-<!-- end-pairs -->
+---
 
 ## Translation notes
 

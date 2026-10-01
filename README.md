@@ -1,51 +1,58 @@
-# Tibetan text project template
+# Togden-Nangpa-Sangyepa
 
-Organization template for projects that follow one controlled workflow:
+**Dispelling the Darkness of the Mental Faculty: Instruction on Going for Refuge,
+the Foundation of All the Paths of All Buddhist Practitioners**
 
-1. **Bring the editions together.**
-2. **Create a maintained golden Tibetan edition.**
-3. **Segment the fixed golden edition into reader-ready pairs with `format: prose|verse|h1|h2|h3`.**
-4. **Translate those fixed pairs.**
+A complete annotated English working translation of the Tibetan text, prepared
+under the Lotus-King-Translation template and its 222-entry glossary.
+The colophon attributes the work to Dharma lord Toktrul Thubten Tenpe Gyaltsen and dates
+it to 1983. These are statements of the supplied transcript, not independently
+authenticated bibliographic facts.
 
-The repository is intentionally opinionated. Source witnesses, modern transcripts, editorial decisions, the golden reading, and translations remain separate provenance layers. A released golden edition is a maintained reading of an explicitly chosen governing witness; it is not presented as an infallible reconstruction of an original text.
+## Read the text
 
-## Start here
+- [Tibetan source](paired/source.md)
+- [English working translation and notes](paired/translation.md)
+- [Bilingual reading view](paired/bilingual.md)
+- [Current status](PROJECT-STATUS.md) and [translation handoff](translations/HANDOFF.md)
 
-Agents and contributors must read [AGENTS.md](AGENTS.md) first.
+The user expressly waived the golden-edition phase. The source is therefore a
+**provisional electronic transcript**, not a corrected critical or golden edition.
+The previous human English translation is preserved as reference; the new draft
+is governed by the Tibetan and the template glossary. Uncertain readings and
+proposed terminology remain visible for human editing.
 
-The active method documents are:
+## Provenance and standards
 
-- [Golden edition method](guidelines/golden_edition_method.md)
-- [Tibetan–English translation and QC standard](guidelines/tibetan_translation_standard_v2.md)
-- [Paired-text format](FORMAT.md)
+- [Source register](editions/REGISTER.csv) and [normalization method](source/README.md)
+- [Owner decisions and scope](DECISIONS.md)
+- [Translation standard v2.0](guidelines/tibetan_translation_standard_v2.md)
 - [Active glossary](glossary/expanded_tibetan_english_glossary.csv)
+- [Paired-text format and provisional exception](FORMAT.md)
+- [Annotations](translations/notes.json), [usage records](translations/usage.json),
+  and [proposed additions](translations/proposed-glossary.csv)
 
-The current project state belongs in [PROJECT-STATUS.md](PROJECT-STATUS.md). Phase-specific continuation details belong in the relevant HANDOFF.md; do not rely on chat history as the only record of unfinished work.
+Legacy inputs come from [Nangpa-Sangyepa at the pinned commit](https://github.com/Lotus-King-Translation/Nangpa-Sangyepa/tree/c0a66002a0d51183ac5856ca6dbe4d03ab808d9d);
+this separate repository was generated from the [organization template](https://github.com/Lotus-King-Translation/tibetan-text-project-template/tree/f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f).
+The original `root/`, `wip/`, and processing scripts remain available.
+The human-reference PO credits Inga Pogosyan (2023), Tenzin Norgyal (2024), and
+Mikko Kotila (2024). Its [original README notice](source/originals/legacy-README.md)
+is preserved.
 
-## Repository structure
+## Reproduce and validate
 
-- editions/ — acquired scans, transcripts, and source register
-- source/ — immutable imported/source copies
-- diplomatic/ — golden-edition work, evidence, releases, and handoff
-- translations/ — translation work, evidence, releases, and handoff
-- paired/ — canonical paired source/translation files
-- guidelines/ — active editorial/translation standards
-- glossary/ — active eight-column terminology resource
-- scripts/ — project validators/build helpers
+Python 3, standard library only:
 
-Tracked empty subdirectories are included because they recur in every project.
+```sh
+python3 scripts/prepare_source.py
+python3 scripts/build_views.py
+python3 scripts/validate_paired.py --negative-tests
+```
 
-## Completion model
+`paired/source.md` and `paired/translation.md` are canonical authored content.
+`source/segmentation.json`, `translations/notes.json`, and `translations/usage.json`
+are authored support records. The normalized entries, human-reference projection,
+coverage, manifest, and bilingual view are generated. Validation confirms
+structure and preservation; it does not certify semantic accuracy.
 
-Work is released in bounded, versioned stages. A chapter or section is not “done” because a script ran or a large number of pages were inspected. A release gate requires explicit scope, closed decision queues, preserved uncertainty, reproducible outputs, validation, signoff, a fixed tag, a publication receipt, remote SHA verification, and a clean tree.
-
-Full scan proofreading, exhaustive manuscript collation, eclectic reconstruction, and new witness acquisition are separate research scopes unless a project explicitly adds them to its release contract.
-
-## Paired source and translation
-
-After a golden release is fixed, establish reader-ready source pairs before translation. Each source pair has one `format` value: `prose`, `verse`, `h1`, `h2`, or `h3`. Translate into the matching pair IDs in:
-
-- paired/source.md
-- paired/translation.md
-
-Both files use the same stable pair IDs in the same order. See [FORMAT.md](FORMAT.md).
+Contributors and agents must read [AGENTS.md](AGENTS.md) first.

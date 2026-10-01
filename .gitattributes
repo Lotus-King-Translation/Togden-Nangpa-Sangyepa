@@ -1,0 +1,8 @@
+# Preserve exact archival bytes and imported Markdown hard breaks.
+guidelines/tibetan_translation_standard_v2.md whitespace=-blank-at-eol
+source/originals/** whitespace=-blank-at-eol
+root/** whitespace=-blank-at-eol
+wip/** whitespace=-blank-at-eol
+scripts/sentences_to_transifex.py whitespace=-blank-at-eol
+scripts/run_first_phase.sh whitespace=-blank-at-eol
+scripts/token_statistics.py whitespace=-blank-at-eol

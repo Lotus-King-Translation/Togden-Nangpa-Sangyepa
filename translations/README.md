@@ -1,17 +1,14 @@
-# Translation workspace
+# English working translation
 
-Translate only fixed golden releases unless the project owner explicitly authorizes a provisional exception.
+Canonical draft: ../paired/translation.md. The Tibetan, active 222-entry glossary,
+and combined translation standard v2.0 govern this source-based redraft.
 
-Read guidelines/tibetan_translation_standard_v2.md and the active glossary before translation or QC.
+The 258-entry rough human translation remains unchanged at ../wip/en/001.po.
+Human-reference.json is a generated projection preserving each legacy context.
+It is reference evidence only: inherited mistranslations do not govern the draft.
 
-Preserve:
-
-- exact golden source identity
-- stable source locators
-- translator notes and unresolved readings
-- terminology provenance
-- source-linked English decisions
-- coverage records
-- final validation and release receipts
-
-After a translation release is fixed, produce or update the canonical paired files under paired/.
+Notes.json records exact Tibetan, location, category, evidence, working treatment,
+uncertainty, and required review. Usage.json records scoped terminology choices;
+proposed-glossary.csv holds separate eight-column proposals. None changes or
+silently extends the active glossary. Independent QC and human final editing are
+not claimed by this translation run. See HANDOFF.md for exact coverage and checks.

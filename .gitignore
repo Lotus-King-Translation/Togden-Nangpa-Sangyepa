@@ -1,4 +1,7 @@
 .DS_Store
+scripts/.DS_Store
+root/.DS_Store
+.DS_Store
 __pycache__/
 *.py[cod]
 .venv/

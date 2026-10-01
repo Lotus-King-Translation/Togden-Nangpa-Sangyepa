@@ -1,22 +1,10 @@
-# Paired publication
+# Canonical paired text
 
-The canonical reusable publication layer is:
+Read source.md and translation.md together using their shared stable pair IDs.
+Source format is authoritative: prose, verse, h1, h2, or h3. The English inherits
+format; it does not duplicate source metadata. Bilingual.md is a generated view.
 
-- source.md
-- translation.md
-
-Both files share the same stable pair IDs in the same order.
-
-Read ../FORMAT.md for the paired-text/2 specification.
-
-Do not treat source anchors as translation segments automatically. Pair segmentation should be a coherent translation unit while retaining provenance back to the fixed golden object IDs.
-
-Every source pair has one required structural field:
-
-`format: prose | verse | h1 | h2 | h3`
-
-The translation inherits that value by shared pair ID. This is the only reader-facing structural field in the paired-text format.
-
-Validate with:
-
-`python3 scripts/validate_paired.py`
+This project uses the documented provisional-source exception in ../FORMAT.md.
+No golden edition is claimed. Source queries and terminology proposals remain
+in visible English footnotes; coverage.json distinguishes represented entries
+from entries requiring review. Manifest.json pins provenance and current hashes.

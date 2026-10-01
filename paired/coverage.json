@@ -1,0 +1,3105 @@
+[
+  {
+    "pair_id": "NS-000001",
+    "source_object": "L00001",
+    "legacy_entry": 1,
+    "format": "h1",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-001"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000002",
+    "source_object": "L00002",
+    "legacy_entry": 2,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-002"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000003",
+    "source_object": "L00003",
+    "legacy_entry": 3,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-003"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000004",
+    "source_object": "L00004",
+    "legacy_entry": 4,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-004"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000005",
+    "source_object": "L00005",
+    "legacy_entry": 5,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-005"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000006",
+    "source_object": "L00006",
+    "legacy_entry": 6,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-006",
+      "N-006b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000007a",
+    "source_object": "L00007a",
+    "legacy_entry": 7,
+    "format": "h2",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-007"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000007b",
+    "source_object": "L00007b",
+    "legacy_entry": 7,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-007"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000008",
+    "source_object": "L00008",
+    "legacy_entry": 8,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000009",
+    "source_object": "L00009",
+    "legacy_entry": 9,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-009"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000010a",
+    "source_object": "L00010a",
+    "legacy_entry": 10,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-010"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000010b",
+    "source_object": "L00010b",
+    "legacy_entry": 10,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-010"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000011",
+    "source_object": "L00011",
+    "legacy_entry": 11,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-011"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000012a",
+    "source_object": "L00012a",
+    "legacy_entry": 12,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-012"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000012b",
+    "source_object": "L00012b",
+    "legacy_entry": 12,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-012"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000013",
+    "source_object": "L00013",
+    "legacy_entry": 13,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-013",
+      "N-013b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000014",
+    "source_object": "L00014",
+    "legacy_entry": 14,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000015a",
+    "source_object": "L00015a",
+    "legacy_entry": 15,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-015",
+      "N-015b",
+      "N-015c"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000015b",
+    "source_object": "L00015b",
+    "legacy_entry": 15,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-015",
+      "N-015b",
+      "N-015c"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000016",
+    "source_object": "L00016",
+    "legacy_entry": 16,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-016"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000017",
+    "source_object": "L00017",
+    "legacy_entry": 17,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000018",
+    "source_object": "L00018",
+    "legacy_entry": 18,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-018"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000019",
+    "source_object": "L00019",
+    "legacy_entry": 19,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000020",
+    "source_object": "L00020",
+    "legacy_entry": 20,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000021",
+    "source_object": "L00021",
+    "legacy_entry": 21,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-021"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000022",
+    "source_object": "L00022",
+    "legacy_entry": 22,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000023",
+    "source_object": "L00023",
+    "legacy_entry": 23,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000024",
+    "source_object": "L00024",
+    "legacy_entry": 24,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000025",
+    "source_object": "L00025",
+    "legacy_entry": 25,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000026",
+    "source_object": "L00026",
+    "legacy_entry": 26,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000027",
+    "source_object": "L00027",
+    "legacy_entry": 27,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000028a",
+    "source_object": "L00028a",
+    "legacy_entry": 28,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-028"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000028b",
+    "source_object": "L00028b",
+    "legacy_entry": 28,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-028"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000029",
+    "source_object": "L00029",
+    "legacy_entry": 29,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000030a",
+    "source_object": "L00030a",
+    "legacy_entry": 30,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000030b",
+    "source_object": "L00030b",
+    "legacy_entry": 30,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000031",
+    "source_object": "L00031",
+    "legacy_entry": 31,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000032",
+    "source_object": "L00032",
+    "legacy_entry": 32,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000033",
+    "source_object": "L00033",
+    "legacy_entry": 33,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-033"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000034",
+    "source_object": "L00034",
+    "legacy_entry": 34,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-034",
+      "N-034b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000035a",
+    "source_object": "L00035a",
+    "legacy_entry": 35,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-035",
+      "N-035b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000035b",
+    "source_object": "L00035b",
+    "legacy_entry": 35,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-035",
+      "N-035b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000036",
+    "source_object": "L00036",
+    "legacy_entry": 36,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000037",
+    "source_object": "L00037",
+    "legacy_entry": 37,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000038",
+    "source_object": "L00038",
+    "legacy_entry": 38,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-038"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000039",
+    "source_object": "L00039",
+    "legacy_entry": 39,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000040",
+    "source_object": "L00040",
+    "legacy_entry": 40,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-040"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000041",
+    "source_object": "L00041",
+    "legacy_entry": 41,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000042",
+    "source_object": "L00042",
+    "legacy_entry": 42,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000043",
+    "source_object": "L00043",
+    "legacy_entry": 43,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000044",
+    "source_object": "L00044",
+    "legacy_entry": 44,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-044"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000045",
+    "source_object": "L00045",
+    "legacy_entry": 45,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000046",
+    "source_object": "L00046",
+    "legacy_entry": 46,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000047",
+    "source_object": "L00047",
+    "legacy_entry": 47,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-047"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000048",
+    "source_object": "L00048",
+    "legacy_entry": 48,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000049",
+    "source_object": "L00049",
+    "legacy_entry": 49,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000050",
+    "source_object": "L00050",
+    "legacy_entry": 50,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000051",
+    "source_object": "L00051",
+    "legacy_entry": 51,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000052",
+    "source_object": "L00052",
+    "legacy_entry": 52,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000053",
+    "source_object": "L00053",
+    "legacy_entry": 53,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000054",
+    "source_object": "L00054",
+    "legacy_entry": 54,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000055",
+    "source_object": "L00055",
+    "legacy_entry": 55,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000056",
+    "source_object": "L00056",
+    "legacy_entry": 56,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000057",
+    "source_object": "L00057",
+    "legacy_entry": 57,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-057"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000058",
+    "source_object": "L00058",
+    "legacy_entry": 58,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000059",
+    "source_object": "L00059",
+    "legacy_entry": 59,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-059"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000060",
+    "source_object": "L00060",
+    "legacy_entry": 60,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000061",
+    "source_object": "L00061",
+    "legacy_entry": 61,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000062",
+    "source_object": "L00062",
+    "legacy_entry": 62,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000063",
+    "source_object": "L00063",
+    "legacy_entry": 63,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-063"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000064",
+    "source_object": "L00064",
+    "legacy_entry": 64,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000065",
+    "source_object": "L00065",
+    "legacy_entry": 65,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000066",
+    "source_object": "L00066",
+    "legacy_entry": 66,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-066",
+      "N-066b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000067",
+    "source_object": "L00067",
+    "legacy_entry": 67,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000068",
+    "source_object": "L00068",
+    "legacy_entry": 68,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000069",
+    "source_object": "L00069",
+    "legacy_entry": 69,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-069"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000070",
+    "source_object": "L00070",
+    "legacy_entry": 70,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000071",
+    "source_object": "L00071",
+    "legacy_entry": 71,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-071"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000072",
+    "source_object": "L00072",
+    "legacy_entry": 72,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-072"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000073",
+    "source_object": "L00073",
+    "legacy_entry": 73,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000074",
+    "source_object": "L00074",
+    "legacy_entry": 74,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-074"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000075",
+    "source_object": "L00075",
+    "legacy_entry": 75,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000076",
+    "source_object": "L00076",
+    "legacy_entry": 76,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000077",
+    "source_object": "L00077",
+    "legacy_entry": 77,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-077",
+      "N-077b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000078",
+    "source_object": "L00078",
+    "legacy_entry": 78,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000079",
+    "source_object": "L00079",
+    "legacy_entry": 79,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-079"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000080",
+    "source_object": "L00080",
+    "legacy_entry": 80,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-080"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000081",
+    "source_object": "L00081",
+    "legacy_entry": 81,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-081"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000082",
+    "source_object": "L00082",
+    "legacy_entry": 82,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000083",
+    "source_object": "L00083",
+    "legacy_entry": 83,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-083"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000084",
+    "source_object": "L00084",
+    "legacy_entry": 84,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000085",
+    "source_object": "L00085",
+    "legacy_entry": 85,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-085",
+      "N-085b"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000086",
+    "source_object": "L00086",
+    "legacy_entry": 86,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-086"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000087",
+    "source_object": "L00087",
+    "legacy_entry": 87,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000088",
+    "source_object": "L00088",
+    "legacy_entry": 88,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000089",
+    "source_object": "L00089",
+    "legacy_entry": 89,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000090",
+    "source_object": "L00090",
+    "legacy_entry": 90,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000091a",
+    "source_object": "L00091a",
+    "legacy_entry": 91,
+    "format": "h2",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000091b",
+    "source_object": "L00091b",
+    "legacy_entry": 91,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000092",
+    "source_object": "L00092",
+    "legacy_entry": 92,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-092"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000093",
+    "source_object": "L00093",
+    "legacy_entry": 93,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-093"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000094",
+    "source_object": "L00094",
+    "legacy_entry": 94,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-094",
+      "N-094a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000095",
+    "source_object": "L00095",
+    "legacy_entry": 95,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000096",
+    "source_object": "L00096",
+    "legacy_entry": 96,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-096"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000097",
+    "source_object": "L00097",
+    "legacy_entry": 97,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-097"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000098",
+    "source_object": "L00098",
+    "legacy_entry": 98,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-098"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000099",
+    "source_object": "L00099",
+    "legacy_entry": 99,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000100",
+    "source_object": "L00100",
+    "legacy_entry": 100,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000101",
+    "source_object": "L00101",
+    "legacy_entry": 101,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000102",
+    "source_object": "L00102",
+    "legacy_entry": 102,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-102"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000103",
+    "source_object": "L00103",
+    "legacy_entry": 103,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000104",
+    "source_object": "L00104",
+    "legacy_entry": 104,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000105",
+    "source_object": "L00105",
+    "legacy_entry": 105,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-105"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000106",
+    "source_object": "L00106",
+    "legacy_entry": 106,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000107",
+    "source_object": "L00107",
+    "legacy_entry": 107,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000108",
+    "source_object": "L00108",
+    "legacy_entry": 108,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-108"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000109",
+    "source_object": "L00109",
+    "legacy_entry": 109,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000110",
+    "source_object": "L00110",
+    "legacy_entry": 110,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000111",
+    "source_object": "L00111",
+    "legacy_entry": 111,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-111",
+      "N-111a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000112a",
+    "source_object": "L00112a",
+    "legacy_entry": 112,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-112"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000112b",
+    "source_object": "L00112b",
+    "legacy_entry": 112,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-112"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000113",
+    "source_object": "L00113",
+    "legacy_entry": 113,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000114",
+    "source_object": "L00114",
+    "legacy_entry": 114,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-114"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000115",
+    "source_object": "L00115",
+    "legacy_entry": 115,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000116",
+    "source_object": "L00116",
+    "legacy_entry": 116,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000117a",
+    "source_object": "L00117a",
+    "legacy_entry": 117,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000117b",
+    "source_object": "L00117b",
+    "legacy_entry": 117,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000118a",
+    "source_object": "L00118a",
+    "legacy_entry": 118,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-118"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000118b",
+    "source_object": "L00118b",
+    "legacy_entry": 118,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-118"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000119",
+    "source_object": "L00119",
+    "legacy_entry": 119,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000120",
+    "source_object": "L00120",
+    "legacy_entry": 120,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-120"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000121",
+    "source_object": "L00121",
+    "legacy_entry": 121,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000122",
+    "source_object": "L00122",
+    "legacy_entry": 122,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-122"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000123",
+    "source_object": "L00123",
+    "legacy_entry": 123,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-123"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000124",
+    "source_object": "L00124",
+    "legacy_entry": 124,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-124"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000125a",
+    "source_object": "L00125a",
+    "legacy_entry": 125,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000125b",
+    "source_object": "L00125b",
+    "legacy_entry": 125,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000126",
+    "source_object": "L00126",
+    "legacy_entry": 126,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-126"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000127a",
+    "source_object": "L00127a",
+    "legacy_entry": 127,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-127"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000127b",
+    "source_object": "L00127b",
+    "legacy_entry": 127,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-127"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000128a",
+    "source_object": "L00128a",
+    "legacy_entry": 128,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-128"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000128b",
+    "source_object": "L00128b",
+    "legacy_entry": 128,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-128"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000129",
+    "source_object": "L00129",
+    "legacy_entry": 129,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000130a",
+    "source_object": "L00130a",
+    "legacy_entry": 130,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000130b",
+    "source_object": "L00130b",
+    "legacy_entry": 130,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000131",
+    "source_object": "L00131",
+    "legacy_entry": 131,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-131"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000132a",
+    "source_object": "L00132a",
+    "legacy_entry": 132,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-132"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000132b",
+    "source_object": "L00132b",
+    "legacy_entry": 132,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-132"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000133",
+    "source_object": "L00133",
+    "legacy_entry": 133,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000134",
+    "source_object": "L00134",
+    "legacy_entry": 134,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000135",
+    "source_object": "L00135",
+    "legacy_entry": 135,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-135"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000136",
+    "source_object": "L00136",
+    "legacy_entry": 136,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-136"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000137a",
+    "source_object": "L00137a",
+    "legacy_entry": 137,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-137"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000137b",
+    "source_object": "L00137b",
+    "legacy_entry": 137,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-137"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000138",
+    "source_object": "L00138",
+    "legacy_entry": 138,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000139",
+    "source_object": "L00139",
+    "legacy_entry": 139,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000140",
+    "source_object": "L00140",
+    "legacy_entry": 140,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000141",
+    "source_object": "L00141",
+    "legacy_entry": 141,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000142",
+    "source_object": "L00142",
+    "legacy_entry": 142,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000143",
+    "source_object": "L00143",
+    "legacy_entry": 143,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000144",
+    "source_object": "L00144",
+    "legacy_entry": 144,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000145",
+    "source_object": "L00145",
+    "legacy_entry": 145,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000146",
+    "source_object": "L00146",
+    "legacy_entry": 146,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-146"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000147",
+    "source_object": "L00147",
+    "legacy_entry": 147,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-147"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000148",
+    "source_object": "L00148",
+    "legacy_entry": 148,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000149",
+    "source_object": "L00149",
+    "legacy_entry": 149,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-149"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000150a",
+    "source_object": "L00150a",
+    "legacy_entry": 150,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-150",
+      "N-150a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000150b",
+    "source_object": "L00150b",
+    "legacy_entry": 150,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-150",
+      "N-150a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000151",
+    "source_object": "L00151",
+    "legacy_entry": 151,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-151"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000152",
+    "source_object": "L00152",
+    "legacy_entry": 152,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000153",
+    "source_object": "L00153",
+    "legacy_entry": 153,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-153"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000154",
+    "source_object": "L00154",
+    "legacy_entry": 154,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000155",
+    "source_object": "L00155",
+    "legacy_entry": 155,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000156",
+    "source_object": "L00156",
+    "legacy_entry": 156,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-156"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000157",
+    "source_object": "L00157",
+    "legacy_entry": 157,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000158",
+    "source_object": "L00158",
+    "legacy_entry": 158,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000159a",
+    "source_object": "L00159a",
+    "legacy_entry": 159,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-159",
+      "N-159a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000159b",
+    "source_object": "L00159b",
+    "legacy_entry": 159,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-159",
+      "N-159a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000160",
+    "source_object": "L00160",
+    "legacy_entry": 160,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000161",
+    "source_object": "L00161",
+    "legacy_entry": 161,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000162",
+    "source_object": "L00162",
+    "legacy_entry": 162,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000163",
+    "source_object": "L00163",
+    "legacy_entry": 163,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000164",
+    "source_object": "L00164",
+    "legacy_entry": 164,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000165",
+    "source_object": "L00165",
+    "legacy_entry": 165,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000166",
+    "source_object": "L00166",
+    "legacy_entry": 166,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-166"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000167",
+    "source_object": "L00167",
+    "legacy_entry": 167,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-167"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000168a",
+    "source_object": "L00168a",
+    "legacy_entry": 168,
+    "format": "h2",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000168b",
+    "source_object": "L00168b",
+    "legacy_entry": 168,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000169a",
+    "source_object": "L00169a",
+    "legacy_entry": 169,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-169",
+      "N-169a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000169b",
+    "source_object": "L00169b",
+    "legacy_entry": 169,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-169",
+      "N-169a"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000170",
+    "source_object": "L00170",
+    "legacy_entry": 170,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000171",
+    "source_object": "L00171",
+    "legacy_entry": 171,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000172",
+    "source_object": "L00172",
+    "legacy_entry": 172,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-172"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000173",
+    "source_object": "L00173",
+    "legacy_entry": 173,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-173"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000174",
+    "source_object": "L00174",
+    "legacy_entry": 174,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000175",
+    "source_object": "L00175",
+    "legacy_entry": 175,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-175"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000176",
+    "source_object": "L00176",
+    "legacy_entry": 176,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000177",
+    "source_object": "L00177",
+    "legacy_entry": 177,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-177-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000178",
+    "source_object": "L00178",
+    "legacy_entry": 178,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-178",
+      "N-178-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000179",
+    "source_object": "L00179",
+    "legacy_entry": 179,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-179"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000180",
+    "source_object": "L00180",
+    "legacy_entry": 180,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000181",
+    "source_object": "L00181",
+    "legacy_entry": 181,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-181-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000182",
+    "source_object": "L00182",
+    "legacy_entry": 182,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000183",
+    "source_object": "L00183",
+    "legacy_entry": 183,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-183",
+      "N-183-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000184",
+    "source_object": "L00184",
+    "legacy_entry": 184,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000185",
+    "source_object": "L00185",
+    "legacy_entry": 185,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000186",
+    "source_object": "L00186",
+    "legacy_entry": 186,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000187",
+    "source_object": "L00187",
+    "legacy_entry": 187,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000188",
+    "source_object": "L00188",
+    "legacy_entry": 188,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000189",
+    "source_object": "L00189",
+    "legacy_entry": 189,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-189-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000190",
+    "source_object": "L00190",
+    "legacy_entry": 190,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000191",
+    "source_object": "L00191",
+    "legacy_entry": 191,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-191"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000192",
+    "source_object": "L00192",
+    "legacy_entry": 192,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-192",
+      "N-192-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000193",
+    "source_object": "L00193",
+    "legacy_entry": 193,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-193"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000194",
+    "source_object": "L00194",
+    "legacy_entry": 194,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-194"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000195a",
+    "source_object": "L00195a",
+    "legacy_entry": 195,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-195-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000195b",
+    "source_object": "L00195b",
+    "legacy_entry": 195,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-195-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000196",
+    "source_object": "L00196",
+    "legacy_entry": 196,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-196"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000197",
+    "source_object": "L00197",
+    "legacy_entry": 197,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-197-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000198",
+    "source_object": "L00198",
+    "legacy_entry": 198,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-198-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000199",
+    "source_object": "L00199",
+    "legacy_entry": 199,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000200",
+    "source_object": "L00200",
+    "legacy_entry": 200,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-200",
+      "N-200-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000201",
+    "source_object": "L00201",
+    "legacy_entry": 201,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-201",
+      "N-201-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000202",
+    "source_object": "L00202",
+    "legacy_entry": 202,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000203",
+    "source_object": "L00203",
+    "legacy_entry": 203,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-203-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000204",
+    "source_object": "L00204",
+    "legacy_entry": 204,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000205",
+    "source_object": "L00205",
+    "legacy_entry": 205,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-205"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000206",
+    "source_object": "L00206",
+    "legacy_entry": 206,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-206"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000207",
+    "source_object": "L00207",
+    "legacy_entry": 207,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-207"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000208",
+    "source_object": "L00208",
+    "legacy_entry": 208,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-208"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000209",
+    "source_object": "L00209",
+    "legacy_entry": 209,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-209",
+      "N-209-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000210",
+    "source_object": "L00210",
+    "legacy_entry": 210,
+    "format": "prose",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000211",
+    "source_object": "L00211",
+    "legacy_entry": 211,
+    "format": "prose",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000212",
+    "source_object": "L00212",
+    "legacy_entry": 212,
+    "format": "prose",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000213",
+    "source_object": "L00213",
+    "legacy_entry": 213,
+    "format": "prose",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000214",
+    "source_object": "L00214",
+    "legacy_entry": 214,
+    "format": "prose",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [
+      "N-214-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000215",
+    "source_object": "L00215",
+    "legacy_entry": 215,
+    "format": "verse",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000216",
+    "source_object": "L00216",
+    "legacy_entry": 216,
+    "format": "verse",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [
+      "N-216-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000217",
+    "source_object": "L00217",
+    "legacy_entry": 217,
+    "format": "verse",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [
+      "N-217-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000218",
+    "source_object": "L00218",
+    "legacy_entry": 218,
+    "format": "verse",
+    "role": "ritual_formula",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000219",
+    "source_object": "L00219",
+    "legacy_entry": 219,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-219"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000220",
+    "source_object": "L00220",
+    "legacy_entry": 220,
+    "format": "h3",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [
+      "N-220"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000221",
+    "source_object": "L00221",
+    "legacy_entry": 221,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-221",
+      "N-221-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000222",
+    "source_object": "L00222",
+    "legacy_entry": 222,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000223",
+    "source_object": "L00223",
+    "legacy_entry": 223,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-223"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000224",
+    "source_object": "L00224",
+    "legacy_entry": 224,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-224"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000225",
+    "source_object": "L00225",
+    "legacy_entry": 225,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-225"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000226",
+    "source_object": "L00226",
+    "legacy_entry": 226,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000227",
+    "source_object": "L00227",
+    "legacy_entry": 227,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000228",
+    "source_object": "L00228",
+    "legacy_entry": 228,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-228-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000229",
+    "source_object": "L00229",
+    "legacy_entry": 229,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000230",
+    "source_object": "L00230",
+    "legacy_entry": 230,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000231",
+    "source_object": "L00231",
+    "legacy_entry": 231,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000232",
+    "source_object": "L00232",
+    "legacy_entry": 232,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000233",
+    "source_object": "L00233",
+    "legacy_entry": 233,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-233"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000234",
+    "source_object": "L00234",
+    "legacy_entry": 234,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000235",
+    "source_object": "L00235",
+    "legacy_entry": 235,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000236",
+    "source_object": "L00236",
+    "legacy_entry": 236,
+    "format": "h2",
+    "role": "source_heading",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000237",
+    "source_object": "L00237",
+    "legacy_entry": 237,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000238",
+    "source_object": "L00238",
+    "legacy_entry": 238,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-238-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000239",
+    "source_object": "L00239",
+    "legacy_entry": 239,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000240",
+    "source_object": "L00240",
+    "legacy_entry": 240,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-240",
+      "N-240-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000241",
+    "source_object": "L00241",
+    "legacy_entry": 241,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-241"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000242",
+    "source_object": "L00242",
+    "legacy_entry": 242,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-242"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000243",
+    "source_object": "L00243",
+    "legacy_entry": 243,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-243"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000244",
+    "source_object": "L00244",
+    "legacy_entry": 244,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000245",
+    "source_object": "L00245",
+    "legacy_entry": 245,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-245-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000246",
+    "source_object": "L00246",
+    "legacy_entry": 246,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000247",
+    "source_object": "L00247",
+    "legacy_entry": 247,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000248",
+    "source_object": "L00248",
+    "legacy_entry": 248,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000249",
+    "source_object": "L00249",
+    "legacy_entry": 249,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000250",
+    "source_object": "L00250",
+    "legacy_entry": 250,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-250",
+      "N-250-T"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000251",
+    "source_object": "L00251",
+    "legacy_entry": 251,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000252",
+    "source_object": "L00252",
+    "legacy_entry": 252,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-252"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000253",
+    "source_object": "L00253",
+    "legacy_entry": 253,
+    "format": "prose",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000254",
+    "source_object": "L00254",
+    "legacy_entry": 254,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000255",
+    "source_object": "L00255",
+    "legacy_entry": 255,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [
+      "N-255"
+    ],
+    "review_status": "review-flagged"
+  },
+  {
+    "pair_id": "NS-000256",
+    "source_object": "L00256",
+    "legacy_entry": 256,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000257",
+    "source_object": "L00257",
+    "legacy_entry": 257,
+    "format": "verse",
+    "role": "main_text",
+    "represented": true,
+    "notes": [],
+    "review_status": "drafted-self-checked"
+  },
+  {
+    "pair_id": "NS-000258",
+    "source_object": "L00258",
+    "legacy_entry": 258,
+    "format": "prose",
+    "role": "work_colophon",
+    "represented": true,
+    "notes": [
+      "N-258"
+    ],
+    "review_status": "review-flagged"
+  }
+]

@@ -1,0 +1,2670 @@
+[
+  {
+    "id": "N-001",
+    "exact_tibetan": "ནང་པ་སངས་རྒྱས་པ་",
+    "category": "terminology gap",
+    "problem": "The complete designation is absent from the active glossary; its components are not an established English assignment.",
+    "working_treatment": "Proposed whole-expression rendering: “Buddhists.” The title formula ཞེས་བྱ་བ་བཞུགས་སོ is represented by presenting the title.",
+    "uncertainty": "The religious designation is clear; terminology approval remains open.",
+    "review_action": "Review the proposed whole-expression entry; retain mental faculty and going for refuge unchanged.",
+    "entry_index": 1,
+    "source_entry": "L00001",
+    "legacy_context": "37d15dbe1b4e4440a1df191c2ec820f3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 1,
+    "pair_ids": [
+      "NS-000001"
+    ]
+  },
+  {
+    "id": "N-002",
+    "exact_tibetan": "མཆོག་གསུམ་",
+    "category": "terminology gap",
+    "problem": "The threefold refuge designation has no whole-expression entry. The four homage lines supply the guru as the shared addressee.",
+    "working_treatment": "“Three supreme ones” is Proposed; “you” links the three preceding attributes to the guru in entry 5.",
+    "uncertainty": "The reference to the Three Jewels is likely; the Tibetan designation is kept distinct in English.",
+    "review_action": "Approve or revise this exact designation without replacing the source term.",
+    "entry_index": 2,
+    "source_entry": "L00002",
+    "legacy_context": "d40549348530483880756974c7067ddf",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 2,
+    "pair_ids": [
+      "NS-000002"
+    ]
+  },
+  {
+    "id": "N-003",
+    "exact_tibetan": "རྩ་གསུམ་",
+    "category": "terminology gap",
+    "problem": "This technical threefold expression is absent from the glossary.",
+    "working_treatment": "Proposed: “three roots”; the text does not enumerate them here.",
+    "uncertainty": "No added enumeration is assumed.",
+    "review_action": "Review the proposed technical entry.",
+    "entry_index": 3,
+    "source_entry": "L00003",
+    "legacy_context": "9fa7fd55077349a1bcd1561db2e5e4d6",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 3,
+    "pair_ids": [
+      "NS-000003"
+    ]
+  },
+  {
+    "id": "N-004",
+    "exact_tibetan": "དོན་གྱི་སྐྱབས་འགྲོ་",
+    "category": "contextual use",
+    "problem": "The phrase contrasts with outer and inner going for refuge; “ultimate refuge” would add a specificity not explicitly present.",
+    "working_treatment": "Proposed construction: “going for refuge in its meaning,” retaining the established meaning assignment for དོན་.",
+    "uncertainty": "“Actual going for refuge” is a possible contextual alternative; the precise force of the genitive needs review.",
+    "review_action": "Review the threefold classification and approve the construction.",
+    "entry_index": 4,
+    "source_entry": "L00004",
+    "legacy_context": "33a43b9aa04548a1addc634c034a03bb",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 4,
+    "pair_ids": [
+      "NS-000004"
+    ]
+  },
+  {
+    "id": "N-005",
+    "exact_tibetan": "བླ་མའི་",
+    "category": "terminology gap",
+    "problem": "No standalone བླ་མ་ entry exists; the established Guru Yoga expression does not establish every occurrence.",
+    "working_treatment": "Proposed: “guru,” including subsequent occurrences.",
+    "uncertainty": "No substantive semantic doubt here; terminology approval remains open.",
+    "review_action": "Review the new standalone entry.",
+    "entry_index": 5,
+    "source_entry": "L00005",
+    "legacy_context": "a040c4ec64374a83bbdcfb189f0501a4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 5,
+    "pair_ids": [
+      "NS-000005"
+    ]
+  },
+  {
+    "id": "N-006",
+    "exact_tibetan": "ཞུན།",
+    "category": "source reading",
+    "problem": "The final form ཞུན is unusual in this explanatory sentence and may be a transcription defect.",
+    "working_treatment": "The sentence is provisionally rendered “is explained”; the exact source is unchanged.",
+    "uncertainty": "A form of ཞུ or another reporting verb may have been intended, but no emendation is adopted.",
+    "review_action": "Check this reading against an authenticated source.",
+    "entry_index": 6,
+    "source_entry": "L00006",
+    "legacy_context": "abd9131021754e90900a582ffcc3de7e",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 6,
+    "pair_ids": [
+      "NS-000006"
+    ]
+  },
+  {
+    "id": "N-006b",
+    "exact_tibetan": "དོན་བཞི་",
+    "category": "contextual use",
+    "problem": "Here དོན names divisions of an exposition rather than lexical meaning.",
+    "working_treatment": "Proposed scoped rendering: “four topics”; entry 7 uses “the first topic.”",
+    "uncertainty": "This does not replace the established meaning assignment in other constructions.",
+    "review_action": "Review this expository whole-expression use.",
+    "entry_index": 6,
+    "source_entry": "L00006",
+    "legacy_context": "abd9131021754e90900a582ffcc3de7e",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 6,
+    "pair_ids": [
+      "NS-000006"
+    ]
+  },
+  {
+    "id": "N-007",
+    "exact_tibetan": "ཆོས་ཐམས་ཅད་",
+    "category": "terminology gap",
+    "problem": "Standalone ཆོས་ is not assigned in the glossary; its doctrinal compounds do not settle all senses.",
+    "working_treatment": "Proposed: “Dharma” for the teaching/practice in this section; wholesome and virtuous Dharma retain the source modifiers.",
+    "uncertainty": "“All teachings” is also possible here; this remains a scoped proposal.",
+    "review_action": "Review the Dharma usage and its scope across entries 7–35.",
+    "entry_index": 7,
+    "source_entry": "L00007",
+    "legacy_context": "addb4377847642feb1b6dab0c8aa30a3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 7,
+    "pair_ids": [
+      "NS-000007a",
+      "NS-000007b"
+    ]
+  },
+  {
+    "id": "N-009",
+    "exact_tibetan": "དང་བའི་དད་པ། འདོད་པའི་དད་པ། ཡིད་ཆེས་པའི་དད་པ་",
+    "category": "terminology gap",
+    "problem": "Faith is established, but these three complete names are not. In particular, ཡིད་ཆེས་ is a compound, not an occurrence of mental faculty alone.",
+    "working_treatment": "Proposed: “lucid faith,” “aspiring faith,” and “trusting faith,” retaining faith throughout.",
+    "uncertainty": "The definitions in entries 10–16 support these choices; approval of the whole expressions is pending.",
+    "review_action": "Approve or revise the three whole-expression entries and their subsequent occurrences.",
+    "entry_index": 9,
+    "source_entry": "L00009",
+    "legacy_context": "98419b078c0044a990c8af32dc3775e4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 9,
+    "pair_ids": [
+      "NS-000009"
+    ]
+  },
+  {
+    "id": "N-010",
+    "exact_tibetan": "སྐུ་གསུང་ཐུགས་རྟེན་",
+    "category": "terminology gap",
+    "problem": "Embodiment is established for སྐུ་; standalone གསུང་ and ཐུགས་ and the complete supports expression are absent.",
+    "working_treatment": "Proposed: “supports of ... embodiment, speech, and awakened mind.” “Awakened mind” renders the honorific ཐུགས་ only in this triad.",
+    "uncertainty": "This does not equate ཐུགས་ with ordinary mind or establish it universally.",
+    "review_action": "Review the complete expression and the scoped awakened-mind proposal.",
+    "entry_index": 10,
+    "source_entry": "L00010",
+    "legacy_context": "93ca0e14e313413aa2928e14902c0e28",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 10,
+    "pair_ids": [
+      "NS-000010a",
+      "NS-000010b"
+    ]
+  },
+  {
+    "id": "N-011",
+    "exact_tibetan": "ཡོན་ཏན་་་་་་་རྣམ་ཐར་",
+    "category": "source reading",
+    "problem": "The source has repeated tsheg between qualities and accounts of liberation. No missing word can be established from that marking.",
+    "working_treatment": "The two nouns are coordinated in English; no omitted Tibetan wording is reconstructed. “Accounts of liberation” for རྣམ་ཐར་ is Proposed.",
+    "uncertainty": "The punctuation may be merely typographic; whether it signals an omission remains unverified.",
+    "review_action": "Compare a source witness for the punctuation and review the technical rendering of རྣམ་ཐར་.",
+    "entry_index": 11,
+    "source_entry": "L00011",
+    "legacy_context": "0d842c2a2ccf447c8da0994745024dbc",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 11,
+    "pair_ids": [
+      "NS-000011"
+    ]
+  },
+  {
+    "id": "N-012",
+    "exact_tibetan": "འཁོར་བ་ངན་སོང་གི་སྡུག་བསྔོལ་",
+    "category": "source reading",
+    "problem": "The source has སྡུག་བསྔོལ rather than the usual སྡུག་བསྔལ. The relation of samsara and the lower rebirths is compressed.",
+    "working_treatment": "Provisionally “the suffering” of “samsara and the lower rebirths”; source characters remain unchanged. “Samsara” and “lower rebirths” are Proposed glossary additions.",
+    "uncertainty": "Likely spelling defect; “samsara, especially the lower rebirths” is possible but would supply the emphasis.",
+    "review_action": "Verify the source spelling and review the phrase’s coordination.",
+    "entry_index": 12,
+    "source_entry": "L00012",
+    "legacy_context": "8861f9913eb24a8887e15e7846d2c332",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 12,
+    "pair_ids": [
+      "NS-000012a",
+      "NS-000012b"
+    ]
+  },
+  {
+    "id": "N-013",
+    "exact_tibetan": "མཐོ་རིས་ལྷ་དང་མི་དད་ཐར་པའི་",
+    "category": "source reading",
+    "problem": "The source reads མི་དད, literally susceptible to “not believing,” where the sequence of gods, humans, and liberation calls for a link.",
+    "working_treatment": "Provisional English reads humans AND liberation, treating དད as a suspected དང error; no Tibetan emendation is made.",
+    "uncertainty": "The defect is suspected, not authenticated. The rough reference’s negation does not fit the surrounding list.",
+    "review_action": "Check མི་དད against a source witness; approve or reject the proposed reading.",
+    "entry_index": 13,
+    "source_entry": "L00013",
+    "legacy_context": "91fbd82894e94f809507a1e87c26e77f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 13,
+    "pair_ids": [
+      "NS-000013"
+    ]
+  },
+  {
+    "id": "N-013b",
+    "exact_tibetan": "མཐོ་རིས་",
+    "category": "terminology gap",
+    "problem": "The paired realm term is absent from the glossary.",
+    "working_treatment": "Proposed: “higher realms”; ཐར་པ in this sentence is proposed as “liberation.”",
+    "uncertainty": "These do not alter established related compounds such as primordial liberation.",
+    "review_action": "Review both new technical entries.",
+    "entry_index": 13,
+    "source_entry": "L00013",
+    "legacy_context": "91fbd82894e94f809507a1e87c26e77f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 13,
+    "pair_ids": [
+      "NS-000013"
+    ]
+  },
+  {
+    "id": "N-015",
+    "exact_tibetan": "དཀོན་མཆོག་རིན་པོ་ཆེ་རྣམ་པ་གསུམ་",
+    "category": "terminology gap",
+    "problem": "The complete refuge designation is absent from the glossary. རྣམ་པ་གསུམ here counts the members rather than clearly asserting three metaphysical aspects.",
+    "working_treatment": "Proposed whole-expression “Three Precious Jewels”; the shortened expression is “Three Jewels.”",
+    "uncertainty": "This contextual construction does not change the standalone aspect mapping.",
+    "review_action": "Review the two designations and the counting construction.",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 15,
+    "pair_ids": [
+      "NS-000015a",
+      "NS-000015b"
+    ]
+  },
+  {
+    "id": "N-015b",
+    "exact_tibetan": "ན་རུང་སྐྱེ་རུང་",
+    "category": "source reading",
+    "problem": "The pairing literally gives “ill or born”; the second member is unexpected in a series of contrasts.",
+    "working_treatment": "Retained “ill or born,” without substituting “well.”",
+    "uncertainty": "A transcription defect is possible; the intended contrast cannot be settled here.",
+    "review_action": "Check སྐྱེ against a witness.",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 15,
+    "pair_ids": [
+      "NS-000015a",
+      "NS-000015b"
+    ]
+  },
+  {
+    "id": "N-015c",
+    "exact_tibetan": "དཀོན་མཆོག་གསུམ་པོ་མཁྱེན།",
+    "category": "interpretive supply",
+    "problem": "The imperative invocation gives no explicit object for མཁྱེན.",
+    "working_treatment": "“Heed me!” supplies the speaker as the object in the devotional address.",
+    "uncertainty": "“You know!” would preserve the objectless form more literally.",
+    "review_action": "Review the invocation’s preferred grammatical realization.",
+    "entry_index": 15,
+    "source_entry": "L00015",
+    "legacy_context": "afa9c899277b432e86fa97e9f21974e4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 15,
+    "pair_ids": [
+      "NS-000015a",
+      "NS-000015b"
+    ]
+  },
+  {
+    "id": "N-016",
+    "exact_tibetan": "བློ་གཏད་དང་རེ་ལྟོས་ཡིད་ཆེས་",
+    "category": "contextual use",
+    "problem": "These linked expressions describe entrusting oneself; only conceptual mind is directly established.",
+    "working_treatment": "“Direct my conceptual mind, place my hopes, or put my trust” is a Proposed grammatical/whole-expression treatment.",
+    "uncertainty": "The specific object is inferred from the Three Jewels in entry 15.",
+    "review_action": "Review the three expressions together, preserving conceptual mind.",
+    "entry_index": 16,
+    "source_entry": "L00016",
+    "legacy_context": "b16ddaeb5a054ff69ede0e6d94398bb8",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 16,
+    "pair_ids": [
+      "NS-000016"
+    ]
+  },
+  {
+    "id": "N-018",
+    "exact_tibetan": "ཡིད་་་ཁྱེད་ཤེས་ཀྱི་དད་པས་",
+    "category": "syntax/reference",
+    "problem": "The repeated tsheg and construction ཡིད་ཁྱེད་ཤེས are unusual; the latter recurs without extra tsheg in entry 74. The rough reference hides the actual wording.",
+    "working_treatment": "Proposed: “the mental faculty’s faith that says, ‘You know’,” treating ཁྱེད་ཤེས as devotional entrustment.",
+    "uncertainty": "The exact attachment of mental faculty and the devotional utterance is unresolved; it is not silently changed to ཡིད་ཆེས.",
+    "review_action": "Verify the source and review the construction jointly with entry 74.",
+    "entry_index": 18,
+    "source_entry": "L00018",
+    "legacy_context": "d3d3b636f2e040d48041f9bbfed015d7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 18,
+    "pair_ids": [
+      "NS-000018"
+    ]
+  },
+  {
+    "id": "N-021",
+    "exact_tibetan": "ཆོས་དཀར་པོའི་",
+    "category": "contextual use",
+    "problem": "The literal “white Dharma” denotes a wholesome category in the seed analogy; this whole expression is absent from the glossary.",
+    "working_treatment": "Proposed: “wholesome Dharma,” also in entry 24.",
+    "uncertainty": "Literal “white Dharma” remains possible if the project prefers explicit color terminology.",
+    "review_action": "Review this scoped whole-expression proposal.",
+    "entry_index": 21,
+    "source_entry": "L00021",
+    "legacy_context": "7ea98397255e4ed58e8639c13bff5bb5",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 21,
+    "pair_ids": [
+      "NS-000021"
+    ]
+  },
+  {
+    "id": "N-028",
+    "exact_tibetan": "འཕགས་པའི་ནོར་བདུན་",
+    "category": "terminology gap",
+    "problem": "This doctrinal expression is absent from the active glossary.",
+    "working_treatment": "Proposed: “seven riches of noble ones”; no list is supplied by the source here.",
+    "uncertainty": "The number is explicit; no unseen enumeration is assumed.",
+    "review_action": "Review the complete technical expression.",
+    "entry_index": 28,
+    "source_entry": "L00028",
+    "legacy_context": "fc34d78183804d6096121cee1ac813d4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 28,
+    "pair_ids": [
+      "NS-000028a",
+      "NS-000028b"
+    ]
+  },
+  {
+    "id": "N-033",
+    "exact_tibetan": "བྱིན་རླབས་དང་ཐུགས་",
+    "category": "source reading",
+    "problem": "The source has standalone ཐུགས, whereas entries 31–32 pair blessings with ཐུགས་རྗེ. The missing རྗེ is not verified.",
+    "working_treatment": "Provisionally “blessings and compassionate responsiveness,” following the immediate parallel; no source text is altered.",
+    "uncertainty": "Standalone “awakened mind” is grammatically possible but breaks the nearby parallel.",
+    "review_action": "Check for omission of རྗེ in an authenticated witness.",
+    "entry_index": 33,
+    "source_entry": "L00033",
+    "legacy_context": "250aeacd6a784debaa4d94824ea523d2",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 33,
+    "pair_ids": [
+      "NS-000033"
+    ]
+  },
+  {
+    "id": "N-034",
+    "exact_tibetan": "སྐྱས་པ་",
+    "category": "source reading",
+    "problem": "The source spelling is not the expected སྐྱེས་པ in this rebirth statement.",
+    "working_treatment": "Provisionally “was born,” preserving the source spelling in the source artifact.",
+    "uncertainty": "Likely transcription defect; not independently verified.",
+    "review_action": "Check the verb against a source witness.",
+    "entry_index": 34,
+    "source_entry": "L00034",
+    "legacy_context": "ee34a4baa16f45bc87d9d18fafcfa461",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 34,
+    "pair_ids": [
+      "NS-000034"
+    ]
+  },
+  {
+    "id": "N-034b",
+    "exact_tibetan": "བཅོམ་ལྡན་འདས་",
+    "category": "terminology gap",
+    "problem": "This Buddha epithet and the related recurrent Buddha and hungry-ghost designations lack active glossary assignments.",
+    "working_treatment": "Proposed: “Blessed One,” “Buddha/buddhahood,” and “hungry ghost”; none changes established compound entries.",
+    "uncertainty": "These working equivalents require project approval.",
+    "review_action": "Review the three proposed designations.",
+    "entry_index": 34,
+    "source_entry": "L00034",
+    "legacy_context": "ee34a4baa16f45bc87d9d18fafcfa461",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 34,
+    "pair_ids": [
+      "NS-000034"
+    ]
+  },
+  {
+    "id": "N-035",
+    "exact_tibetan": "དུད་འགྲོ་རྒྱུ་མ་རླུག་",
+    "category": "source reading",
+    "problem": "The verb རླུག is uncertain in the description of an animal’s entrails.",
+    "working_treatment": "Provisionally “an animal’s entrails spill out,” without adding a slaughterer or deliberate pulling.",
+    "uncertainty": "“Fall out” or a source spelling defect is possible; the event’s exact mechanics remain unresolved.",
+    "review_action": "Verify the verb and its syntax against a witness.",
+    "entry_index": 35,
+    "source_entry": "L00035",
+    "legacy_context": "c5d6d09e859c4f208e8acd1cee8537d3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 35,
+    "pair_ids": [
+      "NS-000035a",
+      "NS-000035b"
+    ]
+  },
+  {
+    "id": "N-035b",
+    "exact_tibetan": "སྙིང་རྗེ་",
+    "category": "terminology gap",
+    "problem": "This word has no active entry and must remain distinct from established compassionate responsiveness for ཐུགས་རྗེ.",
+    "working_treatment": "Proposed: “compassion.”",
+    "uncertainty": "The distinction in English is intentional; the project has not approved the new entry.",
+    "review_action": "Review the separate compassion entry.",
+    "entry_index": 35,
+    "source_entry": "L00035",
+    "legacy_context": "c5d6d09e859c4f208e8acd1cee8537d3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 35,
+    "pair_ids": [
+      "NS-000035a",
+      "NS-000035b"
+    ]
+  },
+  {
+    "id": "N-038",
+    "exact_tibetan": "མོས་པ་ཡིད་བྱེད་པ",
+    "category": "terminology gap",
+    "problem": "The compound ཡིད་བྱེད and standalone མོས་པ are absent; confident devotion is established only for མོས་གུས.",
+    "working_treatment": "Proposed: “attends with the mental faculty in devotion.”",
+    "uncertainty": "The construction may mean directing attention devotionally; it is not a new canonical counterpart for མོས་གུས.",
+    "review_action": "Review the two expressions and their syntax.",
+    "entry_index": 38,
+    "source_entry": "L00038",
+    "legacy_context": "0f238159a301452f86a3040672bef2ec",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 38,
+    "pair_ids": [
+      "NS-000038"
+    ]
+  },
+  {
+    "id": "N-040",
+    "exact_tibetan": "དབང་བསྐུར་",
+    "category": "terminology gap",
+    "problem": "The glossary has four empowerments but no standalone entry for this verbal expression.",
+    "working_treatment": "Proposed: “grant empowerment”; the Sage from entry 39 remains the agent of granting and blessing.",
+    "uncertainty": "No recipient change is assumed.",
+    "review_action": "Review the verbal entry and preserve the agent across the quotation.",
+    "entry_index": 40,
+    "source_entry": "L00040",
+    "legacy_context": "cef765319e0841debed505138a357be7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 40,
+    "pair_ids": [
+      "NS-000040"
+    ]
+  },
+  {
+    "id": "N-044",
+    "exact_tibetan": "འདས་གྲོང་",
+    "category": "source reading",
+    "problem": "The source has གྲོང rather than an expected honorific death form such as གྲོངས.",
+    "working_treatment": "Provisionally “passing away,” without changing the Tibetan.",
+    "uncertainty": "A spelling defect is likely but unverified.",
+    "review_action": "Check the final consonant in an authenticated witness.",
+    "entry_index": 44,
+    "source_entry": "L00044",
+    "legacy_context": "2bcbd6c3ad83445091fdcc5c0fb96fc1",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 44,
+    "pair_ids": [
+      "NS-000044"
+    ]
+  },
+  {
+    "id": "N-047",
+    "exact_tibetan": "རྒན་མོ་ཁྱི་སོས་སངས་རྒྱས་",
+    "category": "syntax/reference",
+    "problem": "The proverb uses སངས་རྒྱས predicatively; it has no verb meaning “see.”",
+    "working_treatment": "“An old woman became a Buddha through a dog’s tooth” renders the predicate; Buddha/buddhahood is Proposed terminology.",
+    "uncertainty": "The proverb’s claim is left as the source’s statement and is not reduced to seeing a Buddha.",
+    "review_action": "Review the predicative rendering against the original wording.",
+    "entry_index": 47,
+    "source_entry": "L00047",
+    "legacy_context": "3566e6049f2d4496b69637a708f5a2ac",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 47,
+    "pair_ids": [
+      "NS-000047"
+    ]
+  },
+  {
+    "id": "N-057",
+    "exact_tibetan": "ཁང་པར་སླེབ་པར་",
+    "category": "scope",
+    "problem": "The timing is slightly awkward with the later statement that he brought the tooth to his mother.",
+    "working_treatment": "“On reaching the house” preserves the supplied arrival phrase without changing it to “near the house.”",
+    "uncertainty": "An approach-to-home reading is possible; the exact setting is not specified.",
+    "review_action": "Review the temporal construction if an earlier source becomes available.",
+    "entry_index": 57,
+    "source_entry": "L00057",
+    "legacy_context": "0c9faea372e04003a8b36d52a788ed58",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 57,
+    "pair_ids": [
+      "NS-000057"
+    ]
+  },
+  {
+    "id": "N-059",
+    "exact_tibetan": "ལྕབས་ནས་",
+    "category": "source reading",
+    "problem": "The supplied spelling differs from ལྕེབས in the mother’s threat at entry 55.",
+    "working_treatment": "Provisionally “kill herself”; no means of suicide is supplied.",
+    "uncertainty": "Likely spelling defect, supported by the repeated narrative phrase but not source-verified.",
+    "review_action": "Check this spelling against a witness.",
+    "entry_index": 59,
+    "source_entry": "L00059",
+    "legacy_context": "2f3c8cb5221a4ee797aecedb14ce467d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 59,
+    "pair_ids": [
+      "NS-000059"
+    ]
+  },
+  {
+    "id": "N-063",
+    "exact_tibetan": "རིང་བསྲེལ་",
+    "category": "terminology gap",
+    "problem": "The technical relic term has no active glossary entry.",
+    "working_treatment": "Proposed: “relics,” without adding a material description.",
+    "uncertainty": "“Relic pills” would be more specific but is not required by this passage.",
+    "review_action": "Review the new technical entry.",
+    "entry_index": 63,
+    "source_entry": "L00063",
+    "legacy_context": "aa2cb4fd633d4a269db6f4d7594fc3ae",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 63,
+    "pair_ids": [
+      "NS-000063"
+    ]
+  },
+  {
+    "id": "N-066",
+    "exact_tibetan": "དོན་དམ་པའི་བདེན་པ་",
+    "category": "terminology gap",
+    "problem": "The complete technical expression is absent; it should not be decomposed into a literal “truth of supreme meaning” without review.",
+    "working_treatment": "Proposed: “ultimate truth”; the shorter དོན་དམ་པ in entry 68 is “the ultimate.”",
+    "uncertainty": "This is a proposed whole expression, not a replacement for standalone meaning.",
+    "review_action": "Review the complete entry and its shorter use.",
+    "entry_index": 66,
+    "source_entry": "L00066",
+    "legacy_context": "43761322d14d40f990f6b2d8cbf1e21a",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 66,
+    "pair_ids": [
+      "NS-000066"
+    ]
+  },
+  {
+    "id": "N-066b",
+    "exact_tibetan": "རགས་ལས་",
+    "category": "source reading",
+    "problem": "The dependency construction normally has རག་ལས; the source includes an extra final ས.",
+    "working_treatment": "Provisionally “depends on,” without changing the source.",
+    "uncertainty": "Likely spelling defect.",
+    "review_action": "Verify the supplied spelling against a witness.",
+    "entry_index": 66,
+    "source_entry": "L00066",
+    "legacy_context": "43761322d14d40f990f6b2d8cbf1e21a",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 66,
+    "pair_ids": [
+      "NS-000066"
+    ]
+  },
+  {
+    "id": "N-069",
+    "exact_tibetan": "བླ་མ་དང་དཀོན་མཆོག་ལ་ཡིད་ཆེས་པ་གཅིག",
+    "category": "syntax/reference",
+    "problem": "The unit ends in གཅིག without an explicit finite predicate, then continues with irreversible extraordinary faith in entry 70.",
+    "working_treatment": "The English links the entries with an em dash and treats the following faith phrase as specifying the arising trust.",
+    "uncertainty": "The intended boundary and force of གཅིག remain uncertain; no missing Tibetan is reconstructed.",
+    "review_action": "Review entries 69–70 together and verify the transition.",
+    "entry_index": 69,
+    "source_entry": "L00069",
+    "legacy_context": "c93bd80ab1074aef827feae394e65eaf",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 69,
+    "pair_ids": [
+      "NS-000069"
+    ]
+  },
+  {
+    "id": "N-071",
+    "exact_tibetan": "དྭགས་པའི་རིན་པོ་ཆེ་བྱོན་ཁར་རྗེ་བཙུན་མི་ལ་རིན་པོ་ཆེ་ལ་",
+    "category": "syntax/reference",
+    "problem": "The dative ལ marks Mila as the recipient of the question; the rough reference reverses the participants. The spelling of the Dakpo designation is also unusual.",
+    "working_treatment": "The Precious One of Dakpo asks Mila. The answer in entries 72–73 is assigned to Mila, with “you” referring to the questioner.",
+    "uncertainty": "The names are recognized provisionally; the agency is supported by the source syntax.",
+    "review_action": "Check the Dakpo designation against a witness; preserve the dative relation in review.",
+    "entry_index": 71,
+    "source_entry": "L00071",
+    "legacy_context": "1cdf80c51ed44aadb10ec18932c63c57",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 71,
+    "pair_ids": [
+      "NS-000071"
+    ]
+  },
+  {
+    "id": "N-072",
+    "exact_tibetan": "སེམས་ཀྱི་ངོ་བོ་ལྷག་གིས་མཐོང་བའི་",
+    "category": "syntax/reference",
+    "problem": "The wording has ལྷག་གིས་མཐོང, not the established compound ལྷག་མཐོང for special insight.",
+    "working_treatment": "“See the essence of ordinary mind with a clarity unlike what you have now” keeps the adverbial sense; it does not insert special insight.",
+    "uncertainty": "The precise adverbial nuance of ལྷག་གིས deserves source review.",
+    "review_action": "Verify the spelling and adverbial construction.",
+    "entry_index": 72,
+    "source_entry": "L00072",
+    "legacy_context": "4a5c8bdb9c854d5fb4347fbabc28cf61",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 72,
+    "pair_ids": [
+      "NS-000072"
+    ]
+  },
+  {
+    "id": "N-074",
+    "exact_tibetan": "ཡིད་ཁྱེད་ཤེས་ཀྱི་བློ་",
+    "category": "syntax/reference",
+    "problem": "This repeats the devotional construction of entry 18 and modifies conceptual mind.",
+    "working_treatment": "Proposed: “a conceptual mind ... the mental faculty saying, ‘You know’.”",
+    "uncertainty": "The rendering preserves both protected terms but the idiom’s attachment is provisional.",
+    "review_action": "Review jointly with N-018; do not silently replace with trusting faith.",
+    "entry_index": 74,
+    "source_entry": "L00074",
+    "legacy_context": "5855ec718bc94483b5770018b7318057",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 74,
+    "pair_ids": [
+      "NS-000074"
+    ]
+  },
+  {
+    "id": "N-077",
+    "exact_tibetan": "སྐྱེས་བུ་ཆུང་ངུའི་སྐྱབས་འགྲོ་",
+    "category": "terminology gap",
+    "problem": "The three classes of person are not active whole-expression entries.",
+    "working_treatment": "Proposed: “person of lesser capacity,” “person of middling capacity,” and “person of great capacity.” The word capacity is an interpretive complement in this classification.",
+    "uncertainty": "More literal small/middling/great person is possible; the proposal is restricted to the path classification.",
+    "review_action": "Review all three names together, including entries 79, 81–82, and 86.",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 77,
+    "pair_ids": [
+      "NS-000077"
+    ]
+  },
+  {
+    "id": "N-077b",
+    "exact_tibetan": "དོན་དུ་གཉེར་",
+    "category": "contextual use",
+    "problem": "This verbal expression means pursuing an aim; mechanical substitution of standalone meaning would obscure its syntax.",
+    "working_treatment": "Proposed whole-expression realization: “seek,” also in entries 79 and 84.",
+    "uncertainty": "The proposal is restricted to this construction; meaning remains canonical for standalone དོན་.",
+    "review_action": "Review the scoped verbal expression.",
+    "entry_index": 77,
+    "source_entry": "L00077",
+    "legacy_context": "64fd79bb7ed84515aa38e59f06d34332",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 77,
+    "pair_ids": [
+      "NS-000077"
+    ]
+  },
+  {
+    "id": "N-079",
+    "exact_tibetan": "ཞི་བ་མྱང་འདས་",
+    "category": "terminology gap",
+    "problem": "The nirvana expression, abbreviated here, has no active glossary entry.",
+    "working_treatment": "Proposed: “peaceful state of nirvana,” also using nirvana for the full expression in entry 85.",
+    "uncertainty": "The abbreviation is interpreted conventionally; no source repair is made.",
+    "review_action": "Review the entry and attest both forms.",
+    "entry_index": 79,
+    "source_entry": "L00079",
+    "legacy_context": "225409bb552a49acacb3890b6da22cc9",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 79,
+    "pair_ids": [
+      "NS-000079"
+    ]
+  },
+  {
+    "id": "N-080",
+    "exact_tibetan": "སེམས་ཅན་",
+    "category": "terminology gap",
+    "problem": "The complete expression is absent; it must not be mechanically rendered as “ordinary-mind possessors.”",
+    "working_treatment": "Proposed whole-expression: “sentient beings.”",
+    "uncertainty": "This preserves ordinary mind for standalone སེམས་ while recognizing a distinct compound.",
+    "review_action": "Review the whole-expression entry.",
+    "entry_index": 80,
+    "source_entry": "L00080",
+    "legacy_context": "3f8173ef486649a0a724a5e0fd717ecf",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 80,
+    "pair_ids": [
+      "NS-000080"
+    ]
+  },
+  {
+    "id": "N-081",
+    "exact_tibetan": "བླ་མ་མེད་པ་",
+    "category": "source reading",
+    "problem": "The source has བླ་མ་མེད་པ, literally “without a guru,” in the standard description of perfect buddhahood, where བླ་ན་མེད་པ is expected.",
+    "working_treatment": "Provisionally “unsurpassed”; the suspected མ/ན error remains unchanged in Tibetan. Omniscient for རྣམ་མཁྱེན is also a Proposed technical assignment.",
+    "uncertainty": "The intended phrase is strongly suggested by context but unverified.",
+    "review_action": "Check the exact syllable against an authenticated source.",
+    "entry_index": 81,
+    "source_entry": "L00081",
+    "legacy_context": "24d2d6595831491594616eb015892ede",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 81,
+    "pair_ids": [
+      "NS-000081"
+    ]
+  },
+  {
+    "id": "N-083",
+    "exact_tibetan": "དོན་དུ་",
+    "category": "contextual use",
+    "problem": "In the appearance-versus-reality contrast this construction functions adverbially; the standalone glossary meaning cannot be inserted mechanically.",
+    "working_treatment": "Proposed contextual construction: “in actuality.”",
+    "uncertainty": "This is restricted to this construction and is not a new default for དོན་.",
+    "review_action": "Review this scoped exception.",
+    "entry_index": 83,
+    "source_entry": "L00083",
+    "legacy_context": "27eeba9f83c54e3197ef4d2b3293e004",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 83,
+    "pair_ids": [
+      "NS-000083"
+    ]
+  },
+  {
+    "id": "N-085",
+    "exact_tibetan": "ཉན་ཐོས་དང་རང་སངས་རྒྱས་",
+    "category": "terminology gap",
+    "problem": "Neither complete vehicle/person designation is assigned. The substring རང་སངས is not the standalone self-purified occurrence.",
+    "working_treatment": "Proposed: “śrāvaka” and “pratyekabuddha,” retaining the complete technical terms.",
+    "uncertainty": "These transliterations do not approve new defaults for their components.",
+    "review_action": "Review both whole-expression entries.",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 85,
+    "pair_ids": [
+      "NS-000085"
+    ]
+  },
+  {
+    "id": "N-085b",
+    "exact_tibetan": "རྣམས་ཀྱི་དོན་མ་བྱས་པར་",
+    "category": "contextual use",
+    "problem": "Here དོན concerns acting for beings’ sake; it is not lexical meaning.",
+    "working_treatment": "Proposed: “fail to act for the sake of the sentient beings.”",
+    "uncertainty": "This benefit/purpose use is restricted to the quoted construction.",
+    "review_action": "Review this contextual use separately from the standalone meaning assignment.",
+    "entry_index": 85,
+    "source_entry": "L00085",
+    "legacy_context": "47f79f157e0b402f920f4f05f6ac63d7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 85,
+    "pair_ids": [
+      "NS-000085"
+    ]
+  },
+  {
+    "id": "N-086",
+    "exact_tibetan": "བསོད་ནམས་",
+    "category": "terminology gap",
+    "problem": "This recurring technical term has no active glossary entry.",
+    "working_treatment": "Proposed: “merit.”",
+    "uncertainty": "No distinction beyond the source’s immeasurable merit is added.",
+    "review_action": "Review the standalone technical entry.",
+    "entry_index": 86,
+    "source_entry": "L00086",
+    "legacy_context": "9363acd97a714491a5526c17b08dda73",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 86,
+    "pair_ids": [
+      "NS-000086"
+    ]
+  },
+  {
+    "id": "N-092",
+    "exact_tibetan": "མཐར་ཐུག་སྐྱབ་ཡུལ་བསྒོམ་ཚུལ་ལོ།",
+    "category": "source reading",
+    "problem": "The list promises ten aspects (entry 91), but the final two lack a separating shad and སྐྱབ lacks the final ས of the usual སྐྱབས.",
+    "working_treatment": "Read the last span as two items, “ultimate object of refuge” and “manner of cultivation,” without changing the source.",
+    "uncertainty": "Supported by the later separate discussions at entries 150 and 159; source spelling remains unverified.",
+    "review_action": "Check against an authoritative textual witness; retain the original transcript separately.",
+    "entry_index": 92,
+    "source_entry": "L00092",
+    "legacy_context": "b7bee5912250423aaa226b3ebf4e338b",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 92,
+    "pair_ids": [
+      "NS-000092"
+    ]
+  },
+  {
+    "id": "N-093",
+    "exact_tibetan": "མཚན་གཞི",
+    "category": "terminology gap",
+    "problem": "The complete technical expression is absent from the glossary; its component གཞི must not force the unrelated technical assignment “The Ground.”",
+    "working_treatment": "Propose “instances”: the following Buddha, Dharma, and Sangha are the instances identified.",
+    "uncertainty": "“Examples” or “bases of definition” are possible; no equivalent is approved.",
+    "review_action": "Approve or revise the whole-expression equivalent; compare མཚན་ཉིད at entry 97.",
+    "entry_index": 93,
+    "source_entry": "L00093",
+    "legacy_context": "e3d5e521f23e46328c3517656065d329",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 93,
+    "pair_ids": [
+      "NS-000093"
+    ]
+  },
+  {
+    "id": "N-094",
+    "exact_tibetan": "སྤང་རྟོག",
+    "category": "source reading",
+    "problem": "The transcript reads རྟོག (conceptualizing), whereas the expected abandonment-and-realization expression has རྟོགས. The human reference also takes realization, but is not textual proof.",
+    "working_treatment": "Render “abandonment and realization” provisionally; preserve སྤང་རྟོག in the source.",
+    "uncertainty": "A likely missing final ས, not an authenticated correction.",
+    "review_action": "Collate the phrase before approving a source correction or an unqualified translation.",
+    "entry_index": 94,
+    "source_entry": "L00094",
+    "legacy_context": "435bc4ca969b49e3934fd52fc5428004",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 94,
+    "pair_ids": [
+      "NS-000094"
+    ]
+  },
+  {
+    "id": "N-094a",
+    "exact_tibetan": "རང་གཞན་གྱི་དོན་གཉིས",
+    "category": "contextual use",
+    "problem": "The glossary assigns standalone དོན “meaning”; here the two concern the benefit or aims of oneself and others, not two semantic meanings.",
+    "working_treatment": "Propose the whole-expression rendering “the two aims: one’s own and others’.”",
+    "uncertainty": "“Benefits” or “welfare” could express the contextual sense; no exception is approved.",
+    "review_action": "Review this construction and linked དོན་གཉིས occurrences at 98 and 103.",
+    "entry_index": 94,
+    "source_entry": "L00094",
+    "legacy_context": "435bc4ca969b49e3934fd52fc5428004",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 94,
+    "pair_ids": [
+      "NS-000094"
+    ]
+  },
+  {
+    "id": "N-096",
+    "exact_tibetan": "རིག་གྲོལ་གཉིས་ལྡན",
+    "category": "terminology gap",
+    "problem": "The compound རིག་གྲོལ is absent from the glossary; རིག་ is abbreviated relative to established རིག་པ “awareness.”",
+    "working_treatment": "Propose “possesses awareness and liberation,” retaining the established awareness vocabulary.",
+    "uncertainty": "The scope of རིག in this Sangha definition may be knowledge rather than the technical awareness sense.",
+    "review_action": "Approve the compound or a scoped alternative after reviewing entries 96 and 111.",
+    "entry_index": 96,
+    "source_entry": "L00096",
+    "legacy_context": "60c5e43dbef644bcb4484cfbcfe010ab",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 96,
+    "pair_ids": [
+      "NS-000096"
+    ]
+  },
+  {
+    "id": "N-097",
+    "exact_tibetan": "མཚན་ཉིད",
+    "category": "terminology gap",
+    "problem": "The technical definition/defining-characteristic expression has no glossary row.",
+    "working_treatment": "Propose “defining characteristics” for the heading and its subsequent eightfold sets.",
+    "uncertainty": "A contextual rendering, not an approved glossary addition.",
+    "review_action": "Review alongside མཚན་གཞི; approve a technical entry if suitable.",
+    "entry_index": 97,
+    "source_entry": "L00097",
+    "legacy_context": "d6bacecdbce94293bb4893fdb0674418",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 97,
+    "pair_ids": [
+      "NS-000097"
+    ]
+  },
+  {
+    "id": "N-098",
+    "exact_tibetan": "དག་པ་གཉིས་ལྡན་མཐར་ཐུག་པ",
+    "category": "syntax/reference",
+    "problem": "The attachment of “ultimate” within this compact series is not explicitly marked. The two purities are not named here.",
+    "working_treatment": "Retain “possesses the two purities, is ultimate” without supplying their conventional names.",
+    "uncertainty": "“Ultimate in possessing the two purities” is another attachment.",
+    "review_action": "Confirm the construction in a witness or commentary.",
+    "entry_index": 98,
+    "source_entry": "L00098",
+    "legacy_context": "d4bf82d80f6f421a910c14f1b791f40b",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 98,
+    "pair_ids": [
+      "NS-000098"
+    ]
+  },
+  {
+    "id": "N-102",
+    "exact_tibetan": "མཁྱེན་དང་བརྩེ་དང་ནུས་པ",
+    "category": "terminology gap",
+    "problem": "The threefold set is absent from the glossary; མཁྱེན is not the established ཤེས་པ knowing or ཡེ་ཤེས primordial knowing.",
+    "working_treatment": "Propose “knowledge, love, and power,” keeping the three components distinct.",
+    "uncertainty": "No new glossary defaults are approved by this wording.",
+    "review_action": "Approve or revise the complete technical set in its Buddha-definition context.",
+    "entry_index": 102,
+    "source_entry": "L00102",
+    "legacy_context": "10a0a1aa9e0e4e80b808ec8231e809b0",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 102,
+    "pair_ids": [
+      "NS-000102"
+    ]
+  },
+  {
+    "id": "N-105",
+    "exact_tibetan": "འགོག་པ་དང་ལམ་གྱིས་བསྡུས་པའི་ཟག་མེད་རྣམ་བྱང་གི་བདེན་པ",
+    "category": "terminology gap",
+    "problem": "Cessation, uncontaminated, and complete purification are technical expressions absent from the glossary; the passage identifies two truths by its own wording.",
+    "working_treatment": "Propose literal technical renderings; do not replace the two truths with ultimate and conventional truth.",
+    "uncertainty": "These local choices are provisional, not glossary-approved definitions.",
+    "review_action": "Review the technical mappings and the following quoted verse together.",
+    "entry_index": 105,
+    "source_entry": "L00105",
+    "legacy_context": "0442f28708e842d1acf1fe4757e87660",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 105,
+    "pair_ids": [
+      "NS-000105"
+    ]
+  },
+  {
+    "id": "N-108",
+    "exact_tibetan": "གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ",
+    "category": "syntax/reference",
+    "problem": "The relative pronouns distinguish that which is freedom from attachment and that by which it is reached. Their referents are left implicit in the verse.",
+    "working_treatment": "Supply only the English relational syntax; read with cessation and path explicitly named in entry 105.",
+    "uncertainty": "The division of the six preceding qualities across the two truths needs commentary-level confirmation.",
+    "review_action": "Review the complete verse, entries 106–109; do not treat the human reference’s inserted labels as source words.",
+    "entry_index": 108,
+    "source_entry": "L00108",
+    "legacy_context": "40e13a37d86643bb8955bc5eb60e7ddd",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 108,
+    "pair_ids": [
+      "NS-000108"
+    ]
+  },
+  {
+    "id": "N-111",
+    "exact_tibetan": "རྒྱལ་སྲས་བྱང་སེམས",
+    "category": "terminology gap",
+    "problem": "བྱང་སེམས is a whole-expression abbreviation for bodhisattva here, identified with the Victors’ children; no glossary entry covers it.",
+    "working_treatment": "Propose “bodhisattvas,” rather than expanding the component སེམས as ordinary mind.",
+    "uncertainty": "This applies to persons, not the separately discussed aspirational bodhicitta.",
+    "review_action": "Approve or revise the whole-expression mapping and keep the two uses distinct.",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 111,
+    "pair_ids": [
+      "NS-000111"
+    ]
+  },
+  {
+    "id": "N-111a",
+    "exact_tibetan": "ས་ཆེན་པོ",
+    "category": "terminology gap",
+    "problem": "The stages denoted by ས are not the glossary headword གཞི, The Ground.",
+    "working_treatment": "Propose “great stages,” without adding a number not stated in the source.",
+    "uncertainty": "The technical bodhisattva-stage sense is supported by the named practitioners; the number is not explicit.",
+    "review_action": "Approve the stage terminology separately from The Ground.",
+    "entry_index": 111,
+    "source_entry": "L00111",
+    "legacy_context": "3e530fce665b495dbca60304de683aa1",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 111,
+    "pair_ids": [
+      "NS-000111"
+    ]
+  },
+  {
+    "id": "N-112",
+    "exact_tibetan": "ཇི་ལྟ་ཇི་སྙེད་ནང་གི་ནི",
+    "category": "syntax/reference",
+    "problem": "This is the first verse line, following a prose attribution in the same source entry; the human reference places its meaning under the next entry.",
+    "working_treatment": "Keep the line here and continue its construction through “seeing through primordial knowing” at entry 113.",
+    "uncertainty": "“Inward” is attached to seeing; the exact scope of the two modes of knowledge should be reviewed.",
+    "review_action": "Keep the source-order lineation and split prose attribution from verse in paired publication.",
+    "entry_index": 112,
+    "source_entry": "L00112",
+    "legacy_context": "d8d54ce9a20143cebeb6617d75b54bf2",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 112,
+    "pair_ids": [
+      "NS-000112a",
+      "NS-000112b"
+    ]
+  },
+  {
+    "id": "N-114",
+    "exact_tibetan": "བློ་ལྡན",
+    "category": "contextual use",
+    "problem": "The complete expression can designate persons endowed with intelligence; only its component བློ has the established mapping “conceptual mind.”",
+    "working_treatment": "Retain “those endowed with conceptual mind” provisionally rather than silently substituting “wise.”",
+    "uncertainty": "The literal construction does not settle the degree or kind of intelligence intended.",
+    "review_action": "Review whether the whole expression needs a separately approved equivalent.",
+    "entry_index": 114,
+    "source_entry": "L00114",
+    "legacy_context": "cd0cdf700694410b88dbc54bffd5a3b9",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 114,
+    "pair_ids": [
+      "NS-000114"
+    ]
+  },
+  {
+    "id": "N-118",
+    "exact_tibetan": "ཁྱེད་པར་ནི། སྐྱབས་གནས་དང། དུས། རྒྱུ། ཆེད་དུ་བྱ་བ་དད་བཞིའོ།",
+    "category": "source reading",
+    "problem": "The transcript has ཁྱེད་པར where the outline at 92 and surrounding discussion support ཁྱད་པར, “distinctions.” Its final connective is also དད rather than expected དང.",
+    "working_treatment": "Translate the heading as “The distinctions” and the sentence as a four-item list, without changing the Tibetan.",
+    "uncertainty": "Both are suspected transcription defects.",
+    "review_action": "Check the original witness for the heading and final connective.",
+    "entry_index": 118,
+    "source_entry": "L00118",
+    "legacy_context": "b4d50094248241cfb05d36e4123b9782",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 118,
+    "pair_ids": [
+      "NS-000118a",
+      "NS-000118b"
+    ]
+  },
+  {
+    "id": "N-120",
+    "exact_tibetan": "འབྲས་བུ་སྐྱབས་དགྲ་བཅོམ",
+    "category": "terminology gap",
+    "problem": "The resultant-refuge construction and arhat are not glossary entries; the clause continues into the Sangha explanation at 121.",
+    "working_treatment": "Propose “the resultant refuge is an arhat,” not the claim that all śrāvakas are arhats.",
+    "uncertainty": "The relation between the arhat and the following Sangha definition should be reviewed as a unit.",
+    "review_action": "Approve the compound terms and confirm the construction across 120–121.",
+    "entry_index": 120,
+    "source_entry": "L00120",
+    "legacy_context": "4bda067eec89456695250904c9a8620e",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 120,
+    "pair_ids": [
+      "NS-000120"
+    ]
+  },
+  {
+    "id": "N-122",
+    "exact_tibetan": "ཆོས་དཀོན་མཆོག་ལ་འདོད་པ",
+    "category": "interpretive supply",
+    "problem": "The verb “consider” has an implicit object in a series contrasting the three vehicles’ resultant refuges.",
+    "working_treatment": "Supply “their refuge” from the topic introduced at 120.",
+    "uncertainty": "The sentence does not state that dependent arising itself is the practitioner; alternative attachment must preserve the threefold comparison.",
+    "review_action": "Review entries 120–124 together.",
+    "entry_index": 122,
+    "source_entry": "L00122",
+    "legacy_context": "9111bf2590384a08b07b05fc65f118f8",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 122,
+    "pair_ids": [
+      "NS-000122"
+    ]
+  },
+  {
+    "id": "N-123",
+    "exact_tibetan": "འཇིག་པ་ལས་གྲོལ་བ",
+    "category": "source reading",
+    "problem": "The transcript reads འཇིག་པ, destruction, rather than འཇིགས་པ, fear. The latter occurs explicitly at entry 130.",
+    "working_treatment": "Retain “frees one from destruction” and do not silently add a final ས.",
+    "uncertainty": "A missing final ས is possible, but the present reading is intelligible.",
+    "review_action": "Check the source witness before choosing between destruction and fear.",
+    "entry_index": 123,
+    "source_entry": "L00123",
+    "legacy_context": "0af6ae59af5f4800913c020499af6687",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 123,
+    "pair_ids": [
+      "NS-000123"
+    ]
+  },
+  {
+    "id": "N-124",
+    "exact_tibetan": "སྟོན་པ། ཆོས་ལ་ལམ། དགེ་འདུན་ལ་གྲོགས་སུ་འཛིན་པ",
+    "category": "contextual use",
+    "problem": "The verb འཛིན་པ here means regarding or taking something as something; applying the nominal technical glossary assignment “apprehending subject” would misstate the construction.",
+    "working_treatment": "Propose “regard ... as” in this explicit X-as-Y construction.",
+    "uncertainty": "This is an occurrence-specific verbal use, not a replacement glossary default.",
+    "review_action": "Approve the scoped construction for 123–124 and the related use in 131.",
+    "entry_index": 124,
+    "source_entry": "L00124",
+    "legacy_context": "75c1900af26942768afb92745c97bd8d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 124,
+    "pair_ids": [
+      "NS-000124"
+    ]
+  },
+  {
+    "id": "N-126",
+    "exact_tibetan": "སྙིང་པོ་བྱང་ཆུབ",
+    "category": "terminology gap",
+    "problem": "The expression is absent from the glossary; the source retains སྙིང་པོ, which the human reference omits.",
+    "working_treatment": "Propose “the heart of awakening.”",
+    "uncertainty": "“Awakening, the essence” is another possible attachment.",
+    "review_action": "Review the whole expression before approving the proposed equivalent.",
+    "entry_index": 126,
+    "source_entry": "L00126",
+    "legacy_context": "4dc7a34e33d04a139e31895c008025f2",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 126,
+    "pair_ids": [
+      "NS-000126"
+    ]
+  },
+  {
+    "id": "N-127",
+    "exact_tibetan": "སྙིང་རྗེ་ཆེན་པོ",
+    "category": "terminology gap",
+    "problem": "Standalone སྙིང་རྗེ is absent from the glossary, which separately establishes compassionate responsiveness for ཐུགས་རྗེ.",
+    "working_treatment": "Use the coordinated proposal “great compassion”; do not conflate the two Tibetan expressions.",
+    "uncertainty": "Proposed and unapproved.",
+    "review_action": "Review the whole-work compassion proposal and preserve the distinction.",
+    "entry_index": 127,
+    "source_entry": "L00127",
+    "legacy_context": "8c5310fca7fa4ff799ab2fe011733c73",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 127,
+    "pair_ids": [
+      "NS-000127a",
+      "NS-000127b"
+    ]
+  },
+  {
+    "id": "N-128",
+    "exact_tibetan": "ཐེག་ཆེན་པའི་གཞན",
+    "category": "source reading",
+    "problem": "The transcript has the genitive པའི where the parallel with ཉན་ཐོས་པས suggests the agentive པས.",
+    "working_treatment": "Render the greater-vehicle practitioner as the agent and “others” as the beneficiaries, provisionally.",
+    "uncertainty": "Likely particle defect; the source remains unchanged.",
+    "review_action": "Check the particle in the witness.",
+    "entry_index": 128,
+    "source_entry": "L00128",
+    "legacy_context": "df32b937679041a3baacc32932476cf3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 128,
+    "pair_ids": [
+      "NS-000128a",
+      "NS-000128b"
+    ]
+  },
+  {
+    "id": "N-131",
+    "exact_tibetan": "སྟོན་པ་རྫོགས་པའི་སངས་རྒྱས་ལ་ཚངས་པ",
+    "category": "syntax/reference",
+    "problem": "The relation expressed by ལ in the first alternative is compressed. The sentence then explicitly supplies a second alternative: accepting Buddha and so forth while seeking a lesser result.",
+    "working_treatment": "Read the first alternative as taking another deity as teacher in place of Buddha; preserve the two alternatives separately.",
+    "uncertainty": "Taking another deity “as the perfectly complete Buddha” is a possible literal attachment. The human reference conflates the alternatives.",
+    "review_action": "Review the first construction against an authoritative witness/commentary.",
+    "entry_index": 131,
+    "source_entry": "L00131",
+    "legacy_context": "2fea2d5b2b36403e9f10be82ced60621",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 131,
+    "pair_ids": [
+      "NS-000131"
+    ]
+  },
+  {
+    "id": "N-132",
+    "exact_tibetan": "སྨོན་པ་སེམས་བསྐྱེད",
+    "category": "terminology gap",
+    "problem": "This complete technical expression is absent from the glossary; mechanically replacing its སེམས component with ordinary mind would obscure the distinction under discussion.",
+    "working_treatment": "Propose “generating aspirational bodhicitta,” distinguished from the mere wish involved in going for refuge.",
+    "uncertainty": "The whole-expression mapping is proposed, not an approved exception to ordinary mind.",
+    "review_action": "Approve a compound entry and link the abbreviated སྨོན་སེམས in 92.",
+    "entry_index": 132,
+    "source_entry": "L00132",
+    "legacy_context": "c2551c647a4b4183a0903a345183bb89",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 132,
+    "pair_ids": [
+      "NS-000132a",
+      "NS-000132b"
+    ]
+  },
+  {
+    "id": "N-135",
+    "exact_tibetan": "དབྱེ་བའི་ཆད",
+    "category": "source reading",
+    "problem": "The transcript has ཆད, not the expected purpose expression ཆེད.",
+    "working_treatment": "Render the differentiation as the stated purpose, while leaving ཆད intact in the source.",
+    "uncertainty": "Suspected vowel omission; uncollated.",
+    "review_action": "Verify the word against a witness.",
+    "entry_index": 135,
+    "source_entry": "L00135",
+    "legacy_context": "943bd30185f84788aac85a03ffe4bf7a",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 135,
+    "pair_ids": [
+      "NS-000135"
+    ]
+  },
+  {
+    "id": "N-136",
+    "exact_tibetan": "ཆེད་དུ་བརྗོད་པ",
+    "category": "contextual use",
+    "problem": "This expression follows a genitive agent, gods and nāgas, in a list of benefits. Literal “spoken for their sake” does not explain the syntax well.",
+    "working_treatment": "Provisionally read “speak of one with acclaim,” allowing the expression an exclamatory/praising sense.",
+    "uncertainty": "A defective case marker or a different idiomatic use remains possible.",
+    "review_action": "Review this exact construction; do not treat the human reference as authority.",
+    "entry_index": 136,
+    "source_entry": "L00136",
+    "legacy_context": "1112a0f1a2a7456a9602c2c827f3eead",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 136,
+    "pair_ids": [
+      "NS-000136"
+    ]
+  },
+  {
+    "id": "N-137",
+    "exact_tibetan": "རིན་པོ་ཆེ་དང་ཆོས་མཐུན་པ་དྲུག",
+    "category": "syntax/reference",
+    "problem": "ཆོས་མཐུན refers here to properties shared with precious gems, as the preceding དང construction and six following comparisons show; it is not “in accordance with Dharma.”",
+    "working_treatment": "Render “six properties they share with precious gems,” and retain that relation throughout 144–149.",
+    "uncertainty": "The specific six properties are supplied by the text itself, not an added doctrinal enumeration.",
+    "review_action": "Review this repeated relational construction as a single usage.",
+    "entry_index": 137,
+    "source_entry": "L00137",
+    "legacy_context": "64ec27d76f8b4d29b672e7ed5a0c4d0d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 137,
+    "pair_ids": [
+      "NS-000137a",
+      "NS-000137b"
+    ]
+  },
+  {
+    "id": "N-146",
+    "exact_tibetan": "མངོན་པར་ཤེས་པ་དྲུག",
+    "category": "terminology gap",
+    "problem": "The sixfold technical expression is absent from the glossary; standalone ཤེས་པ is “knowing.”",
+    "working_treatment": "Propose “six kinds of higher knowing,” preserving that component without supplying the six names.",
+    "uncertainty": "No approved whole-expression equivalent is available.",
+    "review_action": "Approve or revise this compound and check for collisions with primordial knowing and discerning knowing.",
+    "entry_index": 146,
+    "source_entry": "L00146",
+    "legacy_context": "8c56a859da8f42ad96e70dca53836240",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 146,
+    "pair_ids": [
+      "NS-000146"
+    ]
+  },
+  {
+    "id": "N-147",
+    "exact_tibetan": "དགེ་བའི་རྒྱི",
+    "category": "source reading",
+    "problem": "རྒྱི is not a clear predicate here. The construction suggests རྒྱུ, cause, as also reflected by the human reference.",
+    "working_treatment": "Render “cause of virtuous intentions” provisionally; do not change the source.",
+    "uncertainty": "A likely transcription defect, not a confirmed emendation.",
+    "review_action": "Check the vowel and the complete phrase against a witness.",
+    "entry_index": 147,
+    "source_entry": "L00147",
+    "legacy_context": "8d0fb21c4b044ab697c32bba9b13a514",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 147,
+    "pair_ids": [
+      "NS-000147"
+    ]
+  },
+  {
+    "id": "N-149",
+    "exact_tibetan": "ཆོས་ཉིད་འདུས་མ་བྱས་པའི་རང་བཞིན",
+    "category": "syntax/reference",
+    "problem": "The compact noun chain permits differing attachments of “unconditioned” and “intrinsic nature.”",
+    "working_treatment": "Read their intrinsic nature as the unconditioned nature of phenomena, preserving both established terms.",
+    "uncertainty": "“The nature of phenomena has an unconditioned intrinsic nature” is another construction to consider.",
+    "review_action": "Review the attachment before final human editing.",
+    "entry_index": 149,
+    "source_entry": "L00149",
+    "legacy_context": "64d297fef76849cc908f1882452d07c7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 149,
+    "pair_ids": [
+      "NS-000149"
+    ]
+  },
+  {
+    "id": "N-150",
+    "exact_tibetan": "གོང་ནས་གོང་བོཌ་དབྱུང",
+    "category": "source reading",
+    "problem": "The sequence after “higher and higher” is not securely interpretable as supplied; the character ཌ is anomalous in this construction.",
+    "working_treatment": "Represent the clear higher-to-higher sequence and retain an explicit unresolved marker for the remainder.",
+    "uncertainty": "Successive development, supersession, or abandonment may be intended; none is adopted as a settled reading.",
+    "review_action": "Inspect the source witness; do not infer the missing construction from the human reference.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 150,
+    "pair_ids": [
+      "NS-000150a",
+      "NS-000150b"
+    ]
+  },
+  {
+    "id": "N-150a",
+    "exact_tibetan": "བག་ལ་ཉལ་བ",
+    "category": "terminology gap",
+    "problem": "This technical expression is not a glossary entry; it differs from established བག་ཆགས, habitual tendencies.",
+    "working_treatment": "Propose “latent dispositions” and preserve the distinction.",
+    "uncertainty": "No equivalence to habitual tendencies is asserted.",
+    "review_action": "Approve or revise the term after checking its scope here.",
+    "entry_index": 150,
+    "source_entry": "L00150",
+    "legacy_context": "d0f9a155bc4e4ff6ab72e7690779e497",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 150,
+    "pair_ids": [
+      "NS-000150a",
+      "NS-000150b"
+    ]
+  },
+  {
+    "id": "N-151",
+    "exact_tibetan": "རྒྱུས་བླ་མ",
+    "category": "source reading",
+    "problem": "The title reads རྒྱུས, while the earlier citation at 138 reads རྒྱུད.",
+    "working_treatment": "Render the apparent intended title “Sublime Continuum,” preserving the differing Tibetan.",
+    "uncertainty": "Probable final-letter error; title identification is provisional.",
+    "review_action": "Verify the title and quotation in an authoritative textual witness.",
+    "entry_index": 151,
+    "source_entry": "L00151",
+    "legacy_context": "6ec1abfd2ca84871a3dec31123e4202d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 151,
+    "pair_ids": [
+      "NS-000151"
+    ]
+  },
+  {
+    "id": "N-153",
+    "exact_tibetan": "མེད་ཕྱིར",
+    "category": "interpretive supply",
+    "problem": "The source says only “because [it] is absent”; its immediate prose explanation says the Sangha has not reached the ultimate.",
+    "working_treatment": "Supply “the ultimate” from entry 150.",
+    "uncertainty": "The verse’s ellipsis should be checked against the cited work; no source words are added.",
+    "review_action": "Review the referent of “absent” in the full quotation.",
+    "entry_index": 153,
+    "source_entry": "L00153",
+    "legacy_context": "e944c054f28e4eb9a6c1b43eb34883b8",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 153,
+    "pair_ids": [
+      "NS-000153"
+    ]
+  },
+  {
+    "id": "N-156",
+    "exact_tibetan": "དམ་པའི་དོན་དུ་འགྲོ་བ་ཡིན",
+    "category": "source reading",
+    "problem": "The terminal ཡིན gives a copular clause, which does not clearly connect to the following refuge line. A genitive ཡི would yield a natural “beings’ refuge” construction, but is not supplied.",
+    "working_treatment": "Provisionally render “In the ultimate meaning, [for] beings,” with the supplied relation visibly bracketed.",
+    "uncertainty": "The final syllable and the use of འགྲོ་བ as “beings” versus “going” remain unresolved.",
+    "review_action": "Check the cited verse before approving this construction.",
+    "entry_index": 156,
+    "source_entry": "L00156",
+    "legacy_context": "ce0c45a33496489eaa36b8984d3bfd40",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 156,
+    "pair_ids": [
+      "NS-000156"
+    ]
+  },
+  {
+    "id": "N-159",
+    "exact_tibetan": "བདུན་པ་བསྒོམ་ཚུལ",
+    "category": "source reading",
+    "problem": "The source calls this “seventh,” although entries 91–92 promise ten topics and place cultivation last.",
+    "working_treatment": "Retain “Seventh” instead of copying the human reference’s editorial “2.10.”",
+    "uncertainty": "Whether the numbering error arose in this transcript or its source is unknown.",
+    "review_action": "Check the outline and heading in the witness.",
+    "entry_index": 159,
+    "source_entry": "L00159",
+    "legacy_context": "400f256f27a442bcb07ad11d6b8fbf26",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 159,
+    "pair_ids": [
+      "NS-000159a",
+      "NS-000159b"
+    ]
+  },
+  {
+    "id": "N-159a",
+    "exact_tibetan": "སེམས་དྲན་ཤེས",
+    "category": "terminology gap",
+    "problem": "དྲན་ཤེས is a compact technical pairing absent from the glossary; དྲན་པ is mindfulness and ཤེས་པ is knowing.",
+    "working_treatment": "Propose mindfulness and alertness for the compound, while retaining ordinary mind for སེམས.",
+    "uncertainty": "Alertness assumes ཤེས is abbreviated from a vigilance expression; the exact expansion is not established here.",
+    "review_action": "Review and approve the compound treatment; do not apply alertness to standalone knowing.",
+    "entry_index": 159,
+    "source_entry": "L00159",
+    "legacy_context": "400f256f27a442bcb07ad11d6b8fbf26",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 159,
+    "pair_ids": [
+      "NS-000159a",
+      "NS-000159b"
+    ]
+  },
+  {
+    "id": "N-166",
+    "exact_tibetan": "འཁྲུལ་བ་འོད་གསལ་དུ་སྦ་བ",
+    "category": "contextual use",
+    "problem": "The verb supplied is སྦ, hide/conceal; the human reference recasts this as transformation.",
+    "working_treatment": "Retain the literal “hiding delusion within clear light.”",
+    "uncertainty": "The intended contemplative operation may be absorption or subsiding, but those are not explicit lexical readings.",
+    "review_action": "Review the instruction’s technical sense without silently replacing the verb.",
+    "entry_index": 166,
+    "source_entry": "L00166",
+    "legacy_context": "b88114a234fe4cb8b235e10d55b41215",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 166,
+    "pair_ids": [
+      "NS-000166"
+    ]
+  },
+  {
+    "id": "N-167",
+    "exact_tibetan": "ཡིད་ཁྱེད་ཤེས་ཀྱི་དད་པས་བློ་བཀལ",
+    "category": "syntax/reference",
+    "problem": "The relation of ཡིད to the quoted expression ཁྱེད་ཤེས is compressed. “You know” expresses entrusting oneself to the refuge; it does not mean the practitioner’s technical knowing.",
+    "working_treatment": "Retain mental faculty, faith, and conceptual mind, and quote “You know” as the content of that faith.",
+    "uncertainty": "The exact omitted relation after ཡིད is uncertain; “You know what is best” would add an interpretive object.",
+    "review_action": "Check the construction and decide whether the idiom needs an approved expanded rendering.",
+    "entry_index": 167,
+    "source_entry": "L00167",
+    "legacy_context": "fc30d3ddc6584c48b4c691176897c1ff",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 167,
+    "pair_ids": [
+      "NS-000167"
+    ]
+  },
+  {
+    "id": "N-169",
+    "exact_tibetan": "ཡིད་ཀྱིས་ཅི་མཛད་ཁྱེད་ཤེས་ཀྱི་བློ་གཏད",
+    "category": "syntax/reference",
+    "problem": "The honorific “do” and second-person “you know” address the refuge, within the practitioner’s act of entrustment; the human reference assigns the action to the practitioner.",
+    "working_treatment": "Render the address as “Whatever you do, you know,” retaining mental faculty and conceptual mind in the surrounding instruction.",
+    "uncertainty": "A freer “Whatever you do, I entrust myself to you” would add words not explicit here.",
+    "review_action": "Review the supplicatory idiom together with entry 167.",
+    "entry_index": 169,
+    "source_entry": "L00169",
+    "legacy_context": "760f11f1db8f47ee8becf4fea682ca2d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 169,
+    "pair_ids": [
+      "NS-000169a",
+      "NS-000169b"
+    ]
+  },
+  {
+    "id": "N-169a",
+    "exact_tibetan": "མོས་པ",
+    "category": "terminology gap",
+    "problem": "The glossary establishes confident devotion for མོས་གུས but lacks standalone མོས་པ.",
+    "working_treatment": "Propose “devotion” in this devotional instruction without adding confidence.",
+    "uncertainty": "The distinct expression can also concern inclination or conviction in other contexts; no general default is asserted.",
+    "review_action": "Approve this contextual use or choose a scoped alternative.",
+    "entry_index": 169,
+    "source_entry": "L00169",
+    "legacy_context": "760f11f1db8f47ee8becf4fea682ca2d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 169,
+    "pair_ids": [
+      "NS-000169a",
+      "NS-000169b"
+    ]
+  },
+  {
+    "id": "N-172",
+    "exact_tibetan": "ཐལ་མོ་འགྲམ་པ་གཡོན་གྱི་སྟེང་དུ་སྦྱར",
+    "category": "scope",
+    "problem": "The passage describes distracted prostration: entry 171 opens the contrast, and entries 174–175 condemn bodily prostration while ordinary mind is distracted.",
+    "working_treatment": "Render palms pressed by the cheek descriptively, not as an instruction or remedy.",
+    "uncertainty": "The exact bodily posture is described briefly; the negative instructional function is clear from the following context.",
+    "review_action": "Preserve the 171–175 sequence when grouping pairs; reject the human reference’s imperative reading.",
+    "entry_index": 172,
+    "source_entry": "L00172",
+    "legacy_context": "49f7848a8b7540dd8820f3eb471def5b",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 172,
+    "pair_ids": [
+      "NS-000172"
+    ]
+  },
+  {
+    "id": "N-173",
+    "exact_tibetan": "དེ་བཞིན་དུ་གཡོན་ཕྱོགས་སུའང་འདྲ།",
+    "category": "scope",
+    "problem": "Entries 171–175 describe distracted prostration; the human reference adds a recommendation to perform the same movement on the left.",
+    "working_treatment": "Translate descriptively; no instruction to place the palms on a cheek is added.",
+    "uncertainty": "The backward reference is clear from the uninterrupted criticism.",
+    "review_action": "Read together with entries 171–175 when editing.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 173; PO context 2dd6cf54fc9546b2b62c32670f54be7e",
+    "entry_index": 173,
+    "source_entry": "L00173",
+    "legacy_context": "2dd6cf54fc9546b2b62c32670f54be7e",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 173,
+    "pair_ids": [
+      "NS-000173"
+    ]
+  },
+  {
+    "id": "N-175",
+    "exact_tibetan": "ཁྱོ་རོ་རོ",
+    "category": "source reading",
+    "problem": "This expressive sequence is unclear; the reference generalizes it to body movement.",
+    "working_treatment": "Provisionally supply “sways about” in brackets, keeping the affected source unchanged.",
+    "uncertainty": "The exact manner of movement is unverified.",
+    "review_action": "Check an authoritative transcript or physical source for this expression.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 175; PO context 081230456078410b99105c4a0150e112",
+    "entry_index": 175,
+    "source_entry": "L00175",
+    "legacy_context": "081230456078410b99105c4a0150e112",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 175,
+    "pair_ids": [
+      "NS-000175"
+    ]
+  },
+  {
+    "id": "N-177-T",
+    "exact_tibetan": "བླ་མ་དང་རང་སེམས་སངས་རྒྱས་གསུམ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: བླ་མ → guru; སངས་རྒྱས → Buddha/buddhahood.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 177; PO context 382f2834dd33483fad757b166b2d14b3",
+    "entry_index": 177,
+    "source_entry": "L00177",
+    "legacy_context": "382f2834dd33483fad757b166b2d14b3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 177,
+    "pair_ids": [
+      "NS-000177"
+    ]
+  },
+  {
+    "id": "N-178",
+    "exact_tibetan": "རྣལ་འབྱོར་ལ",
+    "category": "syntax/reference",
+    "problem": "The source has rnal ’byor, without an explicit agentive pa; the human reference understands a yogin.",
+    "working_treatment": "Provisionally render the person practising yoga, “the yogin,” as recipient of the statement.",
+    "uncertainty": "The alternative is “in yoga that realizes them as one.”",
+    "review_action": "Confirm the quotation and its intended agent/abstract reading.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 178; PO context e62e5e945a164089a7119407679836cd",
+    "entry_index": 178,
+    "source_entry": "L00178",
+    "legacy_context": "e62e5e945a164089a7119407679836cd",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 178,
+    "pair_ids": [
+      "NS-000178"
+    ]
+  },
+  {
+    "id": "N-178-T",
+    "exact_tibetan": "ཅིག་ཏུ་རྟོགས་པའི་རྣལ་འབྱོར་ལ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: རྣལ་འབྱོར → yogin.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 178; PO context e62e5e945a164089a7119407679836cd",
+    "entry_index": 178,
+    "source_entry": "L00178",
+    "legacy_context": "e62e5e945a164089a7119407679836cd",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 178,
+    "pair_ids": [
+      "NS-000178"
+    ]
+  },
+  {
+    "id": "N-179",
+    "exact_tibetan": "བཅོས་མ་མོས་གུས",
+    "category": "terminology gap",
+    "problem": "The glossary fixes confident devotion and the contrivance family, but does not list bcos ma as a separate entry.",
+    "working_treatment": "Use “contrived confident devotion”; retain the established confident-devotion assignment.",
+    "uncertainty": "The local bcos ma rendering is proposed, not an approved new glossary mapping.",
+    "review_action": "Review bcos ma within the established contrivance family.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 179; PO context dda94c122b064f5ba521bc8a76c3252f",
+    "entry_index": 179,
+    "source_entry": "L00179",
+    "legacy_context": "dda94c122b064f5ba521bc8a76c3252f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 179,
+    "pair_ids": [
+      "NS-000179"
+    ]
+  },
+  {
+    "id": "N-181-T",
+    "exact_tibetan": "དེར་མ་ཟད་ཕྱག་འཚལ་ཚེ་ཡང་ཐལ་མོ་ཁོག་སྟོང་དུ་པདྨ་ཁ་འབུས་པ་ལྟ་བུར་སྦྱར་དགོས་ཀྱི། ཐལ་མོ་ལ་ནང་ཁོང་སྟོང་མེད་པར་ལག་མཐིལ་གཉིས་སྤྲད་དེ་བཅའ་བ་ནི་མུ་སྟེགས་པའི་ཕྱག་ཡིན།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: མུ་སྟེགས → tīrthika.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 181; PO context 935238279130474e979ec93d8fd130ac",
+    "entry_index": 181,
+    "source_entry": "L00181",
+    "legacy_context": "935238279130474e979ec93d8fd130ac",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 181,
+    "pair_ids": [
+      "NS-000181"
+    ]
+  },
+  {
+    "id": "N-183",
+    "exact_tibetan": "ཐར་པ་ཆེན་པོ་ཕྱོགས་སུ་རྒྱས་པའི་མདོ",
+    "category": "terminology gap",
+    "problem": "The cited title is not identified in the supplied source register; “ten” in the human title is absent here.",
+    "working_treatment": "Give a provisional close English title without adding ten.",
+    "uncertainty": "No bibliographic identification or physical citation check has been performed.",
+    "review_action": "Identify the cited sūtra before final publication.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 183; PO context 3908531c187c4cf295775348aa4b3172",
+    "entry_index": 183,
+    "source_entry": "L00183",
+    "legacy_context": "3908531c187c4cf295775348aa4b3172",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 183,
+    "pair_ids": [
+      "NS-000183"
+    ]
+  },
+  {
+    "id": "N-183-T",
+    "exact_tibetan": "ཐར་པ་ཆེན་པོ་ཕྱོགས་སུ་རྒྱས་པའི་མདོ་ལས།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཐར་པ → liberation.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 183; PO context 3908531c187c4cf295775348aa4b3172",
+    "entry_index": 183,
+    "source_entry": "L00183",
+    "legacy_context": "3908531c187c4cf295775348aa4b3172",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 183,
+    "pair_ids": [
+      "NS-000183"
+    ]
+  },
+  {
+    "id": "N-189-T",
+    "exact_tibetan": "དེ་ནས་རིམ་བཞིན་ཐལ་མོ་སྤྱི་བོར་སྦྱར་བས་ལུས་ཀྱི་སྒྲིབ་པ་འདག",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: སྒྲིབ་པ → obscuration.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 189; PO context d902acb34ae64f92aa95876bb9c796f3",
+    "entry_index": 189,
+    "source_entry": "L00189",
+    "legacy_context": "d902acb34ae64f92aa95876bb9c796f3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 189,
+    "pair_ids": [
+      "NS-000189"
+    ]
+  },
+  {
+    "id": "N-191",
+    "exact_tibetan": "སྙིང གར",
+    "category": "source reading",
+    "problem": "An ordinary space divides the location expression instead of a tsheg.",
+    "working_treatment": "Read as the heart location while preserving the literal source spacing.",
+    "uncertainty": "No separate lexical content is inferred from the space.",
+    "review_action": "Confirm the spelling in a physical or authoritative source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 191; PO context 4c863fbacc5b4c3881072d8b4363eb0f",
+    "entry_index": 191,
+    "source_entry": "L00191",
+    "legacy_context": "4c863fbacc5b4c3881072d8b4363eb0f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 191,
+    "pair_ids": [
+      "NS-000191"
+    ]
+  },
+  {
+    "id": "N-192",
+    "exact_tibetan": "ལུས་ཀྱི་མ་ལྔ",
+    "category": "source reading",
+    "problem": "The expression for the body’s five parts is defective or abbreviated; the following list explicitly counts forehead, two palms, and two knees.",
+    "working_treatment": "Supply “[parts]” from that list. Later ལྔ་པོས་ལ་ཕབ་ is read provisionally as lowering the five to the ground, following the sentence opening.",
+    "uncertainty": "The list supports the referents but not an exact Tibetan reconstruction.",
+    "review_action": "Check both the initial noun and the later ground-lowering phrase against a source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 192; PO context 279f6fa91cce4dc4a5dcd970ff4ab1a4",
+    "entry_index": 192,
+    "source_entry": "L00192",
+    "legacy_context": "279f6fa91cce4dc4a5dcd970ff4ab1a4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 192,
+    "pair_ids": [
+      "NS-000192"
+    ]
+  },
+  {
+    "id": "N-192-T",
+    "exact_tibetan": "དེ་ནས་ལུས་ཀྱི་མ་ལྔ་ས་ལ་ཕབ་པ་ཞེས་བྱ་བ། དཔྲལ་བ་དང་གཅིག ལག་མཐིལ་གཉིས། པུས་མོ་གཉིས་དང་ལྔ་པོས་ལ་ཕབ་སྟེ་ཕྱག་བྱས་པས། ཉོན་མོངས་པ་དུག་ལྔའི་སྒྲིབ་པ་འདག་པ་དང་།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཉོན་མོངས་པ → affliction; དུག་ལྔ → five poisons.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 192; PO context 279f6fa91cce4dc4a5dcd970ff4ab1a4",
+    "entry_index": 192,
+    "source_entry": "L00192",
+    "legacy_context": "279f6fa91cce4dc4a5dcd970ff4ab1a4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 192,
+    "pair_ids": [
+      "NS-000192"
+    ]
+  },
+  {
+    "id": "N-193",
+    "exact_tibetan": "སྐུ་གསུངས་ཐུགས་ཡོན་ཏན་ཕྲིན་ལས",
+    "category": "terminology gap",
+    "problem": "Standalone thugs and phrin las have no glossary assignments; the supplied spelling gsungs is interpreted nominally within the fivefold list.",
+    "working_treatment": "Retain canonical “embodiment”; provisionally use “awakened mind” for honorific thugs and “enlightened activity” for phrin las.",
+    "uncertainty": "These are local proposals, not replacements for ordinary mind, conceptual mind, or enlightened intent. Awakened is an interpretive qualification of the honorific term; the source has no separate adjective here.",
+    "review_action": "Approve the two lexical gaps and confirm gsungs in the source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 193; PO context a150db4969e544e4b8a5ff901b1edb4f",
+    "entry_index": 193,
+    "source_entry": "L00193",
+    "legacy_context": "a150db4969e544e4b8a5ff901b1edb4f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 193,
+    "pair_ids": [
+      "NS-000193"
+    ]
+  },
+  {
+    "id": "N-194",
+    "exact_tibetan": "ཡར་ལ་ངས་པའི",
+    "category": "source reading",
+    "problem": "The rising phrase is irregular; lang(s) rather than ngas is expected from context. The subsequent ཐལ་མོ་བཅས་ also leaves the hand-joining wording irregular.",
+    "working_treatment": "Bracket “[when rising]” and provisionally render joining the palms from the repeated prostration instructions.",
+    "uncertainty": "Neither wording is an authenticated emendation.",
+    "review_action": "Check the rising and palm-joining phrases against a source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 194; PO context 63cd4255228c47829c77437bad84cbcb",
+    "entry_index": 194,
+    "source_entry": "L00194",
+    "legacy_context": "63cd4255228c47829c77437bad84cbcb",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 194,
+    "pair_ids": [
+      "NS-000194"
+    ]
+  },
+  {
+    "id": "N-195-T",
+    "exact_tibetan": "གཉིས་པ། སྤང་བྱ་གསུམ་ནི། སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ནས་འཁོར་བའི་ལྷ་ལ་ཕྱག་མི་འཚལ་ཞེས་བྱ་སྟེ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: འཁོར་བ → samsara.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 195; PO context f5c8f19056304539b34a8134fc0ca235",
+    "entry_index": 195,
+    "source_entry": "L00195",
+    "legacy_context": "f5c8f19056304539b34a8134fc0ca235",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 195,
+    "pair_ids": [
+      "NS-000195a",
+      "NS-000195b"
+    ]
+  },
+  {
+    "id": "N-196",
+    "exact_tibetan": "དབང་ཕྱུགས",
+    "category": "source reading",
+    "problem": "The name/title has final s; the human reference identifies Śiva.",
+    "working_treatment": "Use the narrower attested title-name Īśvara provisionally.",
+    "uncertainty": "The source spelling and identification have not been externally verified.",
+    "review_action": "Confirm the title and preferred proper-name realization.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 196; PO context 5dfe7f14b3ad4c97aab860a1b0f8748c",
+    "entry_index": 196,
+    "source_entry": "L00196",
+    "legacy_context": "5dfe7f14b3ad4c97aab860a1b0f8748c",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 196,
+    "pair_ids": [
+      "NS-000196"
+    ]
+  },
+  {
+    "id": "N-197-T",
+    "exact_tibetan": "གཞན་ཡང་ཡུལ་ལྷ་གཞི་བདག་ལ་སོགས་པ་འཇིག་རྟེན་གྱི་ལྷ་འདྲེ་མཐུ་བོ་ཆེ་རྣམས་ལ་ཕྱི་མའི་སྐྱབས་གནས་སུ་བཟུང་ནས་ཕྱག་དང་མཆོད་པ་ལ་སོགས་མི་བྱ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཡུལ་ལྷ → local deity; གཞི་བདག → lord of a site.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 197; PO context de8b344010f34106b461cf7ba6bdbc1c",
+    "entry_index": 197,
+    "source_entry": "L00197",
+    "legacy_context": "de8b344010f34106b461cf7ba6bdbc1c",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 197,
+    "pair_ids": [
+      "NS-000197"
+    ]
+  },
+  {
+    "id": "N-198-T",
+    "exact_tibetan": "ཆོས་ལ་སྐྱབས་སུ་སོང་ནས་སེམས་ཅན་ལ་འཚེ་བ་སྤང་ཞེས་གསུངས་ཏེ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཆོས → Dharma; སེམས་ཅན → sentient being.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 198; PO context a945cf7518504989b9af1bab6b82edeb",
+    "entry_index": 198,
+    "source_entry": "L00198",
+    "legacy_context": "a945cf7518504989b9af1bab6b82edeb",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 198,
+    "pair_ids": [
+      "NS-000198"
+    ]
+  },
+  {
+    "id": "N-200",
+    "exact_tibetan": "དད་མི་འགྲོགས",
+    "category": "source reading",
+    "problem": "dad occurs where the construction appears to require the associative dang; entry 234 supplies a clear parallel with dang.",
+    "working_treatment": "Provisionally translate “do not associate with” on the strength of that internal parallel.",
+    "uncertainty": "The probable letter error is preserved in the Tibetan.",
+    "review_action": "Confirm dad/dang from a source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 200; PO context 8091ee91b2794f0b82a680d0704ebe14",
+    "entry_index": 200,
+    "source_entry": "L00200",
+    "legacy_context": "8091ee91b2794f0b82a680d0704ebe14",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 200,
+    "pair_ids": [
+      "NS-000200"
+    ]
+  },
+  {
+    "id": "N-200-T",
+    "exact_tibetan": "དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ནས་གྲོགས་མུ་སྟེགས་ཅན་དད་མི་འགྲོགས་ཏེ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: དགེ་འདུན → Sangha.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 200; PO context 8091ee91b2794f0b82a680d0704ebe14",
+    "entry_index": 200,
+    "source_entry": "L00200",
+    "legacy_context": "8091ee91b2794f0b82a680d0704ebe14",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 200,
+    "pair_ids": [
+      "NS-000200"
+    ]
+  },
+  {
+    "id": "N-201",
+    "exact_tibetan": "རད་གི",
+    "category": "source reading",
+    "problem": "The possessive phrase begins rad gi, which is unclear; rang gi would fit the context.",
+    "working_treatment": "Translate “[your own]” as a disclosed conjecture.",
+    "uncertainty": "The owner of the guru/Dharma is contextually inferred.",
+    "review_action": "Check rad/rang in a source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 201; PO context 9835178185c542e5847e4edf347b17c4",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 201,
+    "pair_ids": [
+      "NS-000201"
+    ]
+  },
+  {
+    "id": "N-201-T",
+    "exact_tibetan": "རད་གི་བླ་མ་དང་ཆོས་ལ་གཤེ་ཞིང་སྨོད་པ་དང་གསང་སྔགས་ཟབ་མོའི་ཆོས་ལ་སྐུར་འདེབས་བྱེད་པ་མུ་སྟེགས་དང་ཆ་འདྲ་བ་ལ་མི་འགྲོགས།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: གསང་སྔགས → Secret Mantra.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 201; PO context 9835178185c542e5847e4edf347b17c4",
+    "entry_index": 201,
+    "source_entry": "L00201",
+    "legacy_context": "9835178185c542e5847e4edf347b17c4",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 201,
+    "pair_ids": [
+      "NS-000201"
+    ]
+  },
+  {
+    "id": "N-203-T",
+    "exact_tibetan": "སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ནས་སངས་རྒྱས་དཀོན་མཆོག་གི་སྐུའི་རྟེན་ཆག་དུམ་ཡན་ཆད་གུས་པས་མཆོད།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: དཀོན་མཆོག → Jewel.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 203; PO context 1f99bdb231d944c5be7b1f96e1d1bef5",
+    "entry_index": 203,
+    "source_entry": "L00203",
+    "legacy_context": "1f99bdb231d944c5be7b1f96e1d1bef5",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 203,
+    "pair_ids": [
+      "NS-000203"
+    ]
+  },
+  {
+    "id": "N-205",
+    "exact_tibetan": "ངག་སྣང",
+    "category": "source reading",
+    "problem": "ngag snang literally suggests speech-appearance; entry 208 has dag snang in the parallel instruction.",
+    "working_treatment": "Provisionally translate “[pure appearance]” from the internal parallel, retaining canonical appearance.",
+    "uncertainty": "Probable ngag/dag error; no Tibetan emendation made.",
+    "review_action": "Confirm the source and approve the proposed dag snang compound.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 205; PO context 6e9cd94b851a481a89c2c80170ce20e3",
+    "entry_index": 205,
+    "source_entry": "L00205",
+    "legacy_context": "6e9cd94b851a481a89c2c80170ce20e3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 205,
+    "pair_ids": [
+      "NS-000205"
+    ]
+  },
+  {
+    "id": "N-206",
+    "exact_tibetan": "ཀ་ཁ་ན",
+    "category": "source reading",
+    "problem": "The sequence explicitly contains na after ka and kha. The human reference omits na.",
+    "working_treatment": "Retain all three supplied letters: ka, kha, and na.",
+    "uncertainty": "Whether na is a letter intended here or a textual error is unresolved.",
+    "review_action": "Verify the letter sequence; do not silently replace it with a conventional alphabet opening.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 206; PO context 789281cc576d4bd3969b3f98ea226795",
+    "entry_index": 206,
+    "source_entry": "L00206",
+    "legacy_context": "789281cc576d4bd3969b3f98ea226795",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 206,
+    "pair_ids": [
+      "NS-000206"
+    ]
+  },
+  {
+    "id": "N-207",
+    "exact_tibetan": "དགེ་འདུན་དཀོན་མཆོག་གོ་རྟེན",
+    "category": "source reading",
+    "problem": "go rten is irregular where a relation to representations is expected; entry 203 supplies the parallel skyu’i rten structure.",
+    "working_treatment": "Provisionally read representations of the Sangha Jewel; disclose “of cloth” as supplied from the patch context.",
+    "uncertainty": "The expected connective gi is conjectural; red/yellow is retained without narrowing to orange.",
+    "review_action": "Confirm go/gi and the patch description against a source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 207; PO context 43506ba53a87423194e4ef5660305231",
+    "entry_index": 207,
+    "source_entry": "L00207",
+    "legacy_context": "43506ba53a87423194e4ef5660305231",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 207,
+    "pair_ids": [
+      "NS-000207"
+    ]
+  },
+  {
+    "id": "N-208",
+    "exact_tibetan": "དག་སྣང",
+    "category": "terminology gap",
+    "problem": "The compound dag snang is absent from the glossary, whose snang assignment is appearance.",
+    "working_treatment": "Propose “pure appearance,” retaining the assigned component rather than using perception for snang.",
+    "uncertainty": "This does not activate a canonical compound entry.",
+    "review_action": "Review the compound and its distinction from ’du shes, perception.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 208; PO context 42c5eaf4f52640a78f4f443056c309a3",
+    "entry_index": 208,
+    "source_entry": "L00208",
+    "legacy_context": "42c5eaf4f52640a78f4f443056c309a3",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 208,
+    "pair_ids": [
+      "NS-000208"
+    ]
+  },
+  {
+    "id": "N-209",
+    "exact_tibetan": "བློ་གཏད་ཁྱེད་ཤེས",
+    "category": "contextual use",
+    "problem": "The phrase describes entrusting conceptual mind with the address “You know”; the human reference substitutes changeless awareness without source support.",
+    "working_treatment": "Preserve conceptual mind and render the direct appeal literally. Elsewhere in this entry, standalone thugs is provisionally “awakened mind” as in N-193, and ཕྱི་ཏོག་ is provisionally “[evening]” by contrast with morning.",
+    "uncertainty": "The lexicalized entrusting expression and final time expression need review.",
+    "review_action": "Confirm these source forms and approve the scoped entrusting construction.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 209; PO context 36d36cb68a07498bb9a04d8b86fa21e7",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 209,
+    "pair_ids": [
+      "NS-000209"
+    ]
+  },
+  {
+    "id": "N-209-T",
+    "exact_tibetan": "ཁྱད་པར་གསང་སྔགས་རྡོ་རྗེ་ཐེག་པ་འདིར་སྐྱབས་ཡུལ་གྱི་གཙོ་བོ་བླ་མ་ཡིན་པས། བླ་མའི་སྐུ་དགེ་འདུན། གསུང་དམ་ཆོས། ཐུགས་སངས་རྒྱས་ཏེ་དཀོན་མཆོག་ཀུན་འདུས་ཀྱི་ངོ་བོར་ཤེས་པར་བྱས་ནས། ཅི་མཛད་ལེགས་མཐོང་དང་། བློ་གཏད་ཁྱེད་ཤེས་ཀྱི་སྒོ་ནས་བསྟེན་ཞིང་རྟག་ཏུ་སྔ་དྲོ་ལན་གསུམ་མམ་བདུན། ཕྱི་ཏོག་ཡང་དེ་བཞིན་ཕྱག་འཚལ་སྐྱབས་འགྲོ་གསུང་དགོས།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: རྡོ་རྗེ་ཐེག་པ → Vajra Vehicle.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 209; PO context 36d36cb68a07498bb9a04d8b86fa21e7",
+    "entry_index": 209,
+    "source_entry": "L00209",
+    "legacy_context": "36d36cb68a07498bb9a04d8b86fa21e7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 209,
+    "pair_ids": [
+      "NS-000209"
+    ]
+  },
+  {
+    "id": "N-214-T",
+    "exact_tibetan": "དཔའ་བོ་མཁའ་འགྲོ་ཆོས་སྐྱོང་སྲུང་མའི་ཚོགས་ཡེ་ཤེས་ཀྱི་སྤྱན་དང་ལྡན་པ་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: དཔའ་བོ → hero; མཁའ་འགྲོ → ḍākinī; ཆོས་སྐྱོང → Dharma protector; སྲུང་མ → guardian.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 214; PO context 1f42d26d6f584b4ba0aed9ab70cd2393",
+    "entry_index": 214,
+    "source_entry": "L00214",
+    "legacy_context": "1f42d26d6f584b4ba0aed9ab70cd2393",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 214,
+    "pair_ids": [
+      "NS-000214"
+    ]
+  },
+  {
+    "id": "N-216-T",
+    "exact_tibetan": "བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆིའོ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: བྱང་ཆུབ → awakening.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 216; PO context 8f0c9c1574c243e393a2ade72f2c92ad",
+    "entry_index": 216,
+    "source_entry": "L00216",
+    "legacy_context": "8f0c9c1574c243e393a2ade72f2c92ad",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 216,
+    "pair_ids": [
+      "NS-000216"
+    ]
+  },
+  {
+    "id": "N-217-T",
+    "exact_tibetan": "བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: བསོད་ནམས → merit.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 217; PO context 55f11454aaa0499992775010400bc958",
+    "entry_index": 217,
+    "source_entry": "L00217",
+    "legacy_context": "55f11454aaa0499992775010400bc958",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 217,
+    "pair_ids": [
+      "NS-000217"
+    ]
+  },
+  {
+    "id": "N-219",
+    "exact_tibetan": "སྐྱབས་འགྲོ་བཞི་སྐོར",
+    "category": "scope",
+    "problem": "The preceding passage has five invocations followed by four verse lines; the author calls these a fourfold cycle without explicitly allocating its four groups.",
+    "working_treatment": "Retain the stated fourfold designation without imposing a corrected count. Render yi dam du bya provisionally as making a regular commitment, not going for refuge to a meditation deity.",
+    "uncertainty": "The intended fourfold grouping and yi dam usage remain open.",
+    "review_action": "Establish the liturgical grouping and approve the local yi dam construction.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 219; PO context a116dcb976d840f79018a6a0e170b361",
+    "entry_index": 219,
+    "source_entry": "L00219",
+    "legacy_context": "a116dcb976d840f79018a6a0e170b361",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 219,
+    "pair_ids": [
+      "NS-000219"
+    ]
+  },
+  {
+    "id": "N-220",
+    "exact_tibetan": "ཆ་མཐུན་གསུམ",
+    "category": "interpretive supply",
+    "problem": "The heading omits the noun trainings, supplied in the overview at entry 168.",
+    "working_treatment": "Bracket “[trainings]”; provisionally render cha mthun as corresponding.",
+    "uncertainty": "The reference is supported internally; the technical section label remains proposed.",
+    "review_action": "Confirm the section-label realization with entries 168 and 221–223.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 220; PO context 5c7482af660f4c0caa258f086eed148d",
+    "entry_index": 220,
+    "source_entry": "L00220",
+    "legacy_context": "5c7482af660f4c0caa258f086eed148d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 220,
+    "pair_ids": [
+      "NS-000220"
+    ]
+  },
+  {
+    "id": "N-221",
+    "exact_tibetan": "སངས་རྒྱས་དཀོམ་མཆོག་དདོས",
+    "category": "source reading",
+    "problem": "dkom and ddos are irregular beside repeated dkon mchog dngos in entries 205, 207, 222, and 223. A doubled tsheg also occurs in mi ’gong.",
+    "working_treatment": "Provisionally read “actual Buddha Jewel” from those parallels; preserve all source spellings and doubled tshegs.",
+    "uncertainty": "The intended phrase is strongly supported internally but not verified against a physical source.",
+    "review_action": "Confirm dkom/dkon and ddos/dngos; retain the current source until then.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 221; PO context 1dce373525744b94917e69c5063349c6",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 221,
+    "pair_ids": [
+      "NS-000221"
+    ]
+  },
+  {
+    "id": "N-221-T",
+    "exact_tibetan": "ད་ལྟ་རང་ལ་བླང་དོར་གྱི་གནས་སྟོན་པའི་བླ་མ་དགེ་བའི་བཤེས་གཉེན་ལ། སངས་རྒྱས་དཀོམ་མཆོག་དདོས་ཀྱི་འདུ་ཤེས་བཞག་ནས་ཐ་ན་སྐུའི་གྲིབ་མ་ཙམ་ལ་ཡང་མི་འགོང་་བར་ཞབས་ཏོག་དང་བསྙེན་བཀུར་ལ་འབད།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: དགེ་བའི་བཤེས་གཉེན → spiritual friend; དགེ་བ → virtue.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 221; PO context 1dce373525744b94917e69c5063349c6",
+    "entry_index": 221,
+    "source_entry": "L00221",
+    "legacy_context": "1dce373525744b94917e69c5063349c6",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 221,
+    "pair_ids": [
+      "NS-000221"
+    ]
+  },
+  {
+    "id": "N-223",
+    "exact_tibetan": "ཚངས་པར་མཚུངས་པར་སྤྱོད་པ",
+    "category": "contextual use",
+    "problem": "The construction denotes shared activity in a pure life; the human reference instead identifies conduct resembling brahmins.",
+    "working_treatment": "Propose “share activity in the pure life,” preserving the glossary’s activity component without asserting brahmin identity.",
+    "uncertainty": "The precise scope of pure life, including possible celibate observance, is not settled here.",
+    "review_action": "Review the whole expression and its scope; do not turn it into a caste reference.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 223; PO context 1f836e5302a74c7ca7ec5dea4139f715",
+    "entry_index": 223,
+    "source_entry": "L00223",
+    "legacy_context": "1f836e5302a74c7ca7ec5dea4139f715",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 223,
+    "pair_ids": [
+      "NS-000223"
+    ]
+  },
+  {
+    "id": "N-224",
+    "exact_tibetan": "སྐྱབས་འགྲོ་་་་བཤད་པས",
+    "category": "source reading",
+    "problem": "Four consecutive tshegs are present in the supplied transcript before bshad pas.",
+    "working_treatment": "Translate the adjacent words without supplying hypothetical missing content; preserve the tshegs in Tibetan.",
+    "uncertainty": "The repeated punctuation is not evidence that a particular word is missing.",
+    "review_action": "Check whether the marks denote spacing, omission, or transcription noise.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 224; PO context 47b4c44a9de849f584a77568089a93dc",
+    "entry_index": 224,
+    "source_entry": "L00224",
+    "legacy_context": "47b4c44a9de849f584a77568089a93dc",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 224,
+    "pair_ids": [
+      "NS-000224"
+    ]
+  },
+  {
+    "id": "N-225",
+    "exact_tibetan": "ཉམས་སུ་བླང",
+    "category": "contextual use",
+    "problem": "The full construction means putting the preceding trainings into practice; the standalone glossary headword nyams is experience.",
+    "working_treatment": "Provisionally render the whole expression as “put into practice,” without treating this as a new equivalent for standalone experience.",
+    "uncertainty": "No approved whole-expression entry is supplied.",
+    "review_action": "Review and approve this scoped construction.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 225; PO context 35b5ee20a8dc4596a6c2a2d292f3bc46",
+    "entry_index": 225,
+    "source_entry": "L00225",
+    "legacy_context": "35b5ee20a8dc4596a6c2a2d292f3bc46",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 225,
+    "pair_ids": [
+      "NS-000225"
+    ]
+  },
+  {
+    "id": "N-228-T",
+    "exact_tibetan": "དེ་ནི་ཡང་དག་དགེ་བསྙེན་ཏེ།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: དགེ་བསྙེན → lay devotee.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 228; PO context feeeb2a8acd042adbb99c9806f7d03ab",
+    "entry_index": 228,
+    "source_entry": "L00228",
+    "legacy_context": "feeeb2a8acd042adbb99c9806f7d03ab",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 228,
+    "pair_ids": [
+      "NS-000228"
+    ]
+  },
+  {
+    "id": "N-233",
+    "exact_tibetan": "དགེ་འདུན་་སྐྱབས",
+    "category": "source reading",
+    "problem": "The source has a doubled tsheg at this boundary.",
+    "working_treatment": "Translate the continuous expression without adding an unrecorded Tibetan particle.",
+    "uncertainty": "No missing lexical material is established by the repeated mark.",
+    "review_action": "Check the punctuation when a physical source becomes available.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 233; PO context 39aa25ccf45146c2989c6082f584db57",
+    "entry_index": 233,
+    "source_entry": "L00233",
+    "legacy_context": "39aa25ccf45146c2989c6082f584db57",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 233,
+    "pair_ids": [
+      "NS-000233"
+    ]
+  },
+  {
+    "id": "N-238-T",
+    "exact_tibetan": "མི་དགེ་བའི་ཚོགས་ལས་རིང་དུ་བྱེད་པ་དང་།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: མི་དགེ་བ → nonvirtue.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 238; PO context b739e88e4a6842f390bf623786a7ce9c",
+    "entry_index": 238,
+    "source_entry": "L00238",
+    "legacy_context": "b739e88e4a6842f390bf623786a7ce9c",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 238,
+    "pair_ids": [
+      "NS-000238"
+    ]
+  },
+  {
+    "id": "N-240",
+    "exact_tibetan": "རྟེན་གཞིར",
+    "category": "contextual use",
+    "problem": "The glossary assigns The Ground to gzhi, but this occurrence is the compound rten gzhi in the relationship to vows.",
+    "working_treatment": "Provisionally translate the compound as “basis,” without imposing an ontological Ground claim.",
+    "uncertainty": "The compound lacks an approved whole-expression entry.",
+    "review_action": "Approve or revise this scoped compound rendering; preserve the standalone glossary entry.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 240; PO context ef4f4f3ac336498da6c36d80f9b6debe",
+    "entry_index": 240,
+    "source_entry": "L00240",
+    "legacy_context": "ef4f4f3ac336498da6c36d80f9b6debe",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 240,
+    "pair_ids": [
+      "NS-000240"
+    ]
+  },
+  {
+    "id": "N-240-T",
+    "exact_tibetan": "སྡོམ་པ་ཀུན་གྱི་རྟེན་གཞིར་འགྱུར་ཞིང་། ཡོན་ཏན་ཐམས་ཅད་ཀྱི་འབྱུང་གནས་སུ་འགྱུར་བ་དང་།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: སྡོམ་པ → vow.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 240; PO context ef4f4f3ac336498da6c36d80f9b6debe",
+    "entry_index": 240,
+    "source_entry": "L00240",
+    "legacy_context": "ef4f4f3ac336498da6c36d80f9b6debe",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 240,
+    "pair_ids": [
+      "NS-000240"
+    ]
+  },
+  {
+    "id": "N-241",
+    "exact_tibetan": "བསམ་དོན",
+    "category": "contextual use",
+    "problem": "The glossary assigns meaning to don; here the compound denotes what one intends to accomplish.",
+    "working_treatment": "Provisionally use “intended aims,” making no change to standalone don.",
+    "uncertainty": "No approved whole-expression entry is supplied.",
+    "review_action": "Review the construction and proposed compound.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 241; PO context 720063733ebb4ef39b53b9869f3c023f",
+    "entry_index": 241,
+    "source_entry": "L00241",
+    "legacy_context": "720063733ebb4ef39b53b9869f3c023f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 241,
+    "pair_ids": [
+      "NS-000241"
+    ]
+  },
+  {
+    "id": "N-242",
+    "exact_tibetan": "མཐར་ཐུགས",
+    "category": "source reading",
+    "problem": "The final s is irregular for the adverbial mthar thug, and the phrase is not an instance of standalone honorific thugs.",
+    "working_treatment": "Provisionally translate “ultimately” and preserve the source spelling.",
+    "uncertainty": "Probable orthographic error, not an authenticated correction.",
+    "review_action": "Check the terminal s against the source.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 242; PO context a03604d584b6456194d9d32e30c42c84",
+    "entry_index": 242,
+    "source_entry": "L00242",
+    "legacy_context": "a03604d584b6456194d9d32e30c42c84",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 242,
+    "pair_ids": [
+      "NS-000242"
+    ]
+  },
+  {
+    "id": "N-243",
+    "exact_tibetan": "ཕར་ཕྱིན་བསྡུས་པ",
+    "category": "terminology gap",
+    "problem": "The title abbreviates the perfection and does not spell out discerning knowing; the human reference identifies Prajñāpāramitā.",
+    "working_treatment": "Propose “Condensed Perfection [of Discerning Knowing]” with the expansion visibly bracketed, retaining the glossary’s full assignment.",
+    "uncertainty": "Exact work and recension are not verified.",
+    "review_action": "Identify the citation and confirm the expanded title.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 243; PO context 159bc4a0481445df91bbb03588ccc67d",
+    "entry_index": 243,
+    "source_entry": "L00243",
+    "legacy_context": "159bc4a0481445df91bbb03588ccc67d",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 243,
+    "pair_ids": [
+      "NS-000243"
+    ]
+  },
+  {
+    "id": "N-245-T",
+    "exact_tibetan": "ཁམས་གསུམ་འདི་ཡང་སྣོད་དུ་ཆུང་།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཁམས་གསུམ → three realms.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 245; PO context 181e911a42804fd0b212ff4a6739a741",
+    "entry_index": 245,
+    "source_entry": "L00245",
+    "legacy_context": "181e911a42804fd0b212ff4a6739a741",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 245,
+    "pair_ids": [
+      "NS-000245"
+    ]
+  },
+  {
+    "id": "N-250",
+    "exact_tibetan": "མཚམས་མེད་པའི་ལས་གསུམ",
+    "category": "terminology gap",
+    "problem": "The immediate-retribution class of deeds is absent from the glossary. The text does not enumerate which three were done here.",
+    "working_treatment": "Propose “three deeds of immediate retribution”; do not supply their identities. The subsequent speech is supplied in brackets because entry 252 explicitly reports his saying it.",
+    "uncertainty": "The technical equivalent remains proposed.",
+    "review_action": "Approve the term and retain the source’s unenumerated three.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 250; PO context ba72ae6c4e4d4b1192bd4ec6ed682919",
+    "entry_index": 250,
+    "source_entry": "L00250",
+    "legacy_context": "ba72ae6c4e4d4b1192bd4ec6ed682919",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 250,
+    "pair_ids": [
+      "NS-000250"
+    ]
+  },
+  {
+    "id": "N-250-T",
+    "exact_tibetan": "ལྷས་སྦྱིན་མཚམས་མེད་པའི་ལས་གསུམ་བྱས་པས་གསོན་བཞིན་དུ་དམྱལ་བའི་མེས་སྲེག་པའི་ཚེ་སངས་རྒྱས་ཀྱི་གསུངས་ལ་ཡིད་ཆེས་ནས།",
+    "category": "terminology gap",
+    "problem": "The complete glossary was searched; these technical expressions have no applicable approved entries: ཡིད་ཆེས → trust.",
+    "working_treatment": "Use the listed local proposals; repeated occurrences are linked through usage records.",
+    "uncertainty": "None of these proposals changes the canonical glossary or constitutes owner approval.",
+    "review_action": "Review the proposed terms, whole-expression boundaries, and English collisions.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 250; PO context ba72ae6c4e4d4b1192bd4ec6ed682919",
+    "entry_index": 250,
+    "source_entry": "L00250",
+    "legacy_context": "ba72ae6c4e4d4b1192bd4ec6ed682919",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 250,
+    "pair_ids": [
+      "NS-000250"
+    ]
+  },
+  {
+    "id": "N-252",
+    "exact_tibetan": "རང་སངས་རྒྱས་རུས་པ་ཅན་བྱ་བར་འགྱུར",
+    "category": "terminology gap",
+    "problem": "The source predicts a solitary buddha called rus pa can; the reference changes the name to Devadatta and changes the future to a past event. The complete rang sangs rgyas expression is not the glossary headword rang sangs, self-purified.",
+    "working_treatment": "Retain the future; render the name transparently as “Possessing Bones”; propose “solitary buddha” for the full expression.",
+    "uncertainty": "The proper-name equivalent and compound remain provisional; no external identification is asserted.",
+    "review_action": "Approve the full expression and name, keeping their distinction from self-purified.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 252; PO context 216400efb85c4ef98478fef841b4f91f",
+    "entry_index": 252,
+    "source_entry": "L00252",
+    "legacy_context": "216400efb85c4ef98478fef841b4f91f",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 252,
+    "pair_ids": [
+      "NS-000252"
+    ]
+  },
+  {
+    "id": "N-255",
+    "exact_tibetan": "བསླབ་གསུམ",
+    "category": "terminology gap",
+    "problem": "The text names but does not enumerate the three trainings.",
+    "working_treatment": "Retain “three trainings” without adding a doctrinal list.",
+    "uncertainty": "The technical equivalent is proposed, not present in the supplied glossary.",
+    "review_action": "Approve the term without expanding the source’s enumeration.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 255; PO context 1c4cdf43314143499a6e7909eed356a1",
+    "entry_index": 255,
+    "source_entry": "L00255",
+    "legacy_context": "1c4cdf43314143499a6e7909eed356a1",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 255,
+    "pair_ids": [
+      "NS-000255"
+    ]
+  },
+  {
+    "id": "N-258",
+    "exact_tibetan": "ཆོ་འཕྲུལ་ཟླ་བ",
+    "category": "terminology gap",
+    "problem": "The month name contains the established magical display assignment; the reference substitutes Miracle month. Proper-name romanizations and the modern/lunar date correspondence are not authenticated.",
+    "working_treatment": "Retain “Month of Magical Display”; provisionally follow the reference’s Phyang, Leh, Tendrel Ling, and Toktrul Thubten Tenpe Gyaltsen identifications. Translate lha rdzas as ceremonial fabric; retain Maṅgalaṃ (“auspiciousness”). The doubled tsheg after gzim shag is preserved in Tibetan.",
+    "uncertainty": "The calendar date, name identifications, and exact nature of the fabric remain unverified.",
+    "review_action": "Check the colophon against a source, confirm names and date, and approve the ceremonial-fabric rendering.",
+    "source_location": "legacy c0a66002a0d51183ac5856ca6dbe4d03ab808d9d, root/001_v2.txt line 258; PO context 7e6d976ff65a4e02b7d40ec8190653b7",
+    "entry_index": 258,
+    "source_entry": "L00258",
+    "legacy_context": "7e6d976ff65a4e02b7d40ec8190653b7",
+    "source_version": "ns-provisional-source-v1",
+    "source_path": "root/001_v2.txt",
+    "source_line": 258,
+    "pair_ids": [
+      "NS-000258"
+    ]
+  }
+]

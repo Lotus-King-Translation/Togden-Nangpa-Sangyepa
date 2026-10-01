@@ -1,0 +1,37 @@
+{
+  "scope": "provisional-whole-work-draft",
+  "status": "coordinator-reviewed-for-provisional-publication",
+  "date": "2026-10-01",
+  "repository": "Lotus-King-Translation/Togden-Nangpa-Sangyepa",
+  "template_repository": "Lotus-King-Translation/tibetan-text-project-template",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "generated_template_initial_commit": "eb882bdc88bcb11931f401a230c3ed3181f33709",
+  "candidate_source_commit": "dcfefa11d85a5d9b2176f5c28a6b81aaeb9525c0",
+  "source_edition": "ns-provisional-source-v1",
+  "translation_edition": "ns-english-draft-v1",
+  "paired_release_tag": "v0.1.0-provisional",
+  "canonical_sha256": {
+    "paired/source.md": "157bae5d455453cb6daeb18244531aefdd774bc743f26f9829ae9b9a118ace3f",
+    "paired/translation.md": "3262a608cb24fbddb342527149c828dd1d01d74791f033f296783b1e6a59e698",
+    "translations/notes.json": "442d317369a54e2c525be94eb8b2e2e7134d6ab050623cdaf12a5d609350644e",
+    "translations/usage.json": "1d236fe0f89ae75967238d1a192aca4d110497be9177bb7f056b48e8a6c67835"
+  },
+  "entries": 258,
+  "pairs": 280,
+  "source_emendations": 0,
+  "missing_pairs": 0,
+  "notes": 144,
+  "open_review_notes": 144,
+  "proposed_glossary_rows": 139,
+  "source_line_comparisons": 258,
+  "negative_tests_rejected": 15,
+  "source_predicate_unresolved": [
+    "NS-000150b"
+  ],
+  "golden_phase": "waived-by-user",
+  "independent_qc": false,
+  "human_final_approval": false,
+  "approval_scope": "User authorized creation/publication of this separate project and provisional translation; not individual unresolved readings or glossary proposals.",
+  "final_mode": "The validator has no separate signed final-mode switch. Run the same full preservation validator at publication; hashes in this signoff pin the reviewed canonical content.",
+  "next_gate": "Verify remote commit and annotated tag; record publication receipt after tag."
+}
