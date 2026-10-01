@@ -38,9 +38,16 @@ The user explicitly selected a separate repository:
 https://github.com/Lotus-King-Translation/Togden-Nangpa-Sangyepa
 
 This repository was generated from the organization template and populated with
-the prepared draft. The source work identity and pair IDs remain unchanged.
-Provisional release target: v0.1.0-provisional.
+the prepared draft. Source work identity and pair IDs remain unchanged.
 
-Next finite task: verify the published commit and annotated tag, then commit the
-publication receipt. Preserve source lineage and all review flags. Further
-semantic QC/human editing is a separate phase; it has not started.
+- Published paired version: v0.1.0-provisional.
+- Published source and English tags: ns-provisional-source-v1 and ns-english-draft-v1.
+- All three annotated tag objects and peeled commits verified remotely.
+- Fixed release commit: b5fe195e9c52209a345f9650ad5d6a981afeaf61.
+- Post-tag publication receipt: releases/v0.1.0-provisional.receipt.json.
+- Receipt checkpoint verifies remote main and clean working tree without moving tags.
+
+The repository-creation/publication task is complete after the receipt checkpoint.
+A subsequent independent semantic QC/human-editing phase would cover all 280
+pairs and the 144 recorded review notes; it has not started. Preserve all source
+lineage, fixed tags, and pair IDs in any revision.

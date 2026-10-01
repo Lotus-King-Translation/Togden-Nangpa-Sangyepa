@@ -2,7 +2,7 @@
 
 - Repository: Lotus-King-Translation/Togden-Nangpa-Sangyepa.
 - Work: Nangpa-Sangyepa; code NS; complete single-work scope, legacy entries 1–258.
-- Phase: annotated provisional English working draft complete; publication verification in progress.
+- Phase: annotated provisional English working draft published; bounded repository-creation task complete.
 - User expressly waived golden edition. Governing source is an electronic transcript, not an authenticated physical witness.
 - Legacy source/reference commit: c0a66002a0d51183ac5856ca6dbe4d03ab808d9d.
 - Template commit: f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f.
@@ -28,6 +28,7 @@
 - The 144 review notes remain open for source/terminology/human editorial review; they are not claimed resolved by structural tests.
 - Full scan proofreading: false. Exhaustive witness collation: false. Independent translation QC: false.
 - Deliverables prepared: source register, normalization, canonical pair files, annotations, usage/proposal records, coverage, bilingual view, validation, handoff.
-- Golden release: none. Provisional release target: v0.1.0-provisional in Lotus-King-Translation/Togden-Nangpa-Sangyepa.
-- Next finite task: publish this complete draft, verify remote commit/tag, and commit the publication receipt.
+- Golden release: none. Published provisional release: v0.1.0-provisional at b5fe195e9c52209a345f9650ad5d6a981afeaf61.
+- Annotated source, English, and paired tags: remote objects and peeled commits verified. Receipt: translations/releases/v0.1.0-provisional.receipt.json.
+- Remaining repository-creation/publication work: none after the receipt checkpoint. Optional next phase: independent translation QC and human editing of all 280 pairs and 144 review notes; not started.
 - No next chapter, golden phase, or independent-QC phase has started.

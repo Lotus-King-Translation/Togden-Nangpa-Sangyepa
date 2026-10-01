@@ -1,0 +1,53 @@
+{
+  "repository": "https://github.com/Lotus-King-Translation/Togden-Nangpa-Sangyepa",
+  "date": "2026-10-01",
+  "release": "v0.1.0-provisional",
+  "release_commit": "b5fe195e9c52209a345f9650ad5d6a981afeaf61",
+  "tags": {
+    "ns-provisional-source-v1": {
+      "tag_object": "cf5feba78575a5369cc1a2e313f96812e5e94573",
+      "peeled_commit": "b5fe195e9c52209a345f9650ad5d6a981afeaf61",
+      "remote_verified": true
+    },
+    "ns-english-draft-v1": {
+      "tag_object": "2038b484dc533a2dea565da5381295bbec68aa02",
+      "peeled_commit": "b5fe195e9c52209a345f9650ad5d6a981afeaf61",
+      "remote_verified": true
+    },
+    "v0.1.0-provisional": {
+      "tag_object": "31aff85bc340fbb071073a41d0ab9e357772ea3b",
+      "peeled_commit": "b5fe195e9c52209a345f9650ad5d6a981afeaf61",
+      "remote_verified": true
+    }
+  },
+  "release_main_commit_verified": "b5fe195e9c52209a345f9650ad5d6a981afeaf61",
+  "template_repository": "https://github.com/Lotus-King-Translation/tibetan-text-project-template",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "source_repository": "https://github.com/Lotus-King-Translation/Nangpa-Sangyepa",
+  "source_commit": "c0a66002a0d51183ac5856ca6dbe4d03ab808d9d",
+  "source_edition": "ns-provisional-source-v1",
+  "translation_edition": "ns-english-draft-v1",
+  "canonical_sha256": {
+    "paired/source.md": "157bae5d455453cb6daeb18244531aefdd774bc743f26f9829ae9b9a118ace3f",
+    "paired/translation.md": "3262a608cb24fbddb342527149c828dd1d01d74791f033f296783b1e6a59e698",
+    "translations/notes.json": "442d317369a54e2c525be94eb8b2e2e7134d6ab050623cdaf12a5d609350644e",
+    "translations/usage.json": "1d236fe0f89ae75967238d1a192aca4d110497be9177bb7f056b48e8a6c67835"
+  },
+  "complete_original_entries": 258,
+  "complete_paired_units": 280,
+  "missing_pairs": 0,
+  "exact_source_line_checks": 258,
+  "source_emendations": 0,
+  "negative_tests_rejected": 15,
+  "reproducible_generated_files": 6,
+  "open_review_notes": 144,
+  "proposed_glossary_rows": 139,
+  "explicit_unresolved_predicate": [
+    "NS-000150b"
+  ],
+  "independent_translation_qc": false,
+  "human_final_approval": false,
+  "golden_phase": "explicitly waived by user",
+  "receipt_placement": "This receipt is committed after the fixed release tags; it must not move them.",
+  "main_verification_method": "scripts/checkpoint.py verifies the post-tag receipt commit against origin/main and a clean working tree."
+}

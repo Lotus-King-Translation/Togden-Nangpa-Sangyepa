@@ -22,6 +22,8 @@ The previous human English translation is preserved as reference; the new draft
 is governed by the Tibetan and the template glossary. Uncertain readings and
 proposed terminology remain visible for human editing.
 
+Version [v0.1.0-provisional](https://github.com/Lotus-King-Translation/Togden-Nangpa-Sangyepa/tree/v0.1.0-provisional) freezes this working draft. See the [publication receipt](translations/releases/v0.1.0-provisional.receipt.json).
+
 ## Provenance and standards
 
 - [Source register](editions/REGISTER.csv) and [normalization method](source/README.md)
